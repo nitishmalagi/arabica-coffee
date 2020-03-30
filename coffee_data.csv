@@ -1,0 +1,1312 @@
+Country,Number_of_Bags,Harvest_Year,Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Uniformity,Clean_Cup,Sweetness,Cupper_Points,Total_Cup_Points,Moisture,Category_One_Defects,Quakers,Color,Category_Two_Defects,altitude_low_meters,altitude_high_meters,altitude_mean_meters,Bag Weight,Colors,quality_score,Variety,Processing Method
+ethiopia,300,2014,8.67,8.83,8.67,8.75,8.5,8.42,10,10,10,8.75,90.58,0.12,0,0,green,0,1950,2200,2075,60,green,90.58,,Washed / Wet
+ethiopia,300,2014,8.75,8.67,8.5,8.58,8.42,8.42,10,10,10,8.58,89.92,0.12,0,0,green,1,1950,2200,2075,60,green,89.92,Other,Washed / Wet
+guatemala,5,others,8.42,8.5,8.42,8.42,8.33,8.42,10,10,10,9.25,89.75,0,0,0,others,0,1600,1800,1700,1,bluish-green,89.75,Bourbon,Other
+ethiopia,320,2014,8.17,8.58,8.42,8.42,8.5,8.25,10,10,10,8.67,89,0.11,0,0,green,2,1800,2200,2000,60,green,89,,Natural / Dry
+ethiopia,300,2014,8.25,8.5,8.25,8.5,8.42,8.33,10,10,10,8.58,88.83,0.12,0,0,green,2,1950,2200,2075,60,green,88.83,Other,Washed / Wet
+brazil,100,2013,8.58,8.42,8.42,8.5,8.25,8.33,10,10,10,8.33,88.83,0.11,0,0,bluish-green,1,others,others,others,30,bluish-green,88.83,,Natural / Dry
+peru,100,2012,8.42,8.5,8.33,8.5,8.25,8.25,10,10,10,8.5,88.75,0.11,0,0,bluish-green,0,others,others,others,69,bluish-green,88.75,Other,Washed / Wet
+ethiopia,300,2010,8.25,8.33,8.5,8.42,8.33,8.5,10,10,9.33,9,88.67,0.03,0,0,others,0,1570,1700,1635,60,bluish-green,88.67,,Other
+ethiopia,300,2010,8.67,8.67,8.58,8.42,8.33,8.42,9.33,10,9.33,8.67,88.42,0.03,0,0,others,0,1570,1700,1635,60,bluish-green,88.42,,Other
+ethiopia,50,2014,8.08,8.58,8.5,8.5,7.67,8.42,10,10,10,8.5,88.25,0.1,0,0,green,4,1795,1850,1822.5,60,green,88.25,Other,Natural / Dry
+ethiopia,300,2014,8.17,8.67,8.25,8.5,7.75,8.17,10,10,10,8.58,88.08,0.1,0,0,others,1,1855,1955,1905,60,bluish-green,88.08,,Natural / Dry
+united states,10,2014,8.25,8.42,8.17,8.33,8.08,8.17,10,10,10,8.5,87.92,0,0,0,others,0,1872,1872,1872,1,bluish-green,87.92,Other,Washed / Wet
+united states,10,2014,8.08,8.67,8.33,8.42,8,8.08,10,10,10,8.33,87.92,0,0,0,others,0,1943,1943,1943,1,bluish-green,87.92,Other,Washed / Wet
+united states (hawaii),1,2010,8.33,8.42,8.08,8.25,8.25,8,10,10,10,8.58,87.92,0,0,0,others,2,609.6,609.6,609.6,1,bluish-green,87.92,,Other
+ethiopia,300,2010,8.25,8.33,8.5,8.25,8.58,8.75,9.33,10,9.33,8.5,87.83,0.05,0,0,others,2,1570,1700,1635,60,bluish-green,87.83,,Other
+united states,10,2014,8,8.5,8.58,8.17,8.17,8,10,10,10,8.17,87.58,0,0,0,others,0,2080,2080,2080,1,bluish-green,87.58,Other,Washed / Wet
+indonesia,1,2010,8.33,8.25,7.83,7.75,8.5,8.42,10,10,10,8.33,87.42,0.03,0,0,others,0,1200,1800,1500,2,bluish-green,87.42,,Other
+ethiopia,150,2009,8.17,8.33,8.25,8.33,8.42,8.33,9.33,10,9.33,8.83,87.33,0.05,0,0,others,2,others,others,others,6,bluish-green,87.33,,Other
+china,3,2015,8.42,8.25,8.08,8.17,7.92,8,10,10,10,8.42,87.25,0.1,0,0,green,0,1450,1450,1450,60,green,87.25,Catimor,Washed / Wet
+ethiopia,250,2014,8.17,8.17,8,8.17,8.08,8.33,10,10,10,8.33,87.25,0,0,0,others,8,1700,2000,1850,60,bluish-green,87.25,Ethiopian Yirgacheffe,Natural / Dry
+united states,10,2014,8,8.25,8.08,8.5,8.25,8,10,10,10,8.17,87.25,0,0,0,others,0,2019,2019,2019,1,bluish-green,87.25,Other,Washed / Wet
+costa rica,250,2014,8.08,8.25,8,8.17,8,8.33,10,10,10,8.33,87.17,0.11,0,0,green,2,1300,1300,1300,3,green,87.17,Caturra,Washed / Wet
+mexico,14,2012,8.17,8.25,8.17,8,7.83,8.17,10,10,10,8.58,87.17,0.13,0,0,green,0,1320,1320,1320,1,green,87.17,Other,Washed / Wet
+united states,10,2014,8.25,8.33,8.17,8.17,7.83,8.17,10,10,10,8.17,87.08,0,0,0,others,0,2112,2112,2112,1,bluish-green,87.08,Other,Washed / Wet
+ethiopia,100,2013,8.42,8.17,7.92,8.17,8.33,8,10,10,10,8.08,87.08,0.11,0,0,bluish-green,1,others,others,others,60,bluish-green,87.08,,Natural / Dry
+brazil,3,2011,8.5,8.5,8,8,8,8,10,10,10,7.92,86.92,0.12,0,0,green,2,1250,1250,1250,60,green,86.92,Bourbon,Natural / Dry
+ethiopia,150,2009,7.83,8.25,8.08,8.17,8.17,8.17,10,10,10,8.25,86.92,0.05,0,0,others,2,others,others,others,6,bluish-green,86.92,,Other
+uganda,100,2013,8.42,8.17,8.17,8.17,7.83,7.92,10,10,10,8.17,86.83,0.12,0,0,green,1,1950,1950,1950,60,green,86.83,SL14,Washed / Wet
+honduras,275,2016,8.17,8.08,8.08,8,8.08,8,10,10,10,8.25,86.67,0.1,0,0,green,3,1400,1400,1400,69,green,86.67,Caturra,Other
+taiwan,20,2015,8,8,8,8.25,8,8.17,10,10,10,8.17,86.58,0,0,0,green,0,1200,1200,1200,50,green,86.58,Sumatra,Pulped natural / honey
+nicaragua,275,others,7.92,8.25,8,8.33,8,8.08,10,10,10,8,86.58,0.08,0,0,others,2,others,others,others,6,bluish-green,86.58,,Other
+"tanzania, united republic of",100,2012,8.42,8.17,8.17,8,7.58,8,10,10,10,8.17,86.5,0.11,0,0,bluish-green,1,others,others,others,60,bluish-green,86.5,,Natural / Dry
+brazil,29,2011,8.5,8.17,8,7.75,8,8,10,10,10,8,86.42,0.12,0,0,green,2,1300,1300,1300,60,green,86.42,Bourbon,Natural / Dry
+costa rica,250,2015,8.17,7.83,8,8.08,7.83,8,10,10,10,8.42,86.33,0,0,0,bluish-green,0,1300,1300,1300,2,bluish-green,86.33,Caturra,Washed / Wet
+ethiopia,320,2014,8,8.08,7.92,8,8.08,8.08,10,10,10,8.08,86.25,0.1,0,0,green,3,1750,1800,1775,60,green,86.25,,Natural / Dry
+kenya,320,2013,8.08,8,8,8.25,7.92,7.92,10,10,10,8.08,86.25,0.12,0,0,bluish-green,1,1800,1800,1800,1,bluish-green,86.25,SL34,Washed / Wet
+united states (hawaii),10,2012,8.08,8.17,8,7.92,7.92,7.83,10,10,10,8.33,86.25,0,1,0,others,4,others,others,others,100,bluish-green,86.25,Hawaiian Kona,Natural / Dry
+united states (hawaii),25,2010,8.25,8.42,8.08,7.75,7.67,7.83,10,10,10,8.25,86.25,0,2,0,others,1,others,others,others,100,bluish-green,86.25,,Other
+ethiopia,300,2009,7.92,7.75,8.08,8.08,8.08,8.17,10,10,10,8.17,86.25,0.1,0,0,others,2,others,others,others,6,bluish-green,86.25,,Other
+united states,10,2014,7.67,8.17,8,8,8.17,8.08,10,10,10,8.08,86.17,0,0,0,others,0,1941,1941,1941,1,bluish-green,86.17,Other,Washed / Wet
+thailand,53,2012,7.83,8.33,7.83,8.25,7.58,7.92,10,10,10,8.42,86.17,0.1,1,0,green,9,1300,1300,1300,1,green,86.17,Caturra,Washed / Wet
+brazil,300,2010,8.17,7.92,7.92,7.75,8.33,8,10,10,10,8.08,86.17,0.08,0,0,others,2,12,12,12,60,bluish-green,86.17,Yellow Bourbon,Other
+brazil,300,2010,8.42,7.92,8,7.75,7.92,8,10,10,10,8.17,86.17,0.01,0,0,others,3,12,12,12,60,bluish-green,86.17,Yellow Bourbon,Other
+taiwan,10,2015,8.08,8.17,7.75,8.08,7.75,7.83,10,10,10,8.42,86.08,0.12,0,0,green,0,1000,1000,1000,15,green,86.08,Bourbon,Semi-washed / Semi-pulped
+kenya,12,2014,8.08,8.08,8,8,7.83,8.08,10,10,10,8,86.08,0.11,0,0,bluish-green,2,1754,1754,1754,60,bluish-green,86.08,SL28,Natural / Dry
+brazil,7,2011,8.33,8,8,8,7.75,8,10,10,10,8,86.08,0.11,0,0,bluish-green,2,1250,1250,1250,60,bluish-green,86.08,Bourbon,Semi-washed / Semi-pulped
+uganda,1,2014,8.08,8.08,7.83,7.92,8.08,7.92,10,10,10,8.08,86,0,0,0,others,0,others,others,others,60,bluish-green,86,,Semi-washed / Semi-pulped
+colombia,1,2013,7.75,7.92,7.83,8.08,8.08,8.17,10,10,10,8.17,86,0.12,1,0,green,1,900,1500,1200,2,green,86,Caturra,Washed / Wet
+kenya,1,2013,7.92,8.17,7.83,8.5,7.5,7.92,10,10,10,8.17,86,0.11,0,0,green,1,1520,2200,1860,1,green,86,SL28,Washed / Wet
+uganda,1,2012,8.25,8,7.83,8.08,8,7.92,10,10,10,7.92,86,0.1,0,0,bluish-green,0,1400,1900,1650,60,bluish-green,86,Other,Washed / Wet
+ethiopia,300,2009,7.75,8.08,8,8.25,8,8,10,10,10,7.92,86,0.01,0,0,others,4,1500,2000,1750,6,bluish-green,86,,Other
+united states (hawaii),1,2009,8.33,8.17,7.75,8,7.75,7.83,10,10,10,8.17,86,0,0,0,others,0,426.72,426.72,426.72,2,bluish-green,86,,Other
+guatemala,80,2016,7.92,8.08,7.92,8.08,8.08,7.83,10,10,10,8,85.92,0.1,0,1,green,3,others,others,others,69,green,85.92,Bourbon,Washed / Wet
+uganda,1,2013,8.17,8.17,7.92,8.08,7.83,7.75,10,10,10,8,85.92,0.12,0,0,green,0,1400,1900,1650,60,green,85.92,SL14,Natural / Dry
+colombia,275,2013,8,8,8,8.17,7.83,8,10,10,10,7.92,85.92,0,1,0,bluish-green,0,1800,1800,1800,70,bluish-green,85.92,Caturra,Washed / Wet
+panama,37,2017,8,8,7.92,8.08,7.83,8,10,10,10,8,85.83,0.08,0,1,bluish-green,0,1600,1600,1600,60,bluish-green,85.83,Gesha,Washed / Wet
+ethiopia,320,2014,7.83,8.08,7.92,8.08,8,7.92,10,10,10,8,85.83,0.1,0,0,green,4,1800,2000,1900,60,green,85.83,,Washed / Wet
+guatemala,150,2012,7.83,8,8,8.17,7.83,8,10,10,10,8,85.83,0.12,0,0,green,3,1524,1524,1524,1,green,85.83,Bourbon,Washed / Wet
+guatemala,275,2012,8,8,7.83,8.33,7.83,7.83,10,10,10,8,85.83,0.1,0,0,bluish-green,1,1417.32,1417.32,1417.32,1,bluish-green,85.83,Catuai,Washed / Wet
+ethiopia,320,2017,7.83,8,7.83,8.17,7.92,8,10,10,10,8,85.75,0.09,0,4,others,7,others,others,others,19200,bluish-green,85.75,Caturra,Natural / Dry
+peru,280,2013,8,8,8,8.08,7.92,7.75,10,10,10,8,85.75,0.1,4,0,green,6,others,others,others,5,green,85.75,,Washed / Wet
+papua new guinea,7,2012,8.33,8.42,7.83,8.33,8,8.25,9.33,9.33,10,7.92,85.75,0.12,0,0,bluish-green,1,1700,1700,1700,60,bluish-green,85.75,,Washed / Wet
+el salvador,275,2013,7.92,8.17,8,7.92,7.75,7.83,10,10,10,8,85.58,0.1,0,0,bluish-green,3,1500,1500,1500,2,bluish-green,85.58,Bourbon,Washed / Wet
+el salvador,19,2012,7.83,8,8,7.75,7.92,8.17,10,10,10,7.92,85.58,0.11,0,0,others,0,1300,1400,1350,1,bluish-green,85.58,Bourbon,Semi-washed / Semi-pulped
+united states (hawaii),8,2012,7.83,8,7.92,7.75,8.08,8,10,10,10,8,85.58,0,0,0,others,1,others,others,others,100,bluish-green,85.58,Hawaiian Kona,Natural / Dry
+panama,100,2014,8,7.75,7.83,7.83,7.67,8.58,10,10,10,7.83,85.5,0.09,2,0,others,2,1680,1680,1680,60,bluish-green,85.5,Caturra,Natural / Dry
+kenya,16,2014,7.92,7.92,7.83,8.08,7.83,7.92,10,10,10,8,85.5,0.1,0,0,green,3,1900,1900,1900,60,green,85.5,SL28,Natural / Dry
+ethiopia,320,2015,7.83,8,7.83,7.92,7.83,8.08,10,10,10,8,85.5,0.12,0,0,green,7,1800,2000,1900,60,green,85.5,Other,Natural / Dry
+uganda,320,2013,8.33,7.92,7.67,7.92,7.67,7.92,10,10,10,8.08,85.5,0.12,0,0,green,1,1600,1600,1600,60,green,85.5,SL14,Washed / Wet
+guatemala,250,2013,8,7.83,7.67,8.33,7.83,8,10,10,10,7.83,85.5,0.11,0,0,green,1,1706.88,1755.648,1731.264,69,green,85.5,Bourbon,Washed / Wet
+ethiopia,320,2015,7.75,7.83,7.83,8.17,7.92,7.83,10,10,10,8.08,85.42,0.1,0,0,green,18,1800,2000,1900,60,green,85.42,,Washed / Wet
+uganda,150,2013,8.08,8,7.83,7.67,8,7.83,10,10,10,8,85.42,0.12,0,0,green,5,1950,1950,1950,60,green,85.42,SL14,Washed / Wet
+united states (hawaii),8,2012,7.92,7.92,7.75,7.92,7.75,7.92,10,10,10,8.25,85.42,0,4,0,others,6,others,others,others,100,bluish-green,85.42,Hawaiian Kona,Natural / Dry
+brazil,5,2011,8,8,8,7.67,7.75,8,10,10,10,8,85.42,0.11,0,0,bluish-green,1,1250,1250,1250,60,bluish-green,85.42,Bourbon,Semi-washed / Semi-pulped
+el salvador,2,2009,8.08,7.83,7.83,8.08,7.83,7.83,10,10,10,7.92,85.42,0.01,0,0,others,0,1400,1400,1400,1,bluish-green,85.42,,Other
+china,3,2015,8,8,8,7.83,7.83,7.75,10,10,10,7.92,85.33,0.1,0,0,green,0,1700,1700,1700,60,green,85.33,Catimor,Natural / Dry
+guatemala,36,2014,7.83,7.75,7.83,7.67,7.83,8.58,10,10,10,7.83,85.33,0.11,0,0,green,1,1770,1770,1770,30,green,85.33,Pacamara,Natural / Dry
+costa rica,250,2014,7.92,8.08,8,7.92,8,8.08,10,10,9.33,8,85.33,0,0,0,bluish-green,0,1300,1300,1300,3,bluish-green,85.33,Caturra,Washed / Wet
+costa rica,250,2014,8,7.58,7.58,7.67,8.08,8.5,10,10,10,7.92,85.33,0.1,0,0,bluish-green,2,1300,1300,1300,3,bluish-green,85.33,Caturra,Washed / Wet
+kenya,20,2012,7.83,8.08,7.75,8.08,7.92,7.75,10,10,10,7.92,85.33,0,0,0,green,2,1600,1600,1600,60,green,85.33,SL34,Washed / Wet
+kenya,300,2012,8,7.92,7.92,8.08,7.83,7.75,10,10,10,7.83,85.33,0,0,0,green,6,1200,1200,1200,60,green,85.33,SL34,Washed / Wet
+ethiopia,360,2009,7.83,7.83,7.92,8.08,7.75,7.83,10,10,10,8.08,85.33,0.05,0,0,others,2,others,others,others,6,bluish-green,85.33,,Other
+ethiopia,300,2009,7.92,7.83,7.75,8.33,7.75,7.75,10,10,10,8,85.33,0.1,0,0,others,3,others,others,others,6,bluish-green,85.33,Typica,Other
+guatemala,250,2016,8,7.92,7.75,8,7.92,7.83,10,10,10,7.83,85.25,0.1,0,2,green,2,others,others,others,69,green,85.25,Bourbon,Other
+colombia,275,2015,8.17,7.92,7.83,8,7.58,7.83,10,10,10,7.92,85.25,0.11,0,0,green,0,1550,1550,1550,70,green,85.25,Caturra,Washed / Wet
+colombia,250,2014,7.58,8.08,7.92,7.83,8,7.92,10,10,10,7.92,85.25,0.12,0,0,green,2,1550,1550,1550,70,green,85.25,Caturra,Natural / Dry
+indonesia,54,2012,7.75,7.83,7.67,8,8.08,7.83,10,10,10,8,85.17,0.11,0,0,green,3,1250,1400,1325,60,green,85.17,Sumatra Lintong,Semi-washed / Semi-pulped
+guatemala,250,2012,8.25,8,7.67,7.92,7.75,7.67,10,10,10,7.92,85.17,0,0,0,others,7,1400,1400,1400,1,bluish-green,85.17,Caturra,Washed / Wet
+ethiopia,320,2016,7.75,8,7.58,8,8,7.92,10,10,10,7.83,85.08,0.11,0,1,green,8,others,others,others,19200,green,85.08,Other,Natural / Dry
+colombia,250,2015,8.17,7.83,7.58,8.08,8,7.75,10,10,10,7.67,85.08,0,0,0,others,0,2560,2560,2560,70,bluish-green,85.08,Caturra,Natural / Dry
+ethiopia,100,2014,8.42,8,7.42,8,7.92,7.92,9.33,10,10,8.08,85.08,0.1,2,0,green,7,1700,1700,1700,60,green,85.08,,Natural / Dry
+united states (hawaii),12,2014,7.58,7.83,7.83,7.92,7.83,8.17,10,10,10,7.92,85.08,0.11,2,0,bluish-green,2,others,others,others,100,bluish-green,85.08,Hawaiian Kona,Natural / Dry
+colombia,250,2012,7.83,8,7.75,7.75,7.83,7.83,10,10,10,8.08,85.08,0.11,0,0,green,8,2136,2136,2136,70,green,85.08,Caturra,Natural / Dry
+united states (hawaii),13,2010,8.08,8.17,7.92,8,8.08,8,9.33,9.33,10,8.17,85.08,0.01,1,0,others,7,others,others,others,100,bluish-green,85.08,,Other
+ethiopia,360,2010,7.67,8,7.83,8,7.92,7.83,10,10,10,7.83,85.08,0,0,0,others,5,others,others,others,6,bluish-green,85.08,,Other
+united states (hawaii),27,others,7.5,7.92,8.25,7.83,7.92,7.75,10,10,10,7.92,85.08,0,0,0,others,0,others,others,others,0,bluish-green,85.08,,Other
+uganda,200,2016,8.17,7.92,7.75,7.75,7.67,7.75,10,10,10,8,85,0.11,0,0,green,1,1800,1800,1800,60,green,85,SL14,Washed / Wet
+colombia,135,2016,8,7.92,7.75,7.92,7.75,7.83,10,10,10,7.83,85,0,0,0,green,3,others,others,others,70,green,85,Caturra,Washed / Wet
+costa rica,36,2016,7.83,8,7.58,7.92,7.92,7.83,10,10,10,7.92,85,0.12,1,1,green,1,1900,1900,1900,46,green,85,Catuai,Washed / Wet
+mexico,1,2015,7.83,8,7.83,7.75,7.67,7.83,10,10,10,8.08,85,0.09,0,0,green,3,1300,1300,1300,30,green,85,Typica,Washed / Wet
+kenya,170,2015,8.17,7.83,7.92,7.75,7.67,7.83,10,10,10,7.83,85,0.11,0,5,green,7,1,1,1,60,green,85,,Washed / Wet
+kenya,38,2012,7.75,7.83,7.75,8.08,8,7.75,10,10,10,7.83,85,0,0,0,green,5,1580,1580,1580,60,green,85,SL34,Washed / Wet
+brazil,31,2012,8,8,7.83,7.83,7.67,7.67,10,10,10,8,85,0.12,0,0,green,3,1100,1100,1100,60,green,85,Mundo Novo,Natural / Dry
+mexico,1,2010,7.92,8.17,7.75,8.08,7.42,7.83,10,10,10,7.83,85,0,0,0,others,0,1400,1400,1400,1,bluish-green,85,Pacamara,Other
+united states (hawaii),15,others,7.75,7.92,7.75,7.75,8,8,10,10,10,7.83,85,0,0,0,others,1,others,others,others,100,bluish-green,85,,Other
+guatemala,275,2009,7.83,8.08,7.67,8,7.75,7.67,10,10,10,8,85,0.04,0,0,others,1,1066.8,1584.96,1325.88,69,bluish-green,85,,Other
+colombia,243,2016,7.92,7.92,7.67,7.83,7.92,7.83,10,10,10,7.83,84.92,0,1,6,others,2,others,others,others,70,bluish-green,84.92,Caturra,Washed / Wet
+colombia,252,2015,7.92,7.83,7.75,7.83,7.75,8,10,10,10,7.83,84.92,0.12,0,0,green,1,1600,1950,1775,70,green,84.92,Caturra,Washed / Wet
+taiwan,20,2015,7.67,7.83,8,7.58,8,7.92,10,10,10,7.92,84.92,0.11,0,0,green,0,800,800,800,40,green,84.92,Typica,Semi-washed / Semi-pulped
+"tanzania, united republic of",134,2014,8,7.83,7.83,7.92,7.75,7.75,10,10,10,7.83,84.92,0.12,0,0,green,2,1620,1620,1620,60,green,84.92,Other,Washed / Wet
+colombia,50,2012,7.75,7.92,7.83,7.75,7.75,8,10,10,10,7.92,84.92,0.11,0,0,green,3,1600,1950,1775,70,green,84.92,Caturra,Washed / Wet
+mexico,25,2012,7.75,8,7.75,7.83,7.5,7.92,10,10,10,8.17,84.92,0.11,0,0,others,0,1200,1200,1200,1,bluish-green,84.92,Typica,Semi-washed / Semi-pulped
+brazil,4,2011,8,7.92,7.75,7.75,8,7.75,10,10,10,7.75,84.92,0.11,0,0,green,2,1200,1200,1200,60,green,84.92,Bourbon,Natural / Dry
+brazil,10,2011,8,8,7.75,8,7.5,7.75,10,10,10,7.92,84.92,0.12,0,0,green,2,1000,1000,1000,60,green,84.92,Catuai,Natural / Dry
+kenya,320,2009,8,7.67,7.83,8.17,7.92,7.75,10,10,10,7.58,84.92,0.06,1,0,others,9,others,others,others,60,bluish-green,84.92,,Other
+taiwan,10,2016,7.92,7.58,7.83,7.83,7.83,7.83,10,10,10,8,84.83,0,0,0,green,0,350,350,350,20,green,84.83,Typica,Natural / Dry
+uganda,1,2013,7.75,7.92,7.67,7.67,8.25,7.75,10,10,10,7.83,84.83,0.12,0,0,green,1,1400,1900,1650,60,green,84.83,SL14,Natural / Dry
+united states (hawaii),14,2012,7.67,7.75,7.75,7.75,7.83,8,10,10,10,8.08,84.83,0,3,0,others,15,others,others,others,100,bluish-green,84.83,Hawaiian Kona,Natural / Dry
+ethiopia,300,2009,7.75,7.92,7.83,7.92,7.75,7.67,10,10,10,8,84.83,0.1,0,0,others,2,1500,2000,1750,6,bluish-green,84.83,,Other
+ethiopia,300,2009,7.42,7.92,7.92,8,7.83,7.83,10,10,10,7.92,84.83,0.1,0,0,others,4,1500,2000,1750,6,bluish-green,84.83,,Other
+thailand,50,2015,7.75,7.75,7.75,7.75,8,7.75,10,10,10,8,84.75,0.12,0,0,green,0,others,others,others,50,green,84.75,Caturra,Pulped natural / honey
+kenya,150,2014,7.92,7.83,7.58,7.92,7.75,7.83,10,10,10,7.92,84.75,0.13,0,0,green,0,1800,1800,1800,60,green,84.75,SL34,Washed / Wet
+honduras,275,2014,7.83,7.75,8,7.67,7.67,7.67,10,10,10,8.17,84.75,0.11,0,0,green,4,1450,1450,1450,1,green,84.75,Catuai,Washed / Wet
+el salvador,250,2010,7.75,8,8,8.33,7.67,7.92,10,10,9.33,7.75,84.75,0.15,0,0,others,3,1200,1200,1200,69,bluish-green,84.75,,Other
+nicaragua,2,2009,7.83,7.58,7.58,7.83,7.75,7.67,10,10,10,8.5,84.75,0.18,0,0,others,2,800,1050,925,6,bluish-green,84.75,,Other
+el salvador,150,2016,7.83,7.83,7.5,8,7.83,7.67,10,10,10,8,84.67,0,0,0,bluish-green,2,1350,1350,1350,69,bluish-green,84.67,Bourbon,Washed / Wet
+indonesia,2,2016,7.92,7.83,7.75,7.75,7.75,7.75,10,10,10,7.92,84.67,0.12,0,0,green,7,1200,1200,1200,1,green,84.67,Java,Washed / Wet
+japan,20,others,7.75,7.75,7.75,7.42,8.08,7.83,10,10,10,8.08,84.67,0.12,0,0,green,0,170,170,170,1,green,84.67,Mundo Novo,Pulped natural / honey
+costa rica,15,2015,8.08,7.75,7.67,7.83,7.5,7.92,10,10,10,7.92,84.67,0.1,0,0,bluish-green,2,1150,1150,1150,69,bluish-green,84.67,Catuai,Washed / Wet
+guatemala,120,2015,7.75,7.83,7.58,8,7.92,7.75,10,10,10,7.83,84.67,0.1,0,0,green,1,1600,1600,1600,34,green,84.67,Bourbon,Washed / Wet
+costa rica,50,2014,8.17,8,7.83,7.17,7.83,7.75,10,10,10,7.92,84.67,0.12,0,0,green,0,1750,1750,1750,1,green,84.67,Caturra,Washed / Wet
+ethiopia,250,2014,8.08,7.83,7.75,7.83,7.58,7.67,10,10,10,7.92,84.67,0.1,0,0,others,3,1900,1900,1900,30,bluish-green,84.67,Ethiopian Yirgacheffe,Washed / Wet
+costa rica,20,2014,7.67,7.58,7.75,7.75,7.67,8.58,10,10,10,7.67,84.67,0.08,0,0,green,1,1750,1750,1750,69,green,84.67,Other,Other
+costa rica,275,2014,8,7.58,7.83,7.75,7.75,7.75,10,10,10,8,84.67,0.11,0,0,green,4,1200,1200,1200,1,green,84.67,Catuai,Washed / Wet
+costa rica,1,2012,8.08,7.83,7.75,7.83,7.92,8,10,10,9.33,7.92,84.67,0,1,0,green,10,others,others,others,2,green,84.67,,Washed / Wet
+taiwan,10,2013,8,7.92,7.75,7.75,7.75,7.75,10,10,10,7.75,84.67,0.11,0,0,green,0,1000,1000,1000,30,green,84.67,Typica,Washed / Wet
+colombia,250,2013,7.75,7.83,7.75,7.83,7.75,7.83,10,10,10,7.92,84.67,0,0,0,green,0,1550,1550,1550,70,green,84.67,Caturra,Washed / Wet
+kenya,235,2012,7.75,7.92,7.83,8,7.58,7.75,10,10,10,7.83,84.67,0.11,0,0,bluish-green,0,2000,2000,2000,60,bluish-green,84.67,SL28,Washed / Wet
+guatemala,250,2012,8,7.83,7.67,7.83,7.67,8,10,10,10,7.67,84.67,0.11,0,0,green,4,1310.64,1310.64,1310.64,1,green,84.67,Bourbon,Washed / Wet
+guatemala,125,2012,7.67,7.83,7.67,8,7.67,7.83,10,10,10,8,84.67,0.12,0,0,green,4,1524,1524,1524,1,green,84.67,Bourbon,Washed / Wet
+mexico,80,2012,7.83,7.58,7.67,7.92,7.92,7.83,10,10,10,7.92,84.67,0.13,0,0,others,3,1200,1200,1200,1,bluish-green,84.67,Typica,Washed / Wet
+uganda,320,2012,7.92,7.83,7.75,7.92,7.67,7.75,10,10,10,7.83,84.67,0.11,0,0,bluish-green,3,1700,1850,1775,60,bluish-green,84.67,Other,Washed / Wet
+peru,1,others,7.67,7.83,7.75,7.75,7.92,7.83,10,10,10,7.92,84.67,0,0,0,others,3,others,others,others,60,bluish-green,84.67,,Other
+ethiopia,300,2009,7.42,7.75,7.75,8,8,7.92,10,10,10,7.83,84.67,0.2,0,0,others,3,1500,2000,1750,6,bluish-green,84.67,,Other
+kenya,66,others,7.92,7.75,7.83,7.75,7.58,7.92,10,10,10,7.83,84.58,0.11,0,0,bluish-green,5,1754,1754,1754,60,bluish-green,84.58,SL34,Washed / Wet
+colombia,250,2016,7.83,7.67,7.58,7.92,7.67,7.83,10,10,10,8.08,84.58,0,0,0,bluish-green,4,1500,1500,1500,70,bluish-green,84.58,Other,Washed / Wet
+colombia,125,2016,7.92,7.83,7.58,8,7.83,7.67,10,10,10,7.75,84.58,0,0,1,green,5,others,others,others,70,green,84.58,Caturra,Washed / Wet
+kenya,100,2013,7.83,7.83,7.83,7.75,7.58,7.83,10,10,10,7.92,84.58,0.1,0,0,bluish-green,2,1800,1800,1800,60,bluish-green,84.58,Peaberry,Washed / Wet
+guatemala,250,2014,7.75,7.83,7.67,7.92,7.75,7.83,10,10,10,7.83,84.58,0.11,0,0,green,1,1524,1524,1524,69,green,84.58,Pacas,Washed / Wet
+guatemala,250,2014,8,7.92,7.67,7.58,7.58,7.67,10,10,10,8.17,84.58,0.09,0,0,green,0,1219.2,1219.2,1219.2,69,green,84.58,Bourbon,Washed / Wet
+colombia,250,2013,7.67,7.67,7.58,7.75,7.58,8.5,10,10,10,7.83,84.58,0,0,0,others,0,1550,1550,1550,70,bluish-green,84.58,Caturra,Washed / Wet
+colombia,75,2013,7.75,7.75,7.83,7.75,7.58,8,10,10,10,7.92,84.58,0,0,0,others,5,1600,1900,1750,70,bluish-green,84.58,Caturra,Washed / Wet
+kenya,11,2013,7.75,7.75,7.75,8.08,7.75,7.75,10,10,10,7.75,84.58,0,0,0,green,0,others,others,others,660,green,84.58,SL28,Washed / Wet
+colombia,250,2012,7.67,7.83,7.83,8,7.58,7.92,10,10,10,7.75,84.58,0,0,0,green,2,1750,1750,1750,70,green,84.58,Caturra,Washed / Wet
+costa rica,1,2012,7.75,7.83,7.75,8,7.83,7.67,10,10,10,7.75,84.58,0.12,0,0,bluish-green,2,1450,1700,1575,1,bluish-green,84.58,Bourbon,Semi-washed / Semi-pulped
+colombia,250,2012,7.42,7.67,7.75,7.75,8.08,7.83,10,10,10,8.08,84.58,0.11,0,0,green,6,1800,1800,1800,70,green,84.58,Caturra,Washed / Wet
+brazil,37,2011,8,8,7.75,7.75,7.58,7.75,10,10,10,7.75,84.58,0.12,0,0,green,2,1300,1300,1300,60,green,84.58,Bourbon,Semi-washed / Semi-pulped
+brazil,35,2011,8.5,8,7.5,7.75,7.5,7.83,10,10,10,7.5,84.58,0.11,0,0,bluish-green,1,1100,1100,1100,60,bluish-green,84.58,Catuai,Semi-washed / Semi-pulped
+costa rica,275,2017,7.92,7.67,7.92,7.75,7.67,7.58,10,10,10,8,84.5,0.1,0,0,bluish-green,2,1200,1200,1200,18975,bluish-green,84.5,Caturra,Washed / Wet
+uganda,200,2016,7.92,7.75,7.67,7.75,7.83,7.75,10,10,10,7.83,84.5,0.11,0,0,green,1,1750,1750,1750,12000,green,84.5,SL14,Washed / Wet
+china,3,2015,7.75,7.92,7.67,7.83,7.75,7.67,10,10,10,7.92,84.5,0.1,0,0,green,1,1680,1680,1680,60,green,84.5,Catimor,Washed / Wet
+costa rica,250,2014,7.92,7.83,7.83,7.83,7.58,7.58,10,10,10,7.92,84.5,0.11,0,0,green,0,1700,1700,1700,1,green,84.5,Caturra,Washed / Wet
+colombia,275,2015,8.08,7.67,7.83,7.83,7.67,7.67,10,10,10,7.75,84.5,0.12,1,0,green,0,1800,1800,1800,2,green,84.5,Other,Washed / Wet
+china,1,2013,7.67,8,7.75,7.83,7.75,7.58,10,10,10,7.92,84.5,0,0,0,green,2,1100,1100,1100,2,green,84.5,Other,Washed / Wet
+guatemala,250,2013,8.17,7.83,7.67,7.83,7.67,7.83,10,10,10,7.5,84.5,0.11,0,0,green,2,1310.64,1310.64,1310.64,69,green,84.5,Bourbon,Washed / Wet
+kenya,235,2012,7.92,7.83,7.67,8,7.67,7.75,10,10,10,7.67,84.5,0.11,0,0,bluish-green,0,2000,2000,2000,60,bluish-green,84.5,SL28,Washed / Wet
+mexico,56,2012,8,7.92,7.42,8.08,7.5,7.67,10,10,10,7.92,84.5,0.12,0,0,green,0,1350,1350,1350,1,green,84.5,Typica,Washed / Wet
+mexico,250,2012,7.92,7.83,7.75,7.75,7.75,7.83,10,10,10,7.67,84.5,0.11,0,0,others,4,1500,1500,1500,1,bluish-green,84.5,Typica,Washed / Wet
+guatemala,250,2012,7.67,8,7.67,8,7.5,7.83,10,10,10,7.83,84.5,0.11,0,0,green,2,others,others,others,69,green,84.5,Bourbon,Washed / Wet
+brazil,27,others,7.81,7.81,7.88,7.75,7.38,8.25,9.5,10,10,8.13,84.5,0,0,0,others,4,others,others,others,60,bluish-green,84.5,,Other
+brazil,320,others,8.17,7.67,7.75,7.75,7.67,7.75,10,10,10,7.75,84.5,0,2,0,others,0,others,others,others,60,bluish-green,84.5,,Other
+costa rica,275,2016,7.58,7.83,7.83,8,7.67,7.58,10,10,10,7.92,84.42,0.1,0,0,bluish-green,3,1300,1300,1300,69,bluish-green,84.42,Caturra,Washed / Wet
+indonesia,200,2017,7.67,7.67,7.83,7.58,7.83,7.83,10,10,10,8,84.42,0,0,0,bluish-green,3,1400,1400,1400,30,bluish-green,84.42,Mandheling,Other
+colombia,304,2015,7.92,7.83,7.75,7.67,7.92,7.67,10,10,10,7.67,84.42,0,0,0,green,1,others,others,others,35,green,84.42,Caturra,Natural / Dry
+colombia,275,2014,7.92,7.75,7.67,7.92,7.67,7.75,10,10,10,7.75,84.42,0,0,0,green,3,1600,1950,1775,70,green,84.42,Caturra,Washed / Wet
+taiwan,2,2012,7.83,7.83,7.75,8,7.5,7.75,10,10,10,7.75,84.42,0.11,0,0,bluish-green,0,1200,1200,1200,2,bluish-green,84.42,Typica,Washed / Wet
+united states (hawaii),5,2012,7.92,7.92,7.5,7.83,7.5,7.92,10,10,10,7.83,84.42,0.11,0,0,bluish-green,1,others,others,others,100,bluish-green,84.42,Hawaiian Kona,Natural / Dry
+mexico,69,2012,7.75,7.92,7.75,7.67,7.83,7.67,10,10,10,7.83,84.42,0.12,2,0,others,4,900,900,900,1,bluish-green,84.42,Pacamara,Washed / Wet
+ethiopia,360,2009,7.5,7.75,7.83,7.92,7.92,7.75,10,10,10,7.75,84.42,0.2,0,0,others,2,others,others,others,6,bluish-green,84.42,,Other
+kenya,150,2017,7.33,7.58,7.83,7.75,7.75,7.92,10,10,10,8.17,84.33,0.11,0,0,green,4,1800,1800,1800,60,green,84.33,SL28,Washed / Wet
+honduras,275,2016,7.92,8,7.75,7.67,7.67,7.75,10,10,10,7.58,84.33,0.1,0,0,green,3,1500,1500,1500,66,green,84.33,Caturra,Other
+colombia,275,2016,7.58,7.75,7.5,7.83,7.67,8.5,10,10,10,7.5,84.33,0,0,3,green,5,others,others,others,70,green,84.33,Caturra,Washed / Wet
+honduras,275,2016,7.58,7.92,7.58,7.75,7.92,7.75,10,10,10,7.83,84.33,0.11,0,1,green,2,1500,1500,1500,69,green,84.33,Catuai,Washed / Wet
+colombia,275,2016,7.67,7.67,7.75,7.83,7.75,7.83,10,10,10,7.83,84.33,0,0,2,others,4,others,others,others,70,bluish-green,84.33,,Other
+colombia,250,2015,7.75,7.67,8,7.67,8.08,7.83,10,10,10,7.33,84.33,0.11,6,0,green,0,442,442,442,70,green,84.33,Caturra,Natural / Dry
+colombia,275,2013,7.75,7.58,7.33,7.83,7.58,8.08,10,10,10,8.17,84.33,0,0,0,green,0,1800,1800,1800,70,green,84.33,Caturra,Washed / Wet
+mexico,100,2012,8,7.75,7.75,7.83,7.5,7.67,10,10,10,7.83,84.33,0.12,0,0,bluish-green,1,1700,1700,1700,80,bluish-green,84.33,Typica,Washed / Wet
+brazil,75,2011,8.17,8,7.5,7.75,7.5,7.67,10,10,10,7.75,84.33,0,0,0,others,4,1200,1350,1275,60,bluish-green,84.33,Yellow Bourbon,Other
+brazil,80,2011,8,8,7.5,7.5,7.67,7.75,10,10,10,7.92,84.33,0.02,0,0,others,2,900,1200,1050,60,bluish-green,84.33,,Other
+ethiopia,1,others,7.75,7.75,7.92,7.75,7.5,7.92,10,10,10,7.75,84.33,0,0,0,others,1,1097.28,1889.76,1493.52,132,bluish-green,84.33,,Other
+guatemala,250,2010,7.5,7.67,7.75,7.67,7.92,7.92,10,10,10,7.92,84.33,0.04,1,0,others,1,1341.12,1432.56,1386.84,1,bluish-green,84.33,,Other
+taiwan,10,2016,7.92,7.75,7.75,7.67,7.67,7.83,10,10,10,7.67,84.25,0.12,0,0,bluish-green,0,1000,1000,1000,5,bluish-green,84.25,Typica,Washed / Wet
+thailand,20,2015,7.83,7.75,7.75,7.42,7.83,7.67,10,10,10,8,84.25,0.12,0,0,green,0,1200,1200,1200,25,green,84.25,Catimor,Natural / Dry
+colombia,275,2016,7.83,7.58,7.75,7.58,7.67,8,10,10,10,7.83,84.25,0.11,0,0,green,2,2560,2560,2560,70,green,84.25,Caturra,Natural / Dry
+guatemala,230,2016,7.75,7.75,7.58,7.92,7.75,7.75,10,10,10,7.75,84.25,0.11,0,4,green,4,1500,1500,1500,69,green,84.25,Caturra,Washed / Wet
+guatemala,275,2015,7.75,7.92,7.5,8.08,7.58,7.67,10,10,10,7.75,84.25,0.1,0,0,green,1,1099.4136,1099.4136,1099.4136,69,green,84.25,Caturra,Washed / Wet
+china,3,2015,7.83,7.83,7.58,7.75,7.75,7.75,10,10,10,7.75,84.25,0.1,0,0,green,1,1400,1400,1400,60,green,84.25,Catimor,Natural / Dry
+colombia,275,2015,7.67,7.67,7.75,7.75,7.67,7.92,10,10,10,7.83,84.25,0.11,0,0,green,3,1600,1950,1775,70,green,84.25,Caturra,Washed / Wet
+colombia,248,2015,7.83,7.67,7.75,7.58,7.92,7.75,10,10,10,7.75,84.25,0.12,4,0,green,2,1600,1950,1775,70,green,84.25,Caturra,Washed / Wet
+colombia,275,2015,7.83,7.75,7.83,7.58,7.67,7.75,10,10,10,7.83,84.25,0.12,0,0,green,0,1800,1800,1800,2,green,84.25,Other,Washed / Wet
+colombia,250,2015,7.42,7.67,7.83,7.75,7.92,7.83,10,10,10,7.83,84.25,0.12,3,0,green,0,442,442,442,70,green,84.25,Caturra,Natural / Dry
+"tanzania, united republic of",10,2014,7.83,7.67,7.75,7.83,7.67,7.67,10,10,10,7.83,84.25,0.12,0,0,green,7,1620,1620,1620,60,green,84.25,Other,Washed / Wet
+"tanzania, united republic of",65,2014,7.83,7.75,7.75,7.75,7.67,7.75,10,10,10,7.75,84.25,0.12,0,0,green,2,1600,1600,1600,60,green,84.25,Other,Washed / Wet
+guatemala,250,2014,7.83,7.83,7.5,7.92,7.58,7.75,10,10,10,7.83,84.25,0.1,0,0,green,1,1219.2,1219.2,1219.2,69,green,84.25,Bourbon,Other
+colombia,250,2013,7.58,7.5,7.75,7.83,7.92,7.83,10,10,10,7.83,84.25,0.11,0,0,green,2,1700,1700,1700,70,green,84.25,Caturra,Washed / Wet
+united states (hawaii),7,2012,7.33,7.92,7.92,7.92,7.92,8.08,10,10,9.33,7.83,84.25,0.11,1,0,bluish-green,1,others,others,others,100,bluish-green,84.25,Hawaiian Kona,Natural / Dry
+mexico,10,2012,7.83,7.92,7.67,7.83,7.5,7.75,10,10,10,7.75,84.25,0.12,0,0,green,1,1450,1450,1450,1,green,84.25,Typica,Semi-washed / Semi-pulped
+mexico,20,2012,7.83,7.83,7.75,7.67,7.83,7.58,10,10,10,7.75,84.25,0.12,0,0,green,0,1170,1170,1170,1,green,84.25,Bourbon,Washed / Wet
+mexico,250,2012,7.83,7.92,7.67,7.75,7.5,7.75,10,10,10,7.83,84.25,0.1,0,0,bluish-green,4,1400,1400,1400,1,bluish-green,84.25,Bourbon,Washed / Wet
+uganda,1,2012,8.17,7.75,7.58,7.67,7.83,7.58,10,10,10,7.67,84.25,0.13,4,0,green,29,1700,1700,1700,60,green,84.25,Other,Natural / Dry
+guatemala,50,2017,7.75,7.83,7.58,7.83,7.67,7.75,10,10,10,7.75,84.17,0.13,0,0,green,1,1700,1700,1700,69,green,84.17,Bourbon,Washed / Wet
+colombia,250,2016,7.83,7.75,7.58,7.67,7.75,7.83,10,10,10,7.75,84.17,0,0,0,green,2,others,others,others,70,green,84.17,Caturra,Washed / Wet
+costa rica,150,2016,7.92,7.75,7.67,7.67,7.5,7.67,10,10,10,8,84.17,0.09,0,0,bluish-green,2,1700,1700,1700,69,bluish-green,84.17,Caturra,Washed / Wet
+guatemala,275,2016,7.75,7.75,7.58,8,7.67,7.83,10,10,10,7.58,84.17,0.11,0,0,green,6,1116.7872,1116.7872,1116.7872,69,green,84.17,Caturra,Washed / Wet
+guatemala,377,2016,7.75,7.92,7.58,7.92,7.67,7.67,10,10,10,7.67,84.17,0.1,0,1,green,10,1565,1565,1565,69,green,84.17,Caturra,Washed / Wet
+guatemala,130,2016,7.58,7.83,7.58,7.83,7.83,7.67,10,10,10,7.83,84.17,0.1,0,0,green,2,3280,3280,3280,69,green,84.17,Bourbon,Washed / Wet
+colombia,275,2015,8,7.5,7.5,7.67,8,7.83,10,10,10,7.67,84.17,0,0,0,bluish-green,0,1600,1950,1775,70,bluish-green,84.17,Caturra,Washed / Wet
+nicaragua,275,2015,7.67,7.83,7.83,7.5,7.67,7.83,10,10,10,7.83,84.17,0.12,0,0,bluish-green,0,900,1100,1000,2,bluish-green,84.17,Caturra,Natural / Dry
+brazil,305,2015,7.67,7.75,7.75,7.67,7.83,7.75,10,10,10,7.75,84.17,0,0,0,others,16,1150,1150,1150,59,bluish-green,84.17,Catuai,Natural / Dry
+costa rica,320,2014,7.67,7.75,7.67,7.75,7.5,8,10,10,10,7.83,84.17,0,0,0,bluish-green,0,1850,1850,1850,69,bluish-green,84.17,Caturra,Washed / Wet
+ethiopia,320,2014,7.5,7.92,7.58,7.83,7.75,7.83,10,10,10,7.75,84.17,0.1,0,0,green,5,1545,1668,1606.5,60,green,84.17,Gesha,Natural / Dry
+"tanzania, united republic of",10,2014,7.92,7.75,7.75,7.75,7.75,7.58,10,10,10,7.67,84.17,0.13,0,0,green,0,1400,1400,1400,60,green,84.17,Other,Washed / Wet
+colombia,250,2014,7.67,7.5,7.67,7.42,7.83,8.58,10,10,10,7.5,84.17,0.12,0,0,green,4,1530,1530,1530,1,green,84.17,Other,Washed / Wet
+guatemala,275,2013,7.67,7.75,7.67,7.75,7.75,7.75,10,10,10,7.83,84.17,0.11,0,0,bluish-green,0,others,others,others,5,bluish-green,84.17,,Washed / Wet
+kenya,300,2013,7.58,7.75,7.75,7.75,7.75,7.83,10,10,10,7.75,84.17,0.08,0,0,green,0,1,500,250.5,18000,green,84.17,SL28,Washed / Wet
+brazil,1,2012,7.58,7.83,7.75,7.67,7.67,8,10,10,10,7.67,84.17,0.11,0,0,green,3,894,1183,1038.5,2,green,84.17,Mundo Novo,Natural / Dry
+guatemala,250,2013,7.92,7.75,7.67,7.67,7.83,7.92,10,10,10,7.42,84.17,0.11,0,0,green,4,1310.64,1310.64,1310.64,69,green,84.17,Bourbon,Washed / Wet
+el salvador,275,2013,8.42,8.08,7.5,7.17,7.58,8.17,9.33,10,10,7.92,84.17,0.11,0,0,bluish-green,2,1500,1500,1500,2,bluish-green,84.17,Bourbon,Natural / Dry
+colombia,250,2012,7.75,7.75,7.75,7.75,7.83,7.75,10,10,10,7.58,84.17,0,0,0,green,2,1750,1750,1750,70,green,84.17,Caturra,Washed / Wet
+guatemala,275,2012,7.83,7.5,7.5,8,7.83,7.83,10,10,10,7.67,84.17,0.11,0,0,bluish-green,2,others,others,others,1,bluish-green,84.17,Catuai,Natural / Dry
+uganda,320,2012,7.83,7.75,7.5,7.83,7.83,7.75,10,10,10,7.67,84.17,0.11,0,0,green,1,1500,1700,1600,60,green,84.17,Other,Washed / Wet
+indonesia,2,2017,7.81,7.88,7.56,7.75,7.63,7.75,10,10,10,7.75,84.13,0.12,0,0,bluish-green,0,others,others,others,2,bluish-green,84.13,Mandheling,Natural / Dry
+colombia,275,2017,7.83,7.5,7.42,7.5,7.83,8.5,10,10,10,7.5,84.08,0,1,3,green,3,442,442,442,70,green,84.08,Caturra,Washed / Wet
+taiwan,10,2016,7.58,7.67,7.67,7.67,7.75,7.83,10,10,10,7.92,84.08,0.1,0,0,bluish-green,4,968,968,968,20,bluish-green,84.08,Typica,Washed / Wet
+guatemala,50,2016,8,7.75,7.5,7.58,7.92,7.67,10,10,10,7.67,84.08,0.1,0,0,green,4,others,others,others,69,green,84.08,Bourbon,Washed / Wet
+colombia,200,2014,7.92,7.75,7.67,7.75,7.67,7.67,10,10,10,7.67,84.08,0,0,0,others,2,1600,1950,1775,70,bluish-green,84.08,Caturra,Washed / Wet
+guatemala,1,2014,7.58,7.75,7.67,8,7.75,7.67,10,10,10,7.67,84.08,0.1,0,0,bluish-green,10,1550,1550,1550,2,bluish-green,84.08,Bourbon,Washed / Wet
+united states (hawaii),14,2012,7.83,7.75,7.83,7.83,7.42,8.08,9.33,10,10,8,84.08,0.11,1,0,green,9,others,others,others,100,green,84.08,Hawaiian Kona,Natural / Dry
+mexico,300,2012,7.67,7.75,7.67,7.75,7.67,7.75,10,10,10,7.83,84.08,0.11,1,0,green,10,1480,1480,1480,1,green,84.08,Typica,Washed / Wet
+ethiopia,100,2012,7.92,7.92,7.83,8,7.92,7.92,10,10,8.67,7.92,84.08,0.09,0,0,others,15,1800,1800,1800,60,bluish-green,84.08,Other,Natural / Dry
+costa rica,275,2017,7.58,7.75,7.67,7.75,7.83,7.75,10,10,10,7.67,84,0.08,1,2,others,13,others,others,others,150,bluish-green,84,,Washed / Wet
+ethiopia,320,2017,7.83,7.75,7.67,7.75,7.33,7.75,10,10,10,7.92,84,0.11,3,11,green,1,1800,1800,1800,60,green,84,Gesha,Natural / Dry
+honduras,275,2017,7.42,7.83,7.75,7.92,7.75,7.58,10,10,10,7.75,84,0.1,0,0,green,5,1500,1500,1500,66,green,84,Caturra,Washed / Wet
+guatemala,275,2015,7.67,7.83,7.58,7.92,7.75,7.67,10,10,10,7.58,84,0.12,0,0,green,7,1658.112,1755.648,1706.88,69,green,84,Caturra,Washed / Wet
+colombia,250,2014,7.67,7.67,7.83,7.58,7.58,7.83,10,10,10,7.83,84,0.11,2,0,green,7,1600,1600,1600,1,green,84,Other,Washed / Wet
+guatemala,250,2014,7.92,7.67,7.42,7.92,7.75,7.83,10,10,10,7.5,84,0.1,0,0,green,1,1219.2,1219.2,1219.2,69,green,84,Bourbon,Natural / Dry
+guatemala,250,2014,7.75,7.83,7.5,7.83,7.58,7.67,10,10,10,7.83,84,0.1,0,0,green,0,1219.2,1219.2,1219.2,69,green,84,Bourbon,Other
+colombia,250,2014,7.67,7.75,7.67,7.67,7.67,7.75,10,10,10,7.83,84,0.12,0,0,green,0,1480,1480,1480,1,green,84,,Washed / Wet
+colombia,250,2014,7.58,7.42,7.75,7.92,7.75,7.92,10,10,10,7.67,84,0.12,0,0,green,0,1450,1450,1450,70,green,84,Caturra,Natural / Dry
+colombia,138,2014,7.67,7.67,7.5,7.5,7.67,7.67,10,10,10,8.33,84,0.12,0,0,green,3,1600,1950,1775,70,green,84,Caturra,Washed / Wet
+ethiopia,50,2013,7.75,7.75,7.5,7.58,7.67,7.92,10,10,10,7.83,84,0.09,4,0,green,40,1550,1550,1550,60,green,84,Other,Natural / Dry
+brazil,320,2013,7.58,7.83,7.67,7.25,8,7.75,10,10,10,7.92,84,0.1,0,0,green,0,1260,1260,1260,60,green,84,Yellow Bourbon,Natural / Dry
+colombia,270,2013,7.67,7.83,7.67,7.75,7.67,7.75,10,10,10,7.67,84,0.11,0,0,green,1,1700,1700,1700,70,green,84,Caturra,Washed / Wet
+kenya,300,2012,7.67,7.83,7.5,7.75,7.92,7.67,10,10,10,7.67,84,0,0,0,green,2,1200,1200,1200,60,green,84,SL34,Washed / Wet
+thailand,2,2012,7.92,8.17,8.17,8.42,8.08,8.17,8.67,8.67,9.33,8.42,84,0.12,0,0,green,0,others,others,others,1,green,84,Other,Washed / Wet
+kenya,150,2012,7.67,7.75,7.67,7.75,7.83,7.67,10,10,10,7.67,84,0,0,0,bluish-green,0,1650,1650,1650,9000,bluish-green,84,SL28,Washed / Wet
+uganda,320,2012,7.92,7.75,7.58,7.67,7.67,7.83,10,10,10,7.58,84,0.1,10,0,green,26,1700,1700,1700,60,green,84,Other,Washed / Wet
+thailand,1,2011,7.58,7.75,7.58,7.75,7.58,7.75,10,10,10,8,84,0.06,0,0,others,0,others,others,others,60,bluish-green,84,,Other
+brazil,320,2017,7.5,7.75,7.58,7.5,7.58,7.5,10,10,10,8.5,83.92,0,0,0,green,3,890,890,890,60,green,83.92,Bourbon,Natural / Dry
+mexico,200,2017,7.83,7.83,7.58,7.92,7.42,7.5,10,10,10,7.83,83.92,0.11,0,0,green,5,1300,1300,1300,69,green,83.92,Mundo Novo,Washed / Wet
+thailand,45,2015,7.67,7.75,7.5,7.67,7.67,7.83,10,10,10,7.83,83.92,0.1,0,0,bluish-green,1,1350,1350,1350,40,bluish-green,83.92,Catimor,Natural / Dry
+brazil,320,2016,7.58,7.67,7.67,7.75,7.58,7.83,10,10,10,7.83,83.92,0.11,0,2,green,7,934,934,934,60,green,83.92,Bourbon,Natural / Dry
+taiwan,20,2015,7.83,7.75,7.83,7.75,7.83,7.75,9.33,10,10,7.83,83.92,0.11,0,0,green,3,1200,1200,1200,50,green,83.92,Typica,Washed / Wet
+colombia,250,2016,7.75,7.67,7.5,7.75,7.83,7.75,10,10,10,7.67,83.92,0.11,1,0,green,2,442,442,442,70,green,83.92,,Other
+colombia,226,2016,7.75,7.58,7.5,7.83,7.75,7.92,10,10,10,7.58,83.92,0,1,3,others,5,others,others,others,70,bluish-green,83.92,,Other
+taiwan,1,2014,7.75,7.75,7.58,7.75,7.75,7.67,10,10,10,7.67,83.92,0,0,0,bluish-green,0,others,others,others,2,bluish-green,83.92,,Natural / Dry
+colombia,275,2015,7.92,7.67,7.5,7.83,7.58,7.67,10,10,10,7.75,83.92,0,0,0,others,0,others,others,others,2,bluish-green,83.92,,Washed / Wet
+colombia,275,2014,7.83,7.75,7.58,7.58,7.75,7.75,10,10,10,7.67,83.92,0,1,0,others,1,others,others,others,2,bluish-green,83.92,,Washed / Wet
+colombia,275,2014,7.75,7.58,7.67,7.83,7.83,7.67,10,10,10,7.58,83.92,0,0,0,green,1,1600,1950,1775,70,green,83.92,Caturra,Washed / Wet
+taiwan,10,2014,8,7.92,7.92,7.92,7.67,7.33,10,10,10,7.17,83.92,0.06,0,0,green,0,950,950,950,60,green,83.92,Typica,Washed / Wet
+colombia,250,2014,7.67,7.83,7.67,7.75,7.67,7.83,10,10,10,7.5,83.92,0.12,0,0,green,3,1550,1550,1550,70,green,83.92,Caturra,Natural / Dry
+mexico,48,2012,7.67,7.75,7.58,7.67,7.75,7.83,10,10,10,7.67,83.92,0.12,10,0,bluish-green,32,900,900,900,1,bluish-green,83.92,Typica,Washed / Wet
+mexico,250,2012,7.5,7.67,7.58,7.83,7.75,7.75,10,10,10,7.83,83.92,0.11,0,0,others,2,1500,1500,1500,1,bluish-green,83.92,Typica,Washed / Wet
+mexico,20,2012,7.75,7.92,7.83,7.92,7.75,7.67,9.33,10,10,7.75,83.92,0,0,0,green,2,1400,1400,1400,1,green,83.92,Typica,Washed / Wet
+colombia,275,2017,7.92,7.58,7.5,7.83,7.58,7.67,10,10,10,7.75,83.83,0,1,0,green,6,2527,2527,2527,70,green,83.83,Caturra,Washed / Wet
+colombia,275,2016,7.83,7.67,7.5,7.75,7.75,7.75,10,10,10,7.58,83.83,0,1,2,green,0,others,others,others,70,green,83.83,Caturra,Other
+costa rica,275,2015,7.67,7.67,7.75,7.67,7.5,7.75,10,10,10,7.83,83.83,0,0,0,bluish-green,0,1850,1850,1850,69,bluish-green,83.83,Caturra,Washed / Wet
+guatemala,100,2016,7.75,7.75,7.5,7.75,7.83,7.58,10,10,10,7.67,83.83,0.11,0,7,green,6,1500,1500,1500,69,green,83.83,Bourbon,Washed / Wet
+taiwan,167,2016,7.75,7.67,7.5,7.75,7.75,7.67,10,10,10,7.75,83.83,0,0,0,others,0,1200,1200,1200,30,bluish-green,83.83,,Other
+brazil,320,2015,7.25,7.58,7.42,8,7.75,7.83,10,10,10,8,83.83,0,0,0,green,0,1,1,1,2,green,83.83,Yellow Bourbon,Natural / Dry
+taiwan,8,2014,7.67,7.75,7.67,7.75,7.42,7.75,10,10,10,7.83,83.83,0,0,0,green,1,480,570,525,18,green,83.83,Typica,Washed / Wet
+ethiopia,320,2014,7.75,7.75,7.67,7.67,7.58,7.67,10,10,10,7.75,83.83,0.12,0,0,green,4,1650,1703,1676.5,60,green,83.83,,Natural / Dry
+brazil,300,2014,7.67,7.67,7.58,7.5,7.83,8.17,10,10,9.33,8.08,83.83,0,0,0,green,1,1200,1200,1200,2,green,83.83,Bourbon,Semi-washed / Semi-pulped
+costa rica,250,2013,7.83,7.42,7.5,7.83,7.75,7.83,10,10,10,7.67,83.83,0.1,0,0,green,3,1200,1400,1300,1,green,83.83,Catuai,Washed / Wet
+guatemala,250,2014,7.58,7.83,7.33,8,7.58,7.75,10,10,10,7.75,83.83,0.1,0,0,green,1,1219.2,1219.2,1219.2,69,green,83.83,Bourbon,Washed / Wet
+brazil,320,2013,7.92,7.5,7.33,7.67,8.17,7.5,10,10,10,7.75,83.83,0.1,0,0,green,0,1260,1260,1260,60,green,83.83,Yellow Bourbon,Natural / Dry
+ecuador,1,2013,7.5,7.67,7.58,7.75,7.83,7.83,10,10,10,7.67,83.83,0.09,0,0,bluish-green,0,800,800,800,5,bluish-green,83.83,,Natural / Dry
+colombia,250,2013,7.67,7.58,7.58,7.83,7.58,7.67,10,10,10,7.92,83.83,0.11,0,0,green,1,1750,1750,1750,70,green,83.83,Caturra,Washed / Wet
+guatemala,250,2013,7.5,7.83,7.5,7.83,7.83,7.67,10,10,10,7.67,83.83,0.11,0,0,green,3,1310.64,1310.64,1310.64,69,green,83.83,Bourbon,Washed / Wet
+mexico,20,2012,7.67,8,7.67,7.42,7.67,7.5,10,10,10,7.92,83.83,0.1,0,0,green,2,1218,1218,1218,1,green,83.83,Bourbon,Natural / Dry
+mexico,250,2012,7.67,7.58,7.5,7.75,7.75,7.75,10,10,10,7.83,83.83,0.11,0,0,others,4,1300,1300,1300,1,bluish-green,83.83,Pacas,Natural / Dry
+brazil,300,2011,7.83,7.83,7.58,7.67,7.5,7.58,10,10,10,7.83,83.83,0.12,0,0,green,3,1250,1250,1250,1,green,83.83,Yellow Bourbon,Semi-washed / Semi-pulped
+thailand,175,2011,7.75,7.75,7.58,8,7.67,7.58,10,10,10,7.5,83.83,0.02,0,0,others,2,1499.9208,1499.9208,1499.9208,50,bluish-green,83.83,,Other
+thailand,1,2011,7.5,7.83,7.58,7.58,7.75,7.83,10,10,10,7.75,83.83,0.01,0,0,others,0,others,others,others,60,bluish-green,83.83,,Other
+ethiopia,300,2010,7.58,7.83,7.58,8,7.83,7.5,10,10,10,7.5,83.83,0.1,0,0,others,3,others,others,others,6,bluish-green,83.83,,Other
+kenya,200,others,7.75,7.58,7.5,7.58,7.75,7.75,10,10,10,7.83,83.75,0.11,0,0,green,2,1800,1800,1800,60,green,83.75,SL28,Washed / Wet
+brazil,320,2017,7.67,7.67,7.58,7.75,7.67,7.67,10,10,10,7.75,83.75,0.11,0,0,green,5,890,890,890,60,green,83.75,Bourbon,Natural / Dry
+colombia,275,2017,7.83,7.83,7.58,7.58,7.58,7.58,10,10,10,7.75,83.75,0.11,0,0,green,1,442,442,442,70,green,83.75,Caturra,Washed / Wet
+taiwan,10,2016,7.67,7.67,7.58,7.58,7.67,7.83,10,10,10,7.75,83.75,0,0,0,green,0,750,750,750,10,green,83.75,Typica,Natural / Dry
+colombia,275,2016,7.92,7.75,7.5,7.67,7.75,7.5,10,10,10,7.67,83.75,0,1,0,green,4,others,others,others,70,green,83.75,,Washed / Wet
+china,3,2015,7.83,7.75,7.67,7.5,7.58,7.67,10,10,10,7.75,83.75,0.1,0,1,green,2,1650,1650,1650,60,green,83.75,Catimor,Washed / Wet
+colombia,250,2015,7.75,7.67,7.5,7.67,7.58,7.83,10,10,10,7.75,83.75,0,0,0,green,0,442,442,442,70,green,83.75,Caturra,Natural / Dry
+uganda,320,2013,8,7.92,7.58,7.75,7.33,7.5,10,10,10,7.67,83.75,0.12,0,0,green,0,1400,1400,1400,60,green,83.75,Bourbon,Natural / Dry
+united states (puerto rico),18,2013,7.83,7.83,7.83,7.67,8,8.17,9.33,9.33,10,7.75,83.75,0.12,0,0,green,1,853.44,853.44,853.44,5,green,83.75,Other,Washed / Wet
+colombia,100,2014,7.67,7.67,7.67,7.92,7.5,7.67,10,10,10,7.67,83.75,0,0,0,green,5,1600,1950,1775,70,green,83.75,Caturra,Washed / Wet
+colombia,250,2014,7.67,7.42,7.42,7.42,8,8.33,10,10,10,7.5,83.75,0,0,0,green,3,1500,1600,1550,70,green,83.75,Other,Washed / Wet
+colombia,250,2013,7.58,7.67,7.75,7.67,7.67,7.67,10,10,10,7.75,83.75,0,0,0,bluish-green,1,1750,1750,1750,70,bluish-green,83.75,Caturra,Washed / Wet
+colombia,275,2013,7.75,7.67,7.75,7.58,7.42,8,10,10,10,7.58,83.75,0.11,0,0,green,3,1750,1750,1750,70,green,83.75,Caturra,Washed / Wet
+united states (hawaii),12,2013,7.25,7.42,7.67,7.58,7.83,8.25,10,10,10,7.75,83.75,0,0,0,bluish-green,0,others,others,others,100,bluish-green,83.75,Hawaiian Kona,Natural / Dry
+mexico,10,2012,7.83,7.58,7.58,7.5,7.75,7.67,10,10,10,7.83,83.75,0.13,5,0,others,5,700,700,700,1,bluish-green,83.75,Caturra,Natural / Dry
+guatemala,250,2012,7.67,7.58,7.58,7.67,7.75,7.75,10,10,10,7.75,83.75,0.11,0,0,bluish-green,1,1300,1300,1300,3,bluish-green,83.75,Caturra,Washed / Wet
+colombia,275,Jan-11,7.83,7.83,7.58,7.33,7.42,7.67,10,10,10,8.08,83.75,0.1,0,0,others,1,1600,1600,1600,70,bluish-green,83.75,,Other
+colombia,250,2018,7.75,7.67,7.25,7.25,7.58,8.5,10,10,10,7.75,83.75,0.06,0,0,others,1,1600,1600,1600,70,bluish-green,83.75,,Other
+united states (hawaii),4,others,7.83,7.67,7.75,7.67,7.58,7.5,10,10,10,7.75,83.75,0,0,0,others,0,others,others,others,1,bluish-green,83.75,,Other
+brazil,320,2017,7.67,7.83,7.5,7.67,7.67,7.5,10,10,10,7.83,83.67,0.11,0,0,green,2,890,890,890,60,green,83.67,Bourbon,Natural / Dry
+kenya,200,2017,8.08,7.67,7.67,7.58,7.25,7.67,10,10,10,7.75,83.67,0.11,0,0,bluish-green,0,1700,1700,1700,60,bluish-green,83.67,SL28,Washed / Wet
+honduras,285,2016,7.5,7.5,7.67,7.67,8,8,10,10,10,7.33,83.67,0.1,0,0,green,2,1400,1400,1400,69,green,83.67,Caturra,Washed / Wet
+nicaragua,275,2016,7.67,7.75,7.67,7.67,7.83,7.58,10,10,10,7.5,83.67,0.1,0,0,green,3,1250,1250,1250,69,green,83.67,Caturra,Washed / Wet
+brazil,320,2016,7.58,7.75,7.58,7.75,7.58,7.58,10,10,10,7.83,83.67,0.11,0,2,green,3,934,934,934,60,green,83.67,Bourbon,Natural / Dry
+taiwan,20,2015,7.5,7.67,7.33,7.92,7.83,7.67,10,10,10,7.75,83.67,0.1,0,0,bluish-green,0,1200,1200,1200,50,bluish-green,83.67,Caturra,Natural / Dry
+costa rica,275,others,7.33,7.67,7.67,7.5,7.67,7.5,10,10,10,8.33,83.67,0.11,0,0,bluish-green,1,1350,1350,1350,69,bluish-green,83.67,,Other
+thailand,1,2014,7.5,7.75,7.58,7.83,7.67,7.58,10,10,10,7.75,83.67,0.12,0,0,bluish-green,0,800,800,800,1,bluish-green,83.67,,Washed / Wet
+colombia,100,2014,7.5,7.75,7.5,7.75,7.67,7.67,10,10,10,7.83,83.67,0.11,0,0,others,4,1550,1700,1625,2,bluish-green,83.67,Caturra,Washed / Wet
+guatemala,275,2014,8,7.5,7.33,8,8,8,9.33,10,10,7.5,83.67,0.1,0,0,green,0,1356.6648,1356.6648,1356.6648,69,green,83.67,Bourbon,Washed / Wet
+colombia,250,2013,7.83,7.75,7.67,7.58,7.58,7.67,10,10,10,7.58,83.67,0,0,0,green,3,1750,1750,1750,70,green,83.67,Caturra,Washed / Wet
+colombia,250,2013,7.67,7.67,7.67,7.67,7.33,7.75,10,10,10,7.92,83.67,0,0,0,green,1,1800,2000,1900,70,green,83.67,Caturra,Washed / Wet
+guatemala,250,2013,7.67,7.67,7.42,7.67,8,7.75,10,10,10,7.5,83.67,0.12,1,0,green,3,1310.64,1310.64,1310.64,69,green,83.67,Bourbon,Washed / Wet
+guatemala,250,2013,7.83,7.67,7.33,7.67,7.67,7.83,10,10,10,7.67,83.67,0.11,0,0,green,2,1310.64,1310.64,1310.64,69,green,83.67,Bourbon,Washed / Wet
+colombia,250,2012,7.75,7.75,7.58,7.83,7.17,7.75,10,10,10,7.83,83.67,0.11,0,0,green,1,1750,1750,1750,70,green,83.67,Caturra,Washed / Wet
+guatemala,250,2012,8.17,8.17,7.83,7.67,8.08,7.75,9.33,9.33,9.33,8,83.67,0.11,0,0,green,1,1450,1450,1450,1,green,83.67,Caturra,Natural / Dry
+guatemala,250,2012,7.67,8.17,7.5,7.42,7.58,7.83,10,10,10,7.5,83.67,0.11,0,0,green,13,1310.64,1310.64,1310.64,1,green,83.67,Bourbon,Washed / Wet
+mexico,48,2012,7.67,7.5,7.5,7.33,7.83,8.25,10,10,10,7.58,83.67,0.12,4,0,green,11,1100,1100,1100,1,green,83.67,Typica,Washed / Wet
+indonesia,10,2012,8.17,7.67,7.58,7.58,7.42,7.67,10,10,10,7.58,83.67,0.12,0,0,green,0,1200,1600,1400,60,green,83.67,Typica,Washed / Wet
+guatemala,250,2012,7.67,7.5,7.33,8,7.67,7.67,10,10,10,7.83,83.67,0.1,0,0,green,0,1524,1524,1524,69,green,83.67,Caturra,Washed / Wet
+united states (hawaii),3,others,7.75,8,7.92,8.08,7.75,8,9.33,9.33,9.33,8.17,83.67,0,0,0,others,0,others,others,others,100,bluish-green,83.67,,Other
+brazil,320,2017,7.58,7.67,7.58,7.58,7.67,7.58,10,10,10,7.92,83.58,0.11,0,0,green,5,890,890,890,60,green,83.58,Bourbon,Natural / Dry
+guatemala,275,2016,7.75,7.75,7.5,7.83,7.58,7.58,10,10,10,7.58,83.58,0.11,0,1,green,0,1128.3696,1128.3696,1128.3696,69,green,83.58,Caturra,Washed / Wet
+colombia,275,2016,7.75,7.75,7.58,7.58,7.67,7.58,10,10,10,7.67,83.58,0.11,0,0,green,4,others,others,others,70,green,83.58,Caturra,Washed / Wet
+china,3,2015,7.67,7.58,7.58,7.58,7.67,7.75,10,10,10,7.75,83.58,0.1,0,1,green,4,1100,1100,1100,60,green,83.58,Catimor,Washed / Wet
+colombia,275,2015,7.67,7.75,7.58,7.67,7.75,7.58,10,10,10,7.58,83.58,0.12,0,0,green,3,1600,1950,1775,70,green,83.58,Caturra,Washed / Wet
+mexico,275,2014,7.75,7.75,7.58,7.58,7.5,7.67,10,10,10,7.75,83.58,0.12,1,0,green,13,1200,1200,1200,2,green,83.58,Caturra,Washed / Wet
+ethiopia,250,2014,7.75,7.67,7.58,7.67,7.5,7.67,10,10,10,7.75,83.58,0,0,0,others,7,1700,2000,1850,60,bluish-green,83.58,Other,Washed / Wet
+uganda,100,2013,7.67,7.67,7.42,7.75,7.75,7.67,10,10,10,7.67,83.58,0.12,0,0,green,5,1800,1800,1800,60,green,83.58,SL14,Washed / Wet
+colombia,250,2014,7.67,7.58,7.67,7.67,7.67,7.67,10,10,10,7.67,83.58,0,0,0,green,0,1600,1600,1600,70,green,83.58,Caturra,Natural / Dry
+colombia,250,2014,7.67,7.58,7.67,7.58,7.67,7.75,10,10,10,7.67,83.58,0.12,0,0,green,1,1550,1550,1550,70,green,83.58,Caturra,Washed / Wet
+colombia,250,2014,7.75,7.58,7.5,7.58,7.75,7.83,10,10,10,7.58,83.58,0,0,0,others,0,1550,1550,1550,70,bluish-green,83.58,Caturra,Washed / Wet
+taiwan,10,2013,7.75,7.75,7.75,7.75,7.5,7.58,10,10,10,7.5,83.58,0.11,0,0,green,0,1000,1000,1000,30,green,83.58,Typica,Other
+colombia,275,2012,7.67,7.67,7.58,7.67,7.75,7.58,10,10,10,7.67,83.58,0.11,0,0,green,3,1600,1950,1775,70,green,83.58,Caturra,Washed / Wet
+mexico,250,2012,7.83,7.67,7.58,7.58,7.67,7.58,10,10,10,7.67,83.58,0.12,0,0,others,2,1000,1000,1000,1,bluish-green,83.58,Typica,Washed / Wet
+colombia,250,2012,7.67,7.58,7.58,7.58,7.67,7.75,10,10,10,7.75,83.58,0.11,0,0,green,4,2136,2136,2136,70,green,83.58,Caturra,Natural / Dry
+brazil,33,2012,7.83,7.75,7.5,7.75,7.5,7.58,10,10,10,7.67,83.58,0.12,0,0,bluish-green,2,1100,1100,1100,60,bluish-green,83.58,Catuai,Semi-washed / Semi-pulped
+colombia,50,2016,7.75,7.58,7.58,7.75,7.75,7.5,10,10,10,7.58,83.5,0,0,0,bluish-green,5,1799,1799,1799,70,bluish-green,83.5,Caturra,Washed / Wet
+taiwan,1,2016,7.58,7.58,7.17,7.17,7,7,10,10,10,10,83.5,0.11,0,0,bluish-green,0,others,others,others,10,bluish-green,83.5,,Other
+costa rica,245,2015,7.92,7.42,7.5,7.67,7.5,7.67,10,10,10,7.83,83.5,0,0,0,bluish-green,0,1850,1850,1850,69,bluish-green,83.5,Caturra,Washed / Wet
+colombia,250,2016,7.75,7.58,7.58,7.5,7.75,7.75,10,10,10,7.58,83.5,0,0,0,green,0,1000,1000,1000,70,green,83.5,Caturra,Natural / Dry
+guatemala,250,2016,7.67,7.75,7.5,7.83,7.58,7.58,10,10,10,7.58,83.5,0.1,0,2,bluish-green,5,1219.2,1219.2,1219.2,69,bluish-green,83.5,Bourbon,Washed / Wet
+colombia,180,2015,7.58,7.58,7.58,7.58,7.75,7.67,10,10,10,7.75,83.5,0.12,0,0,green,4,1600,1950,1775,70,green,83.5,Caturra,Washed / Wet
+"tanzania, united republic of",5,2015,7.75,7.67,7.58,7.67,7.67,7.58,10,10,10,7.58,83.5,0.13,0,0,green,21,1400,1400,1400,60,green,83.5,Ruiru 11,Washed / Wet
+indonesia,200,2015,7.25,7.67,7.58,7.92,7.83,7.58,10,10,10,7.67,83.5,0.13,0,0,bluish-green,8,1500,1500,1500,30,bluish-green,83.5,Sumatra,Semi-washed / Semi-pulped
+ethiopia,320,2014,7.67,7.75,7.5,7.58,7.75,7.67,10,10,10,7.58,83.5,0.1,1,0,others,18,1600,1600,1600,60,bluish-green,83.5,,Natural / Dry
+colombia,275,2014,7.67,7.42,7.67,7.83,7.58,7.67,10,10,10,7.67,83.5,0,1,0,others,0,others,others,others,2,bluish-green,83.5,,Washed / Wet
+colombia,275,2014,8,7.58,7.25,7.58,7.92,7.58,10,10,10,7.58,83.5,0.11,0,0,green,0,1850,1850,1850,70,green,83.5,Caturra,Washed / Wet
+guatemala,250,2013,7.58,7.75,7.5,7.83,7.42,7.67,10,10,10,7.75,83.5,0.1,0,0,green,0,1400,1400,1400,1,green,83.5,Caturra,Washed / Wet
+colombia,250,2014,7.75,7.58,7.33,7.5,7.83,7.83,10,10,10,7.67,83.5,0,2,0,others,0,1650,1650,1650,70,bluish-green,83.5,Caturra,Washed / Wet
+honduras,275,2014,7.67,7.5,7.67,7.5,7.67,7.67,10,10,10,7.83,83.5,0.1,0,0,green,3,1350,1350,1350,1,green,83.5,Caturra,Natural / Dry
+colombia,250,2013,7.58,7.75,7.42,7.67,7.75,7.67,10,10,10,7.67,83.5,0,1,0,green,1,1750,1750,1750,70,green,83.5,Caturra,Washed / Wet
+colombia,250,2013,7.58,7.67,7.58,7.75,7.58,7.75,10,10,10,7.58,83.5,0.11,0,others,green,2,1750,1750,1750,70,green,83.5,Caturra,Washed / Wet
+mexico,10,2012,7.83,7.58,7.25,7.5,7.5,7.42,10,10,10,8.42,83.5,0.13,0,0,green,14,1170,1170,1170,1,green,83.5,Bourbon,Natural / Dry
+mexico,10,2012,7.67,7.75,7.67,7.75,7.58,7.5,10,10,10,7.58,83.5,0.11,0,0,green,12,940,940,940,1,green,83.5,Typica,Semi-washed / Semi-pulped
+mexico,15,2012,7.75,7.67,7.67,7.75,7.33,7.5,10,10,10,7.83,83.5,0.12,0,0,green,0,1400,1400,1400,1,green,83.5,Pacamara,Washed / Wet
+guatemala,275,2012,7.83,7.5,7.5,8,7.67,7.5,10,10,10,7.5,83.5,0.1,0,0,green,5,1524,1524,1524,69,green,83.5,Caturra,Washed / Wet
+colombia,175,2012,7.67,7.58,7.58,7.67,7.67,7.67,10,10,10,7.67,83.5,0.11,0,0,green,0,1600,1950,1775,70,green,83.5,Caturra,Washed / Wet
+guatemala,250,2012,7.5,7.5,7.75,7.5,8,7.67,10,10,10,7.58,83.5,0,3,0,green,12,1402.08,1402.08,1402.08,2,green,83.5,Bourbon,Washed / Wet
+united states (hawaii),14,others,7.5,7.67,7.58,7.92,7.58,7.67,10,10,10,7.58,83.5,0.01,0,0,others,0,others,others,others,100,bluish-green,83.5,,Other
+indonesia,10,23-Jul-10,7.83,7.58,7.58,7.58,7.75,7.58,10,10,10,7.58,83.5,0,0,0,others,0,1600,1600,1600,60,bluish-green,83.5,,Other
+colombia,300,2017,7.5,7.58,7.58,7.5,7.75,7.83,10,10,10,7.67,83.42,0,0,2,green,1,439,439,439,29,green,83.42,Caturra,Washed / Wet
+guatemala,50,2017,7.67,7.75,7.5,7.58,7.58,7.67,10,10,10,7.67,83.42,0.1,0,0,green,3,1700,1700,1700,69,green,83.42,Bourbon,Washed / Wet
+colombia,600,2016,7.67,7.67,7.5,7.67,7.67,7.58,10,10,10,7.67,83.42,0.11,0,0,green,2,442,442,442,29,green,83.42,Caturra,Washed / Wet
+costa rica,275,2016,7.58,7.5,7.42,7.92,7.5,7.67,10,10,10,7.83,83.42,0.09,0,0,bluish-green,4,1850,1850,1850,69,bluish-green,83.42,Caturra,Washed / Wet
+taiwan,1,2015,7.67,7.67,7,7.08,7,7,10,10,10,10,83.42,0.11,0,0,bluish-green,0,others,others,others,10,bluish-green,83.42,,Other
+uganda,20,2015,7.58,7.75,7.33,7.75,7.67,7.58,10,10,10,7.75,83.42,0.11,0,0,green,1,1800,1800,1800,1218,green,83.42,SL14,Washed / Wet
+thailand,500,2015,7.5,7.58,7.75,7.5,7.75,7.67,10,10,10,7.67,83.42,0.13,0,0,bluish-green,0,1200,1200,1200,25,bluish-green,83.42,Catimor,Washed / Wet
+el salvador,275,2016,7.58,7.5,7.75,7.58,7.75,7.67,10,10,10,7.58,83.42,0.11,0,0,others,0,1330,1330,1330,69,bluish-green,83.42,Bourbon,Washed / Wet
+colombia,275,2015,7.58,7.67,7.58,7.67,7.58,7.67,10,10,10,7.67,83.42,0.12,4,0,green,0,442,442,442,70,green,83.42,Caturra,Natural / Dry
+brazil,300,2014,7.33,7.83,7.75,7.5,7.42,7.83,10,10,10,7.75,83.42,0.12,0,0,green,6,others,others,others,60,green,83.42,Yellow Bourbon,Semi-washed / Semi-pulped
+"tanzania, united republic of",39,2014,7.75,7.67,7.58,7.67,7.58,7.58,10,10,10,7.58,83.42,0.13,0,0,green,4,1600,1600,1600,60,green,83.42,Bourbon,Washed / Wet
+colombia,250,2014,7.58,7.58,7.25,7.75,7.75,8.58,9.33,10,10,7.58,83.42,0.12,0,0,green,1,1813,1813,1813,70,green,83.42,Caturra,Washed / Wet
+guatemala,250,2013,7.75,7.83,7.33,7.83,7.5,7.67,10,10,10,7.5,83.42,0.1,0,0,green,1,1219.2,1219.2,1219.2,69,green,83.42,Bourbon,Natural / Dry
+guatemala,250,2014,7.67,7.75,7.5,7.83,7.58,7.5,10,10,10,7.58,83.42,0.1,0,0,green,2,1500,1500,1500,69,green,83.42,Caturra,Washed / Wet
+guatemala,250,2013,7.67,7.5,7.75,7.42,7.75,7.75,10,10,10,7.58,83.42,0.11,0,0,green,0,1310.64,1310.64,1310.64,69,green,83.42,Bourbon,Washed / Wet
+united states (hawaii),13,2012,7.42,7.75,7.67,7.58,7.67,7.67,10,10,10,7.67,83.42,0,0,0,green,2,others,others,others,100,green,83.42,Hawaiian Kona,Natural / Dry
+colombia,250,2012,7.5,7.75,7.58,7.5,7.67,7.75,10,10,10,7.67,83.42,0.11,0,0,green,2,1450,1450,1450,70,green,83.42,Caturra,Washed / Wet
+colombia,250,others,7.58,7.58,7.58,7.67,7.75,7.67,10,10,10,7.58,83.42,0.1,1,0,others,3,others,others,others,70,bluish-green,83.42,,Other
+united states (hawaii),12,2010,7.5,7.92,7.42,7.67,7.83,7.58,10,10,10,7.5,83.42,0.01,0,0,others,0,others,others,others,60,bluish-green,83.42,,Other
+thailand,4,others,7.58,7.25,7.5,7.92,7.92,7.42,10,10,10,7.83,83.42,0.11,0,0,others,0,others,others,others,1,bluish-green,83.42,Peaberry,Other
+mexico,6,2016,7.25,7.88,7.38,7.63,7.5,8.75,9,10,10,8,83.38,0.09,2,0,others,4,900,1200,1050,6,bluish-green,83.38,,Other
+colombia,275,2016,7.75,7.5,7.75,7.58,7.58,7.58,10,10,10,7.58,83.33,0,0,1,others,0,1650,1650,1650,70,bluish-green,83.33,Caturra,Washed / Wet
+colombia,130,2016,7.67,7.58,7.58,7.42,7.67,7.75,10,10,10,7.67,83.33,0,0,0,bluish-green,0,others,others,others,70,bluish-green,83.33,Caturra,Washed / Wet
+colombia,275,2016,7.83,7.58,7.58,7.58,7.5,7.58,10,10,10,7.67,83.33,0,1,0,green,2,others,others,others,70,green,83.33,Caturra,Washed / Wet
+brazil,10,2015,7.5,7.83,7.33,7.58,7.58,7.92,10,10,10,7.58,83.33,0.1,1,0,green,5,1227,1227,1227,2,green,83.33,Catuai,Semi-washed / Semi-pulped
+mexico,275,2014,7.75,7.75,7.5,7.67,7.5,7.58,10,10,10,7.58,83.33,0.12,0,0,green,2,1200,1200,1200,1,green,83.33,Caturra,Washed / Wet
+colombia,275,2015,7.67,7.75,7.42,7.83,7.83,7.42,10,10,10,7.42,83.33,0.11,0,0,green,1,1650,1650,1650,70,green,83.33,Caturra,Washed / Wet
+"tanzania, united republic of",10,2014,7.75,7.58,7.67,7.58,7.58,7.58,10,10,10,7.58,83.33,0.12,0,0,green,6,1700,1700,1700,60,green,83.33,Other,Semi-washed / Semi-pulped
+mexico,200,2013,7.67,7.67,7.58,7.67,7.5,7.58,10,10,10,7.67,83.33,0.12,0,0,green,0,1100,1100,1100,1,green,83.33,Other,Washed / Wet
+costa rica,250,2014,7.67,7.67,7.42,7.67,7.67,7.67,10,10,10,7.58,83.33,0.12,0,0,green,3,1300,1300,1300,3,green,83.33,Caturra,Washed / Wet
+united states (hawaii),12,2014,7.83,7.58,7.83,7.67,7.92,8,9.33,10,9.33,7.83,83.33,0.11,0,0,bluish-green,1,others,others,others,100,bluish-green,83.33,Hawaiian Kona,Natural / Dry
+costa rica,250,2013,7.5,7.67,7.67,7.5,7.83,7.17,10,10,10,8,83.33,0.11,0,0,green,3,1100,1300,1200,1,green,83.33,Catuai,Washed / Wet
+peru,280,2013,7.83,7.75,7.58,7.83,7.92,7.58,9.33,10,10,7.5,83.33,0.12,0,0,green,5,others,others,others,5,green,83.33,,Washed / Wet
+haiti,2,2012,7.58,7.5,7.67,7.5,7.83,7.42,10,10,10,7.83,83.33,0.11,0,0,green,4,1280.16,1280.16,1280.16,4,green,83.33,Typica,Washed / Wet
+colombia,250,2013,7.67,7.67,7.5,7.67,7.92,7.42,10,10,10,7.5,83.33,0.11,0,0,green,1,1000,1000,1000,70,green,83.33,Caturra,Natural / Dry
+guatemala,250,2013,7.83,7.67,7.17,7.67,7.67,7.67,10,10,10,7.67,83.33,0.11,0,0,green,3,1310.64,1310.64,1310.64,69,green,83.33,Bourbon,Washed / Wet
+united states (hawaii),7,2012,7.92,7.5,7.58,7.83,7.67,7.67,9.33,10,10,7.83,83.33,0.1,0,0,bluish-green,4,others,others,others,100,bluish-green,83.33,Hawaiian Kona,Natural / Dry
+burundi,220,2012,7.75,7.67,7.33,7.5,7.5,7.75,10,10,10,7.83,83.33,0,0,0,others,5,1880,1880,1880,60,bluish-green,83.33,Bourbon,Washed / Wet
+colombia,250,2012,7.5,7.67,7.67,7.58,7.67,7.58,10,10,10,7.67,83.33,0,0,0,green,1,1750,1750,1750,70,green,83.33,Caturra,Washed / Wet
+united states (hawaii),27,others,8.08,7.83,7.83,7.75,7.67,7.58,9.33,10,9.33,7.92,83.33,0.01,0,0,others,0,others,others,others,100,bluish-green,83.33,,Other
+united states (hawaii),25,others,7.58,7.67,7.58,7.5,7.83,7.67,10,10,10,7.5,83.33,0,0,0,others,0,others,others,others,100,bluish-green,83.33,,Other
+mexico,50,2017,7.67,7.83,7.42,7.83,7.33,7.5,10,10,10,7.67,83.25,0.11,0,0,bluish-green,0,1600,1600,1600,50,bluish-green,83.25,Typica,Washed / Wet
+costa rica,29,2016,7.5,7.5,7.83,7.5,7.67,7.67,10,10,10,7.58,83.25,0.11,0,0,green,0,1900,1900,1900,46,green,83.25,Catuai,Pulped natural / honey
+costa rica,275,2015,7.83,7.5,7.42,7.67,7.5,7.67,10,10,10,7.67,83.25,0.11,0,0,others,0,others,others,others,69,bluish-green,83.25,,Washed / Wet
+guatemala,275,2016,7.5,7.58,7.42,7.83,7.67,7.58,10,10,10,7.67,83.25,0.11,0,2,green,7,2100,2100,2100,0,green,83.25,Pacas,Washed / Wet
+uganda,150,2015,7.5,7.67,7.67,7.42,7.67,7.67,10,10,10,7.67,83.25,0.12,0,0,green,1,others,others,others,9000,green,83.25,SL14,Washed / Wet
+brazil,300,2016,7.58,7.67,7.42,7.5,7.67,7.42,10,10,10,8,83.25,0.12,0,0,green,4,others,others,others,60,green,83.25,,Other
+colombia,304,2016,7.58,7.67,7.67,7.17,7.75,7.83,10,10,10,7.58,83.25,0,0,0,green,2,442,442,442,35,green,83.25,Caturra,Natural / Dry
+mexico,11,2015,7.83,7.75,7.5,7.58,7.58,7.58,10,10,10,7.42,83.25,0.12,0,0,bluish-green,2,1261,1261,1261,2,bluish-green,83.25,Typica,Natural / Dry
+taiwan,10,2015,7.67,7.5,7.5,7.5,7.67,7.83,10,10,10,7.58,83.25,0.1,0,0,bluish-green,0,1000,1000,1000,15,bluish-green,83.25,Bourbon,Washed / Wet
+taiwan,10,2014,7.92,7.83,7.75,7.58,7.5,7.33,10,10,10,7.33,83.25,0.1,0,0,green,0,800,800,800,60,green,83.25,Typica,Washed / Wet
+colombia,250,2014,7.58,7.58,7.5,7.58,7.58,7.75,10,10,10,7.67,83.25,0,0,0,green,0,1483,1483,1483,70,green,83.25,Caturra,Natural / Dry
+guatemala,26,2014,7.5,7.67,7.58,7.67,7.67,7.5,10,10,10,7.67,83.25,0.1,0,0,green,1,1500,1500,1500,69,green,83.25,Caturra,Washed / Wet
+colombia,275,2013,7.83,7.5,7.67,7.33,7.67,7.67,10,10,10,7.58,83.25,0.11,0,0,green,1,1750,1750,1750,70,green,83.25,Caturra,Washed / Wet
+mexico,200,2013,7.58,7.75,7.5,7.5,7.58,7.58,10,10,10,7.75,83.25,0.12,0,0,green,6,1300,1300,1300,1,green,83.25,Bourbon,Washed / Wet
+united states (hawaii),11,2012,7.58,7.75,7.83,8,8.08,7.67,9.33,10,9.33,7.67,83.25,0.11,0,0,bluish-green,4,others,others,others,100,bluish-green,83.25,Hawaiian Kona,Natural / Dry
+mexico,10,2012,7.75,7.58,7.58,7.58,7.5,7.58,10,10,10,7.67,83.25,0.13,0,0,green,7,others,others,others,1,green,83.25,Mundo Novo,Washed / Wet
+mexico,54,2012,7.75,7.75,7.42,7.92,7.33,7.5,10,10,10,7.58,83.25,0.12,0,0,bluish-green,0,1000,1000,1000,1,bluish-green,83.25,Caturra,Washed / Wet
+guatemala,250,2012,7.83,7.58,7.08,7.83,7.42,8.08,10,10,10,7.42,83.25,0.11,0,0,green,9,1310.64,1310.64,1310.64,1,green,83.25,Bourbon,Washed / Wet
+brazil,30,2012,7.75,7.67,7.5,7.58,7.58,7.58,10,10,10,7.58,83.25,0.11,0,0,bluish-green,1,1200,1200,1200,60,bluish-green,83.25,Yellow Bourbon,Semi-washed / Semi-pulped
+colombia,250,2012,7.67,7.58,7.58,7.42,7.83,7.58,10,10,10,7.58,83.25,0.12,0,0,green,1,175,175,175,70,green,83.25,Caturra,Washed / Wet
+colombia,175,2012,7.67,7.67,7.5,7.5,7.58,7.67,10,10,10,7.67,83.25,0.11,0,0,green,0,1600,1950,1775,70,green,83.25,Caturra,Washed / Wet
+colombia,250,2011,7.92,7.75,7.25,7.42,7.83,7.58,10,10,10,7.5,83.25,0.08,0,0,others,0,1600,1800,1700,70,bluish-green,83.25,,Other
+colombia,250,2010,8,7.67,7.67,7.25,7.67,7.5,10,10,10,7.5,83.25,0.13,0,0,others,1,1880,1880,1880,70,bluish-green,83.25,,Other
+colombia,250,2010,7.92,7.75,7.5,7.42,7.42,7.67,10,10,10,7.58,83.25,0.04,0,0,others,1,1800,1800,1800,70,bluish-green,83.25,,Other
+brazil,320,2018,7.67,7.42,7.5,7.58,7.67,7.58,10,10,10,7.75,83.17,0.11,0,0,green,4,890,890,890,60,green,83.17,Bourbon,Natural / Dry
+guatemala,275,2017,7.58,7.58,7.33,7.67,7.75,7.58,10,10,10,7.67,83.17,0.1,0,0,green,1,1901,1901,1901,69,green,83.17,Bourbon,Washed / Wet
+"tanzania, united republic of",320,2016,7.67,7.58,7.42,7.67,7.67,7.58,10,10,10,7.58,83.17,0.12,0,0,green,3,168,168,168,60,green,83.17,Bourbon,Washed / Wet
+peru,200,2017,7.92,7.5,7.5,7.58,7.67,7.5,10,10,10,7.5,83.17,0.11,0,1,green,0,others,others,others,13800,green,83.17,,Other
+vietnam,1,2017,7.58,7.42,7.08,7.33,7.58,8.58,10,10,10,7.58,83.17,0.07,0,0,others,0,1550,1550,1550,2,bluish-green,83.17,Catimor,Natural / Dry
+guatemala,250,2016,7.67,7.75,7.42,7.75,7.58,7.5,10,10,10,7.5,83.17,0.11,2,2,green,3,1500,1500,1500,1500,green,83.17,Caturra,Washed / Wet
+honduras,275,2016,7.67,7.67,7.5,7.67,7.5,7.67,10,10,10,7.5,83.17,0.11,0,1,bluish-green,1,1450,1450,1450,69,bluish-green,83.17,Catuai,Washed / Wet
+china,3,2015,7.5,7.67,7.33,7.67,7.67,7.67,10,10,10,7.67,83.17,0.11,0,0,green,0,1200,1200,1200,60,green,83.17,Catimor,Washed / Wet
+china,3,2015,7.67,7.67,7.5,7.67,7.42,7.58,10,10,10,7.67,83.17,0.1,0,0,green,3,1600,1600,1600,60,green,83.17,Catimor,Washed / Wet
+el salvador,275,2016,7.5,7.5,7.33,7.67,8,7.67,10,10,10,7.5,83.17,0,0,0,green,0,1350,1350,1350,69,green,83.17,Bourbon,Washed / Wet
+guatemala,150,2015,7.5,7.75,7.5,7.83,7.58,7.5,10,10,10,7.5,83.17,0.11,0,0,green,1,1500,1500,1500,69,green,83.17,Bourbon,Washed / Wet
+guatemala,100,2015,7.92,7.67,7.42,7.75,7.5,7.5,10,10,10,7.42,83.17,0.12,0,0,green,3,1400,1900,1650,69,green,83.17,Bourbon,Washed / Wet
+kenya,300,2014,7.83,7.75,7.67,7.75,7.83,8.5,9.33,9.33,9.33,7.83,83.17,0.1,0,0,bluish-green,1,1,500,250.5,2,bluish-green,83.17,SL28,Washed / Wet
+thailand,1,2014,7.67,7.58,7.58,7.75,7.42,7.67,10,10,10,7.5,83.17,0.12,0,0,bluish-green,0,800,800,800,1,bluish-green,83.17,,Washed / Wet
+"tanzania, united republic of",180,2014,7.58,7.67,7.67,7.58,7.42,7.58,10,10,10,7.67,83.17,0.13,0,0,bluish-green,6,1653,1653,1653,60,bluish-green,83.17,Other,Washed / Wet
+colombia,232,2014,7.58,7.5,7.5,7.67,7.5,7.67,10,10,10,7.75,83.17,0,0,0,others,4,1600,1950,1775,70,bluish-green,83.17,Caturra,Washed / Wet
+uganda,84,2014,8,7.67,7.5,7.42,7.33,7.58,10,10,10,7.67,83.17,0.1,0,0,bluish-green,0,1800,1800,1800,60,bluish-green,83.17,SL14,Washed / Wet
+colombia,1,2014,7.58,7.75,7.5,7.58,7.58,7.58,10,10,10,7.58,83.17,0.11,10,0,green,3,others,others,others,4,green,83.17,,Washed / Wet
+honduras,275,2013,7.5,7.5,7.5,7.67,7.67,7.67,10,10,10,7.67,83.17,0.1,0,0,green,5,1450,1450,1450,1,green,83.17,Catuai,Natural / Dry
+honduras,275,2014,7.67,7.67,7.5,7.67,7.5,7.67,10,10,10,7.5,83.17,0.11,0,0,green,3,1350,1350,1350,1,green,83.17,Caturra,Natural / Dry
+guatemala,200,2014,7.33,7.83,7.17,8.17,7.33,7.67,10,10,10,7.67,83.17,0.09,0,0,green,1,1524,1524,1524,69,green,83.17,Catuai,Washed / Wet
+united states (hawaii),6,2013,7.5,7.5,7.58,7.42,7.92,7.67,10,10,10,7.58,83.17,0.11,0,0,bluish-green,0,others,others,others,100,bluish-green,83.17,Hawaiian Kona,Natural / Dry
+"tanzania, united republic of",300,2014,7.58,7.5,7.58,7.75,7.58,7.58,10,10,10,7.58,83.17,0.12,0,0,green,1,1800,1800,1800,1,green,83.17,Bourbon,Washed / Wet
+guatemala,250,2013,7.67,7.83,7.33,7.67,7.5,7.67,10,10,10,7.5,83.17,0.11,0,0,green,2,1310.64,1310.64,1310.64,69,green,83.17,Bourbon,Washed / Wet
+mexico,45,2013,7.75,7.58,7.58,7.58,7.5,7.42,10,10,10,7.75,83.17,0.11,0,0,green,2,1500,1500,1500,1,green,83.17,Typica,Washed / Wet
+mexico,10,2012,7.75,7.67,7.58,7.5,7.42,7.58,10,10,10,7.67,83.17,0.12,3,0,others,8,532,532,532,1,bluish-green,83.17,Typica,Washed / Wet
+mexico,10,2012,7.58,7.75,7.42,7.67,7.5,7.58,10,10,10,7.67,83.17,0.14,0,0,others,10,1089,1089,1089,1,bluish-green,83.17,Pacamara,Washed / Wet
+colombia,275,2012,7.67,7.5,7.5,7.5,7.58,8.17,10,10,10,7.25,83.17,0.11,1,0,green,2,1600,1950,1775,70,green,83.17,Caturra,Washed / Wet
+mexico,15,2012,7.75,7.5,7.42,7.75,7.58,7.58,10,10,10,7.58,83.17,0.13,0,0,green,5,700,700,700,1,green,83.17,Typica,Washed / Wet
+colombia,250,2012,7.58,7.67,7.5,7.58,7.67,7.67,10,10,10,7.5,83.17,0.11,0,0,bluish-green,0,1750,1750,1750,70,bluish-green,83.17,Caturra,Washed / Wet
+mexico,250,2012,7.5,7.75,7.58,7.58,7.67,7.5,10,10,10,7.58,83.17,0.11,0,0,others,5,1380,1380,1380,1,bluish-green,83.17,Typica,Washed / Wet
+brazil,50,2012,7.75,7.67,7.58,7.5,7.58,7.58,10,10,10,7.5,83.17,0.12,0,0,green,1,1000,1000,1000,60,green,83.17,Mundo Novo,Natural / Dry
+brazil,100,2012,7.92,7.58,7.5,7.58,7.42,7.5,10,10,10,7.67,83.17,0.11,0,0,green,4,950,950,950,60,green,83.17,Mundo Novo,Natural / Dry
+guatemala,250,2012,7.75,7.5,7.67,7.5,7.92,8,10,10,9.33,7.5,83.17,0,0,0,green,10,1402.08,1402.08,1402.08,2,green,83.17,Bourbon,Washed / Wet
+brazil,25,2011,7.75,7.5,7.58,7.5,7.75,7.5,10,10,10,7.58,83.17,0.12,0,0,bluish-green,3,1000,1000,1000,60,bluish-green,83.17,Mundo Novo,Semi-washed / Semi-pulped
+brazil,90,2011,7.58,7.75,7.67,7.5,7.67,7.58,10,10,10,7.42,83.17,0.02,0,0,others,2,900,900,900,60,bluish-green,83.17,,Other
+el salvador,250,2010,7.42,7.83,8.17,8.08,7.17,7.58,10,9.33,10,7.58,83.17,0.14,0,0,others,3,1200,1200,1200,69,bluish-green,83.17,,Other
+ethiopia,300,2011,7.75,8,7.67,8.08,7.83,7.92,9.33,9.33,9.33,7.92,83.17,0.01,0,0,others,0,1850,1850,1850,6,bluish-green,83.17,,Other
+colombia,275,2016,7.58,7.67,7.33,7.67,7.75,7.58,10,10,10,7.5,83.08,0,0,1,green,4,1799,1799,1799,70,green,83.08,Caturra,Washed / Wet
+colombia,275,2016,7.75,7.5,7.5,7.42,8,7.75,10,10,10,7.17,83.08,0,1,2,green,5,others,others,others,70,green,83.08,Caturra,Washed / Wet
+brazil,320,2015,7.58,7.58,7.58,7.5,7.67,7.58,10,10,10,7.58,83.08,0.11,0,2,bluish-green,2,905,905,905,60,bluish-green,83.08,Yellow Bourbon,Pulped natural / honey
+brazil,320,2015,7.33,7.67,7.67,7.33,7.75,7.42,10,10,10,7.92,83.08,0,0,0,green,3,1,1,1,2,green,83.08,Yellow Bourbon,Natural / Dry
+taiwan,20,2015,7.83,7.92,7.5,7.83,7.67,7.25,9.33,10,10,7.75,83.08,0,0,0,green,0,700,800,750,60,green,83.08,Typica,Natural / Dry
+brazil,300,2015,7.42,7.67,7.58,7.5,7.75,7.67,10,10,10,7.5,83.08,0.11,0,0,green,13,others,others,others,60,green,83.08,Mundo Novo,Natural / Dry
+brazil,300,2014,7.58,7.83,7.67,7.42,7.42,7.5,10,10,10,7.67,83.08,0,0,0,green,1,1200,1200,1200,2,green,83.08,Bourbon,Washed / Wet
+costa rica,250,2014,7.83,7.33,7.5,7.67,7.58,7.67,10,10,10,7.5,83.08,0.1,0,0,green,3,1200,1400,1300,1,green,83.08,Catuai,Washed / Wet
+united states (hawaii),16,2013,7.33,7.75,7.58,7.33,7.83,7.67,10,10,10,7.58,83.08,0.12,0,0,bluish-green,8,others,others,others,100,bluish-green,83.08,Hawaiian Kona,Natural / Dry
+taiwan,50,2013,7.75,7.75,7.5,7.5,7.5,7.5,10,10,10,7.58,83.08,0.11,0,0,others,0,1300,1300,1300,30,bluish-green,83.08,Typica,Other
+united states (hawaii),6,2012,7.83,7.83,7.33,7.17,7.75,7.67,10,10,10,7.5,83.08,0.1,0,0,bluish-green,0,others,others,others,100,bluish-green,83.08,Hawaiian Kona,Natural / Dry
+mexico,10,2012,7.75,7.67,7.42,7.75,7.5,7.5,10,10,10,7.5,83.08,0.1,0,0,others,1,1400,1400,1400,1,bluish-green,83.08,Other,Washed / Wet
+united states (hawaii),7,2012,7.67,7.58,7.5,7.67,7.92,8,9.33,9.33,10,8.08,83.08,0,1,0,others,4,others,others,others,100,bluish-green,83.08,Hawaiian Kona,Natural / Dry
+united states (hawaii),6,2012,7.33,7.58,7.58,7.92,7.67,7.58,10,10,10,7.42,83.08,0.12,0,0,green,0,others,others,others,100,green,83.08,Hawaiian Kona,Washed / Wet
+colombia,275,others,7.33,7.33,7.33,7.58,7.25,8.08,10,10,10,8.17,83.08,0.01,0,0,others,0,1600,1950,1775,70,bluish-green,83.08,Caturra,Other
+colombia,250,others,7.83,7.75,7.33,7.25,7.42,7.92,10,10,10,7.58,83.08,0.08,1,0,others,3,1880,1880,1880,70,bluish-green,83.08,,Other
+indonesia,10,2010,7.67,7.58,7.5,7.58,7.67,7.58,10,10,10,7.5,83.08,0,0,0,others,0,1300,1400,1350,60,bluish-green,83.08,,Other
+guatemala,275,others,7.92,7.67,7.67,7.25,7.83,7.67,9.33,10,10,7.75,83.08,0.02,0,0,others,1,others,others,others,69,bluish-green,83.08,,Other
+brazil,320,2017,7.58,7.5,7.5,7.75,7.67,7.5,10,10,10,7.5,83,0,0,0,green,4,890,890,890,60,green,83,Bourbon,Natural / Dry
+brazil,320,2016,7.5,7.58,7.58,7.67,7.58,7.5,10,10,10,7.58,83,0.11,0,3,green,5,894,894,894,60,green,83,Bourbon,Natural / Dry
+brazil,320,2016,7.5,7.67,7.58,7.67,7.58,7.42,10,10,10,7.58,83,0.11,0,2,bluish-green,3,872,872,872,60,bluish-green,83,Bourbon,Natural / Dry
+uganda,310,2015,7.67,7.58,7.42,7.42,7.83,7.5,10,10,10,7.58,83,0.12,0,0,green,6,1473,1473,1473,60,green,83,Bourbon,Washed / Wet
+uganda,325,2015,7.67,7.67,7.5,7.58,7.42,7.5,10,10,10,7.67,83,0.12,0,5,green,8,1645,1645,1645,60,green,83,Bourbon,Natural / Dry
+colombia,25,2016,7.67,7.67,7.33,7.67,7.5,7.58,10,10,10,7.58,83,0.11,0,0,green,4,442,442,442,70,green,83,,Other
+vietnam,2,2014,7.75,7.67,7.58,7.58,7.42,7.67,9.33,10,10,8,83,0,0,0,green,0,1550,1550,1550,2,green,83,Caturra,Other
+guatemala,275,2015,7.67,7.75,7.33,7.92,7.42,7.5,10,10,10,7.42,83,0.11,0,0,green,3,1300,1800,1550,69,green,83,Catuai,Washed / Wet
+guatemala,200,2015,7.75,7.67,7.33,7.75,7.5,7.42,10,10,10,7.58,83,0.11,0,0,green,2,1371.6,1371.6,1371.6,69,green,83,Catuai,Washed / Wet
+guatemala,250,2015,7.83,7.67,7.25,7.67,7.75,7.5,10,10,10,7.33,83,0.11,0,0,green,2,1500,1500,1500,69,green,83,Bourbon,Washed / Wet
+brazil,305,2014,7.67,7.67,7.67,7.5,7.42,7.5,10,10,10,7.58,83,0,0,0,green,0,900,1100,1000,2,green,83,Catuai,Natural / Dry
+taiwan,10,2014,7.92,7.92,7.83,7.58,7.33,7.25,10,10,10,7.17,83,0.08,0,0,green,0,1200,1200,1200,60,green,83,Typica,Washed / Wet
+uganda,300,2013,7.83,7.58,7.5,7.5,7.58,7.5,10,10,10,7.5,83,0.12,0,0,green,0,1800,1800,1800,60,green,83,SL14,Washed / Wet
+united states (puerto rico),17,2013,7.67,7.5,7.67,7.83,7.75,7.83,10,10,9.33,7.42,83,0,0,0,bluish-green,0,853.44,853.44,853.44,5,bluish-green,83,Other,Washed / Wet
+guatemala,26,2014,7.67,7.67,7.42,7.83,7.5,7.5,10,10,10,7.42,83,0.1,1,0,green,0,1500,1500,1500,69,green,83,Bourbon,Washed / Wet
+costa rica,250,2013,7.67,7.58,7.5,7.58,7.5,7.5,10,10,10,7.67,83,0.11,0,0,green,3,1100,1300,1200,1,green,83,Catuai,Washed / Wet
+brazil,250,2013,7.75,7.58,7.42,7.67,7.42,7.67,10,10,10,7.5,83,0.12,0,0,bluish-green,4,1250,1250,1250,2,bluish-green,83,Yellow Bourbon,Semi-washed / Semi-pulped
+colombia,120,2013,7.75,7.42,7.33,7.5,7.58,7.17,10,10,10,8.25,83,0.11,1,0,green,1,1600,1950,1775,70,green,83,Caturra,Washed / Wet
+colombia,250,2013,7.83,7.5,7.58,7.33,7.5,7.67,10,10,10,7.58,83,0,0,0,green,0,1750,1750,1750,70,green,83,Caturra,Washed / Wet
+colombia,250,2013,7.33,7.67,7.75,7.42,7.75,7.58,10,10,10,7.5,83,0.11,0,0,green,1,1000,1000,1000,70,green,83,Caturra,Natural / Dry
+colombia,250,2013,7.58,7.75,7.42,7.67,7.58,7.42,10,10,10,7.58,83,0,0,0,green,2,1000,1000,1000,70,green,83,Caturra,Natural / Dry
+colombia,275,2012,7.5,7.5,7.42,7.58,7.75,7.58,10,10,10,7.67,83,0.11,1,0,green,2,1600,1950,1775,70,green,83,Caturra,Washed / Wet
+mexico,15,2012,7.67,7.58,7.42,7.5,7.67,7.58,10,10,10,7.58,83,0.11,0,0,green,20,750,750,750,1,green,83,Typica,Washed / Wet
+mexico,20,2012,7.67,7.83,7.5,7.58,7.58,7.67,9.33,10,10,7.83,83,0.11,0,0,green,7,1200,1200,1200,1,green,83,Typica,Semi-washed / Semi-pulped
+mexico,250,2012,7.5,7.67,7.5,7.5,7.58,7.58,10,10,10,7.67,83,0.11,5,0,green,8,1200,1200,1200,1,green,83,Bourbon,Washed / Wet
+colombia,250,2012,7.67,7.58,7.5,7.5,7.75,7.5,10,10,10,7.5,83,0,1,0,others,4,others,others,others,70,bluish-green,83,Arusha,Natural / Dry
+colombia,250,2012,7.75,7.58,7.5,7.67,7.83,7.75,9.33,10,10,7.58,83,0,0,0,green,4,1500,1750,1625,70,green,83,Caturra,Washed / Wet
+colombia,250,2012,7.67,7.58,7.58,7.58,7.67,7.42,10,10,10,7.5,83,0.11,0,0,green,0,1750,1750,1750,70,green,83,Caturra,Washed / Wet
+guatemala,275,2012,7.5,7.67,7.5,7.67,7.5,7.83,10,10,10,7.33,83,0.1,0,0,green,2,1371.6,1371.6,1371.6,1,green,83,Bourbon,Washed / Wet
+colombia,121,2011,7.67,7.67,7.58,7.5,7.67,7.42,10,10,10,7.5,83,0.12,0,0,bluish-green,0,1600,1950,1775,1,bluish-green,83,Caturra,Washed / Wet
+thailand,1,2011,7.33,7.67,7.58,7.5,7.75,7.67,10,10,10,7.5,83,0.28,0,0,others,0,others,others,others,60,bluish-green,83,,Other
+colombia,300,others,7.33,7.67,7.58,7.33,7.58,7.92,10,10,10,7.58,83,0.08,0,0,others,1,1050,1850,1450,70,bluish-green,83,,Other
+united states (hawaii),23,others,7.83,7.83,7.67,7.83,7.92,7.83,9.33,9.33,9.33,8.08,83,0,0,0,others,0,others,others,others,100,bluish-green,83,,Other
+united states (hawaii),5,others,7.5,7.58,7.42,7.58,7.58,7.67,10,10,10,7.67,83,0,0,0,others,1,others,others,others,100,bluish-green,83,,Other
+colombia,250,2018,7.5,7.58,7.67,7.67,7.58,7.58,10,10,10,7.42,83,0.06,0,0,others,2,1800,1800,1800,70,bluish-green,83,,Other
+nicaragua,2,2009,7.58,7.83,7.75,7.92,7.92,8.08,9.33,9.33,9.33,7.92,83,0.07,0,0,others,0,others,others,others,6,bluish-green,83,Caturra,Other
+thailand,1,others,7.5,7.25,7.42,7.75,8.17,7.5,10,10,10,7.42,83,0,0,0,others,0,others,others,others,1,bluish-green,83,,Other
+brazil,320,2017,7.67,7.58,7.5,7.58,7.58,7.5,10,10,10,7.5,82.92,0,0,0,green,0,890,890,890,60,green,82.92,Bourbon,Natural / Dry
+el salvador,100,2017,7.5,7.5,7.75,7.58,7.92,7.83,10,10,9.33,7.5,82.92,0,0,0,green,1,1350,1350,1350,69,green,82.92,Bourbon,Washed / Wet
+colombia,129,2017,7.58,7.67,7.5,7.33,7.67,7.58,10,10,10,7.58,82.92,0.11,0,0,green,1,1500,1500,1500,70,green,82.92,Caturra,Washed / Wet
+taiwan,10,2016,7.17,7.83,7.25,7.67,7.67,7.58,10,10,10,7.75,82.92,0.09,31,0,green,0,350,350,350,20,green,82.92,Caturra,Natural / Dry
+ethiopia,250,2016,7.58,7.58,7.5,7.5,7.58,7.58,10,10,10,7.58,82.92,0,1,0,bluish-green,20,2000,2000,2000,60,bluish-green,82.92,Ethiopian Heirlooms,Washed / Wet
+taiwan,11,2014,7.5,7.58,7.67,7.33,7.5,7.75,10,10,10,7.58,82.92,0,0,0,green,9,775,775,775,2,green,82.92,Typica,Natural / Dry
+philippines,250,2015,7.58,7.58,7.67,7.58,7.5,7.5,10,10,10,7.5,82.92,0.11,0,0,bluish-green,1,1200,1200,1200,2,bluish-green,82.92,Other,Washed / Wet
+philippines,4,2014,8.08,7.5,7.67,7.42,7.33,7.5,10,10,10,7.42,82.92,0,0,0,bluish-green,0,1600,1600,1600,2,bluish-green,82.92,Other,Washed / Wet
+mexico,11,2015,7.83,7.67,7.25,7.58,7.5,7.5,10,10,10,7.58,82.92,0.13,0,0,bluish-green,3,1059,1059,1059,2,bluish-green,82.92,Typica,Natural / Dry
+mexico,275,2015,7.75,7.67,7.42,7.42,7.75,7.5,10,10,10,7.42,82.92,0.12,2,0,bluish-green,8,1300,1300,1300,2,bluish-green,82.92,Bourbon,Washed / Wet
+brazil,300,2014,7.08,7.5,7.5,7.83,7.75,7.67,10,10,10,7.58,82.92,0.11,0,0,green,16,11000,11000,11000,2,green,82.92,Moka Peaberry,Semi-washed / Semi-pulped
+uganda,1,2013,8,7.5,7.5,7.58,7.33,7.42,10,10,10,7.58,82.92,0.12,0,0,green,0,1400,1900,1650,60,green,82.92,SL14,Washed / Wet
+uganda,1,2013,7.75,7.58,7.58,7.5,7.5,7.5,10,10,10,7.5,82.92,0.12,0,0,green,4,1400,1400,1400,60,green,82.92,SL14,Washed / Wet
+guatemala,250,2014,7.75,7.5,7.42,7.58,7.67,7.5,10,10,10,7.5,82.92,0.1,0,0,green,1,1500,1500,1500,69,green,82.92,Bourbon,Washed / Wet
+guatemala,26,2014,7.67,7.83,7.42,7.5,7.33,7.5,10,10,10,7.67,82.92,0.1,0,0,green,2,1500,1500,1500,69,green,82.92,Caturra,Natural / Dry
+guatemala,1,2012,7.58,7.58,7.25,7.58,7.58,7.58,10,10,10,7.75,82.92,0.1,0,0,green,4,others,others,others,2,green,82.92,,Washed / Wet
+colombia,250,2013,7.58,7.5,7.75,7.33,7.58,7.58,10,10,10,7.58,82.92,0.11,0,0,green,2,1800,2000,1900,70,green,82.92,Caturra,Washed / Wet
+colombia,250,2013,7.75,7.5,7.25,7.5,7.75,7.5,10,10,10,7.67,82.92,0,0,0,bluish-green,0,1750,1750,1750,70,bluish-green,82.92,Caturra,Natural / Dry
+guatemala,250,2013,7.83,7.75,7.25,7.92,7.5,7.17,10,10,10,7.5,82.92,0.11,0,0,green,2,1658.112,1755.648,1706.88,69,green,82.92,Bourbon,Washed / Wet
+colombia,250,2013,7.83,7.67,7.42,7.42,7.5,7.58,10,10,10,7.5,82.92,0.11,3,0,green,5,1450,1450,1450,70,green,82.92,Other,Washed / Wet
+mexico,15,2012,7.58,7.58,7.33,7.25,7.58,7.75,10,10,10,7.83,82.92,0.1,0,0,green,4,1248,1248,1248,1,green,82.92,Typica,Natural / Dry
+vietnam,1,2012,7.67,7.33,7.17,7.58,8.08,7.42,10,10,10,7.67,82.92,0,0,0,others,17,1040,1040,1040,2,bluish-green,82.92,Other,Natural / Dry
+mexico,100,2012,8,7.92,7.67,7.17,7.67,7.42,9.33,10,10,7.75,82.92,0.14,1,0,green,4,1400,1400,1400,1,green,82.92,Typica,Washed / Wet
+united states (hawaii),8,2012,7.5,7.5,7.5,7.42,7.67,7.83,10,10,10,7.5,82.92,0.1,0,0,green,0,others,others,others,100,green,82.92,Hawaiian Kona,Washed / Wet
+colombia,250,others,7.5,7.75,7.33,7.75,7.08,7.83,10,10,10,7.67,82.92,0.15,0,0,others,0,1050,1850,1450,70,bluish-green,82.92,,Other
+thailand,2,others,7.42,7.58,7.5,7.17,7.5,8,10,10,10,7.75,82.92,0,0,0,others,0,others,others,others,1,bluish-green,82.92,,Other
+kenya,27,2017,7.75,7.58,7.42,7.58,7.5,7.5,10,10,10,7.5,82.83,0.1,0,0,green,3,1754,1754,1754,50,green,82.83,SL28,Washed / Wet
+guatemala,50,2017,7.5,7.58,7.33,7.67,7.58,7.58,10,10,10,7.58,82.83,0.11,1,1,green,2,1700,1700,1700,69,green,82.83,Bourbon,Washed / Wet
+brazil,320,2015,7.67,7.58,7.58,7.5,7.5,7.42,10,10,10,7.58,82.83,0.11,0,2,bluish-green,2,905,905,905,60,bluish-green,82.83,Yellow Bourbon,Pulped natural / honey
+el salvador,275,2016,7.33,7.67,7.67,7.83,7.33,7.67,10,10,10,7.33,82.83,0,0,0,green,4,1250,1250,1250,69,green,82.83,Pacas,Washed / Wet
+rwanda,150,2015,7.83,7.92,7.75,7.83,7.75,7.75,9.33,9.33,9.33,8,82.83,0.11,0,0,bluish-green,0,1900,1900,1900,60,bluish-green,82.83,Bourbon,Washed / Wet
+vietnam,3,2014,7.25,7.58,7.5,7.42,7.75,7.42,10,10,10,7.92,82.83,0.11,11,0,green,0,1040,1040,1040,2,green,82.83,Other,Other
+guatemala,80,2015,7.58,7.58,7.33,7.67,7.67,7.5,10,10,10,7.5,82.83,0.11,0,0,green,2,1219.2,1219.2,1219.2,69,green,82.83,Bourbon,Washed / Wet
+brazil,300,2015,7.58,7.83,7.33,7.67,7.42,7.33,10,10,10,7.67,82.83,0.12,2,0,green,6,900,900,900,60,green,82.83,Catuai,Natural / Dry
+colombia,100,2014,7.83,7.67,7.5,7.58,7.5,7.67,10,10,10,7.08,82.83,0,0,0,others,1,1200,2000,1600,24,bluish-green,82.83,Other,Washed / Wet
+united states,300,2014,7.42,7.58,7.25,7.5,7.75,7.75,10,10,10,7.58,82.83,0,0,0,others,9,1200,1200,1200,60,bluish-green,82.83,Other,Other
+guatemala,250,2014,7.67,7.67,7.75,7.67,7.42,7.17,10,10,10,7.5,82.83,0.1,0,0,green,4,1500,1500,1500,69,green,82.83,Bourbon,Washed / Wet
+colombia,40,2013,7.5,7.42,7.58,7.5,7.58,7.58,10,10,10,7.67,82.83,0,4,0,green,4,1800,1800,1800,1,green,82.83,Typica,Natural / Dry
+colombia,125,2013,7.83,7.5,7.5,7.42,7.5,7.5,10,10,10,7.58,82.83,0.11,0,0,green,3,1600,1950,1775,70,green,82.83,Caturra,Washed / Wet
+"tanzania, united republic of",300,2012,7.67,7.5,7.33,7.25,7.58,7.75,10,10,10,7.75,82.83,0.11,0,0,green,5,1400,1400,1400,2,green,82.83,Arusha,Washed / Wet
+mexico,250,2012,7.58,7.67,7.5,7.58,7.5,7.5,10,10,10,7.5,82.83,0.12,2,0,green,10,1550,1550,1550,1,green,82.83,Caturra,Washed / Wet
+mexico,250,2012,7.67,7.58,7.42,7.75,7.42,7.42,10,10,10,7.58,82.83,0.12,0,0,bluish-green,7,1250,1250,1250,1,bluish-green,82.83,Bourbon,Washed / Wet
+guatemala,250,2012,7.67,7.67,7.33,7.5,7.33,7.92,10,10,10,7.42,82.83,0.11,0,0,green,10,1310.64,1310.64,1310.64,1,green,82.83,Bourbon,Washed / Wet
+mexico,250,2012,7.58,7.58,7.5,7.42,7.67,7.58,10,10,10,7.5,82.83,0.11,0,0,others,2,1380,1380,1380,1,bluish-green,82.83,Typica,Washed / Wet
+el salvador,250,2010,7.75,7.58,7.75,7.75,7.25,7.5,10,10,10,7.25,82.83,0,1,0,others,3,1200,1200,1200,69,bluish-green,82.83,,Other
+guatemala,275,others,7.5,7.58,7.42,7.67,7.58,7.5,10,10,10,7.5,82.75,0.1,0,1,green,3,1100,1100,1100,69,green,82.75,Caturra,Washed / Wet
+guatemala,275,2017,7.58,7.67,7.5,7.58,7.5,7.42,10,10,10,7.5,82.75,0.11,0,0,green,8,1800,1800,1800,69,green,82.75,Caturra,Washed / Wet
+guatemala,50,2017,7.5,7.67,7.17,7.67,7.67,7.58,10,10,10,7.5,82.75,0.11,0,0,green,4,1700,1700,1700,69,green,82.75,Bourbon,Washed / Wet
+guatemala,50,2017,7.5,7.5,7.42,7.58,7.67,7.5,10,10,10,7.58,82.75,0.1,0,0,green,1,1219.2,1219.2,1219.2,69,green,82.75,Bourbon,Washed / Wet
+guatemala,25,2017,7.42,7.58,7.42,7.67,7.5,7.5,10,10,10,7.67,82.75,0.1,0,0,green,1,1219.2,1219.2,1219.2,69,green,82.75,Bourbon,Washed / Wet
+indonesia,2,2017,7.5,7.58,7.42,7.58,7.58,7.5,10,10,10,7.58,82.75,0.12,0,0,bluish-green,15,1500,1500,1500,1,bluish-green,82.75,Sulawesi,Other
+guatemala,25,2017,7.58,7.58,7.33,7.58,7.33,7.67,10,10,10,7.67,82.75,0.12,0,0,green,0,157.8864,157.8864,157.8864,69,green,82.75,Bourbon,Washed / Wet
+taiwan,8,2016,7.83,7.67,7.33,7.67,7.58,7.67,9.33,10,10,7.67,82.75,0,0,0,green,0,650,650,650,10,green,82.75,Yellow Bourbon,Natural / Dry
+el salvador,275,2017,7.67,7.67,7.17,7.33,7.58,7.67,10,10,10,7.67,82.75,0,0,0,others,4,1250,1250,1250,69,bluish-green,82.75,Bourbon,Washed / Wet
+costa rica,250,2016,7.58,7.5,7.42,7.67,7.42,7.5,10,10,10,7.67,82.75,0.09,0,0,bluish-green,1,1850,1850,1850,69,bluish-green,82.75,Caturra,Washed / Wet
+honduras,275,2017,7.58,7.5,7.42,7.58,7.5,7.5,10,10,10,7.67,82.75,0.09,0,1,green,6,1400,1400,1400,69,green,82.75,Caturra,Natural / Dry
+brazil,320,2015,7.5,7.5,7.58,7.5,7.58,7.58,10,10,10,7.5,82.75,0.11,0,2,bluish-green,1,905,905,905,60,bluish-green,82.75,Yellow Bourbon,Pulped natural / honey
+china,3,2015,7.67,7.5,7.33,7.33,7.67,7.67,10,10,10,7.58,82.75,0.1,0,0,green,0,1100,1100,1100,60,green,82.75,Catimor,Natural / Dry
+china,3,2015,7.5,7.67,7.42,7.67,7.5,7.5,10,10,10,7.5,82.75,0.11,0,0,green,2,1500,1500,1500,60,green,82.75,Catimor,Washed / Wet
+colombia,250,2014,7.5,7.58,7.58,7.75,7.33,7.5,10,10,10,7.5,82.75,0,0,0,bluish-green,2,1600,1950,1775,70,bluish-green,82.75,Caturra,Washed / Wet
+malawi,29,2014,7.75,7.58,7.42,7.5,7.33,7.5,10,10,10,7.67,82.75,0.12,0,0,bluish-green,0,1442,1442,1442,60,bluish-green,82.75,Gesha,Washed / Wet
+guatemala,250,2014,7.75,7.42,7.25,7.75,7.5,7.67,10,10,10,7.42,82.75,0.13,0,0,green,2,1524,1524,1524,69,green,82.75,Pacas,Washed / Wet
+colombia,275,2014,7.67,7.42,7.42,7.58,7.33,7.67,10,10,10,7.67,82.75,0.12,0,0,green,0,165,165,165,1,green,82.75,Typica,Washed / Wet
+united states (hawaii),10,2013,7.67,7.58,7.42,7.83,7.33,7.5,10,10,10,7.42,82.75,0.1,6,0,bluish-green,0,others,others,others,80,bluish-green,82.75,Hawaiian Kona,Natural / Dry
+united states (hawaii),6,2013,7.58,7.83,7.75,7.75,7.42,8,9.33,9.33,10,7.75,82.75,0.1,0,0,green,0,others,others,others,100,green,82.75,Hawaiian Kona,Natural / Dry
+colombia,250,2013,7.58,7.33,7.17,7.33,7.25,8.58,10,10,10,7.5,82.75,0.1,0,0,green,2,1300,1300,1300,1,green,82.75,Caturra,Washed / Wet
+mexico,32,2013,7.58,7.58,7.5,7.5,7.5,7.5,10,10,10,7.58,82.75,0.12,0,0,green,6,1550,1550,1550,1,green,82.75,Typica,Washed / Wet
+mexico,250,2012,7.58,7.58,7.33,7.75,7.25,7.58,10,10,10,7.67,82.75,0.12,0,0,others,0,1200,1200,1200,1,bluish-green,82.75,Typica,Washed / Wet
+mexico,21,2012,8.08,8.17,8,8,7.83,7.92,6.67,10,10,8.08,82.75,0.12,1,0,others,4,1200,1200,1200,1,bluish-green,82.75,Typica,Natural / Dry
+colombia,250,2012,7.5,7.58,7.42,7.67,7.5,7.58,10,10,10,7.5,82.75,0,0,0,bluish-green,0,1400,1850,1625,70,bluish-green,82.75,Caturra,Washed / Wet
+colombia,100,2012,7.67,7.58,7.58,7.58,7.5,7.42,10,10,10,7.42,82.75,0.11,0,0,green,3,1600,1950,1775,70,green,82.75,Caturra,Washed / Wet
+united states (hawaii),6,2012,7.25,7.75,7.5,7.83,7.67,7.67,9.33,10,10,7.75,82.75,0.12,0,0,green,0,others,others,others,100,green,82.75,Hawaiian Kona,Washed / Wet
+panama,300,2012,7.42,7.42,7.5,7.58,7.5,7.75,10,10,10,7.58,82.75,0,0,0,green,4,1100,1100,1100,2,green,82.75,Catuai,Washed / Wet
+united states (hawaii),14,others,7.75,7.67,7.5,7.83,7.17,7.42,10,10,10,7.42,82.75,0,0,0,others,2,others,others,others,1,bluish-green,82.75,,Other
+brazil,320,2017,7.5,7.58,7.25,7.75,7.58,7.5,10,10,10,7.5,82.67,0,0,0,green,4,890,890,890,60,green,82.67,Bourbon,Natural / Dry
+brazil,320,2016,7.5,7.58,7.5,7.67,7.5,7.42,10,10,10,7.5,82.67,0.11,0,2,bluish-green,3,934,934,934,60,bluish-green,82.67,Bourbon,Natural / Dry
+laos,60,2015,7.67,7.67,7.42,7.42,7.42,7.5,10,10,10,7.58,82.67,0.13,0,0,bluish-green,0,1300,1300,1300,50,bluish-green,82.67,Catimor,Washed / Wet
+el salvador,275,2016,7.67,7.67,7.67,7.67,7.5,7.67,10,10,9.33,7.5,82.67,0,0,0,green,7,1200,1200,1200,69,green,82.67,Pacas,Washed / Wet
+mexico,8,2016,7.5,7.67,7.42,7.75,7.42,7.17,10,10,10,7.75,82.67,0.11,0,2,green,3,1300,1300,1300,8,green,82.67,,Other
+colombia,1,2015,7.75,7.5,7.33,7.58,7.33,7.75,10,10,10,7.42,82.67,0,1,0,green,9,others,others,others,2,green,82.67,,Washed / Wet
+brazil,320,2015,7.58,7.5,7.42,7.67,7.5,7.5,10,10,10,7.5,82.67,0,0,0,green,0,1,1,1,2,green,82.67,Yellow Bourbon,Natural / Dry
+brazil,300,2014,7.33,7.5,7.58,7.58,7.67,7.5,10,10,10,7.5,82.67,0.12,0,0,others,9,others,others,others,60,bluish-green,82.67,Catuai,Natural / Dry
+"tanzania, united republic of",93,2014,7.5,7.5,7.5,7.5,7.5,7.58,10,10,10,7.58,82.67,0.12,0,0,green,0,1700,1700,1700,60,green,82.67,Other,Washed / Wet
+"tanzania, united republic of",77,2014,7.58,7.5,7.5,7.58,7.33,7.58,10,10,10,7.58,82.67,0.12,0,0,green,4,1550,1550,1550,60,green,82.67,Bourbon,Washed / Wet
+taiwan,10,2014,8,7.83,7.83,7.42,7.25,7.25,10,10,10,7.08,82.67,0.08,0,0,green,0,1200,1200,1200,60,green,82.67,Typica,Washed / Wet
+mexico,11,2014,7.67,7.58,7.42,7.5,7.42,7.5,10,10,10,7.58,82.67,0.11,0,0,green,0,1296,1296,1296,1,green,82.67,Typica,Natural / Dry
+uganda,1,2013,7.67,7.5,7.33,7.67,7.5,7.5,10,10,10,7.5,82.67,0.12,0,0,green,0,1400,1900,1650,60,green,82.67,SL14,Washed / Wet
+taiwan,10,2013,7.67,7.5,7.5,7.5,7.5,7.5,10,10,10,7.5,82.67,0.11,0,0,green,0,1240,1240,1240,30,green,82.67,Typica,Washed / Wet
+thailand,300,2013,7.42,7.5,7.5,7.67,7.58,7.5,10,10,10,7.5,82.67,0.11,0,0,bluish-green,0,1500,1500,1500,60,bluish-green,82.67,Caturra,Washed / Wet
+colombia,250,2012,7.75,7.58,7.67,7.25,7.58,7.42,10,10,10,7.42,82.67,0.11,0,0,bluish-green,3,1800,1800,1800,70,bluish-green,82.67,Caturra,Washed / Wet
+el salvador,288,2012,7.92,8,7.5,6.75,7.92,7.58,10,10,9.33,7.67,82.67,0,0,0,others,17,others,others,others,1,bluish-green,82.67,Other,Washed / Wet
+guatemala,275,2012,7.67,7.67,7.17,7.67,7.5,7.5,10,10,10,7.5,82.67,0.11,0,0,green,0,1500,1500,1500,69,green,82.67,Caturra,Washed / Wet
+thailand,2,2012,7.83,7.33,7.83,7.33,7.58,7.83,10,10,9.33,7.58,82.67,0.12,0,0,bluish-green,0,others,others,others,1,bluish-green,82.67,Other,Washed / Wet
+mexico,36,2012,7.58,7.58,7.42,7.58,7.42,7.5,10,10,10,7.58,82.67,0.11,0,0,others,2,1100,1100,1100,1,bluish-green,82.67,Other,Washed / Wet
+mexico,23,2012,7.5,7.58,7.58,7.58,7.42,7.42,10,10,10,7.58,82.67,0.12,0,0,others,0,950,950,950,1,bluish-green,82.67,Typica,Washed / Wet
+colombia,1,2011,7.33,7.58,7.42,7.42,7.67,7.67,10,10,10,7.58,82.67,0.11,0,0,green,0,1800,5900,3850,1,green,82.67,,Other
+united states (hawaii),37,others,7.83,7.67,7.5,7.67,7.5,7.58,10,10,9.33,7.58,82.67,0.03,2,0,others,0,others,others,others,100,bluish-green,82.67,,Other
+mexico,1,2010,7.75,7.58,7.25,7.75,7.67,7.58,10,10,10,7.08,82.67,0,0,0,others,1,1400,1400,1400,1,bluish-green,82.67,Blue Mountain,Other
+colombia,250,2018,8.08,7.67,7.67,7.33,7.33,7.17,10,10,10,7.42,82.67,0.08,0,0,others,3,1800,1800,1800,70,bluish-green,82.67,,Other
+colombia,270,2009,7.5,7.42,7.33,7.33,7.67,7.83,10,10,10,7.58,82.67,0.21,0,0,others,2,others,others,others,70,bluish-green,82.67,,Other
+guatemala,25,2017,7.5,7.42,7.42,7.75,7.5,7.5,10,10,10,7.5,82.58,0.1,0,1,green,2,1219.2,1219.2,1219.2,69,green,82.58,Bourbon,Washed / Wet
+taiwan,6,2016,7.67,7.42,7.5,7.42,7.58,7.5,10,10,10,7.5,82.58,0.11,0,5,green,0,1050,1050,1050,5,green,82.58,Typica,Pulped natural / honey
+brazil,198,2016,7.5,7.58,7.42,7.5,7.75,7.33,10,10,10,7.5,82.58,0.11,0,0,green,7,others,others,others,59,green,82.58,,Pulped natural / honey
+taiwan,1,2016,7.25,7.25,7,7.08,7,7,10,10,10,10,82.58,0.11,0,0,bluish-green,0,200,200,200,10,bluish-green,82.58,,Other
+brazil,300,2016,7.42,7.42,7.5,7.33,7.25,7.67,10,10,10,8,82.58,0,1,9,green,2,others,others,others,60,green,82.58,,Other
+indonesia,150,2015,7.83,7.58,7.42,7.33,7.42,7.5,10,10,10,7.5,82.58,0.13,0,0,bluish-green,6,1200,1300,1250,2,bluish-green,82.58,Typica,Semi-washed / Semi-pulped
+thailand,1,2014,7.75,7.33,7.42,7.67,7.42,7.5,10,10,10,7.5,82.58,0.12,0,0,green,0,800,800,800,1,green,82.58,,Washed / Wet
+thailand,50,2014,7.42,7.58,7.58,7.42,7.58,7.5,10,10,10,7.5,82.58,0.12,0,0,bluish-green,1,1400,1500,1450,20,bluish-green,82.58,Caturra,Washed / Wet
+"tanzania, united republic of",10,2014,7.75,7.42,7.33,7.5,7.58,7.5,10,10,10,7.5,82.58,0.12,0,0,others,1,1317,1317,1317,60,bluish-green,82.58,Other,Washed / Wet
+uganda,1,2013,7.83,7.5,7.42,7.58,7.42,7.42,10,10,10,7.42,82.58,0.12,0,0,green,0,1400,1900,1650,60,green,82.58,SL14,Natural / Dry
+costa rica,250,2013,7.67,7.42,7.5,7.67,7,7.75,10,10,10,7.58,82.58,0.11,0,0,green,3,1200,1400,1300,1,green,82.58,Catuai,Washed / Wet
+mexico,320,2014,7.58,7.58,7.42,7.75,7.67,7.67,9.33,10,10,7.58,82.58,0,0,0,green,11,others,others,others,5,green,82.58,,Washed / Wet
+guatemala,1,2012,7.5,7.58,7.42,7.58,7.42,7.58,10,10,10,7.5,82.58,0,0,0,bluish-green,4,others,others,others,2,bluish-green,82.58,,Natural / Dry
+colombia,250,2013,7.75,7.25,7.33,7.42,7.5,7.83,10,10,10,7.5,82.58,0.11,0,0,bluish-green,3,1750,1750,1750,70,bluish-green,82.58,Caturra,Washed / Wet
+colombia,250,2012,7.75,7.5,7.75,7.25,7.33,7.58,10,10,10,7.42,82.58,0.11,0,0,others,3,1750,1750,1750,70,bluish-green,82.58,Caturra,Washed / Wet
+colombia,250,2013,7.58,7.5,7.42,7.58,7.67,7.42,10,10,10,7.42,82.58,0.11,0,0,green,0,1750,1750,1750,70,green,82.58,Caturra,Washed / Wet
+mexico,50,2012,7.5,7.58,7.5,7.5,7.42,7.5,10,10,10,7.58,82.58,0.1,0,0,green,6,1250,1250,1250,1,green,82.58,Typica,Washed / Wet
+mexico,70,2012,7.67,7.58,7.58,7.75,7.67,6.83,10,10,10,7.5,82.58,0.12,0,0,green,0,1150,1150,1150,1,green,82.58,Typica,Washed / Wet
+colombia,275,2012,7.33,7.42,7.58,7.42,7.67,7.5,10,10,10,7.67,82.58,0.11,2,0,green,2,1600,1950,1775,70,green,82.58,Caturra,Washed / Wet
+brazil,42,2011,7.58,7.5,7.33,7.75,7.5,7.5,10,10,10,7.42,82.58,0,0,0,others,4,900,1050,975,60,bluish-green,82.58,Mundo Novo,Other
+brazil,320,2017,7.5,7.5,7.5,7.5,7.58,7.5,10,10,10,7.42,82.5,0.11,0,0,green,4,890,890,890,60,green,82.5,Bourbon,Natural / Dry
+indonesia,2,2017,7.83,7.75,7.25,7.5,7.42,7.33,10,10,10,7.42,82.5,0.11,0,0,green,5,1250,1250,1250,1,green,82.5,Other,Washed / Wet
+honduras,275,2017,7.58,7.58,7.33,7.5,7.5,7.5,10,10,10,7.5,82.5,0.1,0,0,green,4,1400,1400,1400,69,green,82.5,Caturra,Washed / Wet
+guatemala,50,2016,7.5,7.5,7.33,7.5,7.67,7.5,10,10,10,7.5,82.5,0.1,0,2,green,2,1219.2,1219.2,1219.2,69,green,82.5,Bourbon,Washed / Wet
+thailand,1,2014,7.5,7.83,7.5,7.75,7.33,7.42,9.33,10,10,7.83,82.5,0.12,0,0,green,0,800,800,800,1,green,82.5,,Washed / Wet
+thailand,50,2014,7.33,7.5,7.5,7.5,7.67,7.5,10,10,10,7.5,82.5,0.11,0,0,others,0,1400,1500,1450,20,bluish-green,82.5,Caturra,Washed / Wet
+"tanzania, united republic of",37,2014,7.67,7.42,7.33,7.58,7.5,7.5,10,10,10,7.5,82.5,0.12,0,0,green,1,1600,1600,1600,60,green,82.5,Other,Washed / Wet
+"tanzania, united republic of",5,2014,7.75,7,7.42,7.58,7.58,7.58,10,10,10,7.58,82.5,0.12,0,0,bluish-green,3,others,others,others,60,bluish-green,82.5,Other,Washed / Wet
+mexico,2,2013,7.42,7.58,7.5,7.67,7.25,7.5,10,10,10,7.58,82.5,0,0,0,green,1,1500,1700,1600,2,green,82.5,Other,Washed / Wet
+brazil,69,2013,7.42,7.5,7.67,7.33,7.42,7.67,10,10,10,7.5,82.5,0.11,0,0,bluish-green,0,1260,1260,1260,60,bluish-green,82.5,Yellow Bourbon,Semi-washed / Semi-pulped
+guatemala,250,2013,7.83,7.42,7.33,7.67,7.42,7.5,10,10,10,7.33,82.5,0.12,0,0,green,4,1310.64,1310.64,1310.64,69,green,82.5,Bourbon,Washed / Wet
+colombia,250,2013,7.5,7.5,7.42,7.42,7.58,7.58,10,10,10,7.5,82.5,0.11,0,0,green,1,1750,1750,1750,70,green,82.5,Caturra,Washed / Wet
+guatemala,250,2013,7.83,7.67,7.17,7.33,7.5,7.67,10,10,10,7.33,82.5,0.11,0,0,green,0,1310.64,1310.64,1310.64,69,green,82.5,Bourbon,Washed / Wet
+mexico,10,2012,7.5,7.58,7.5,7.5,7.42,7.42,10,10,10,7.58,82.5,0.13,0,0,others,10,1679,1679,1679,1,bluish-green,82.5,Typica,Washed / Wet
+mexico,10,2012,7.67,7.5,7.33,7.67,7.5,7.33,10,10,10,7.5,82.5,0.12,0,0,green,5,1100,1100,1100,1,green,82.5,Typica,Washed / Wet
+mexico,28,2012,7.92,7.5,7.33,7.58,7.25,7.42,10,10,10,7.5,82.5,0.11,0,0,others,2,1650,1650,1650,1,bluish-green,82.5,Typica,Semi-washed / Semi-pulped
+guatemala,275,2012,7.67,7.33,7.33,7.33,7.5,7.83,10,10,10,7.5,82.5,0.11,0,0,green,5,others,others,others,1,green,82.5,Caturra,Natural / Dry
+brazil,300,2012,7.67,7.42,7.33,7.67,7.5,7.5,10,10,10,7.42,82.5,0,0,0,bluish-green,4,1250,1250,1250,60,bluish-green,82.5,Bourbon,Semi-washed / Semi-pulped
+colombia,275,2012,7.67,7.5,7.33,7.5,7.25,7.67,10,10,10,7.58,82.5,0.11,1,0,green,3,1600,1950,1775,70,green,82.5,Caturra,Washed / Wet
+united states (hawaii),7,2012,7.33,7.42,7.33,7.75,7.42,7.67,10,10,10,7.58,82.5,0.12,2,0,green,3,others,others,others,100,green,82.5,Hawaiian Kona,Washed / Wet
+guatemala,245,others,7.75,7.58,7.67,7.67,7.58,7.58,9.33,10,10,7.33,82.5,0.01,1,0,others,14,1600,1600,1600,1,bluish-green,82.5,,Other
+honduras,1,2017,7.42,7.67,7.17,7.58,7.58,7.5,10,10,10,7.5,82.42,0.12,0,1,green,6,1500,1500,1500,2,green,82.42,Other,Washed / Wet
+guatemala,50,2017,7.58,7.5,7.33,7.75,7.33,7.5,10,10,10,7.42,82.42,0.1,0,1,green,2,1700,1700,1700,69,green,82.42,Bourbon,Washed / Wet
+guatemala,50,2016,7.67,7.58,7.25,7.67,7.42,7.33,10,10,10,7.5,82.42,0.12,0,0,green,0,1700,1700,1700,69,green,82.42,Bourbon,Washed / Wet
+guatemala,20,2017,7.58,7.5,7.25,7.67,7.5,7.5,10,10,10,7.42,82.42,0.12,0,0,green,0,157.8864,157.8864,157.8864,69,green,82.42,Bourbon,Washed / Wet
+guatemala,275,2017,7.5,7.42,7.08,7.75,7.67,7.5,10,10,10,7.5,82.42,0.11,0,2,green,3,others,others,others,69,green,82.42,Caturra,Washed / Wet
+colombia,43,2016,5.08,7.75,7.83,7.75,7.83,8.08,10,10,10,8.08,82.42,0.11,0,0,green,1,1600,1600,1600,70,green,82.42,Caturra,Washed / Wet
+china,3,2015,7.67,7.42,7.42,7.5,7.42,7.42,10,10,10,7.58,82.42,0.1,0,0,green,0,1600,1600,1600,60,green,82.42,Catimor,Washed / Wet
+brazil,300,2016,7.42,7.5,7.33,7.5,7.25,7.42,10,10,10,8,82.42,0.11,0,1,green,0,others,others,others,60,green,82.42,,Other
+"tanzania, united republic of",10,2015,7.67,7.25,7.42,7.42,7.67,7.42,10,10,10,7.58,82.42,0.13,0,0,green,7,2285,2285,2285,60,green,82.42,Ruiru 11,Washed / Wet
+brazil,320,2015,7.17,7.83,7.33,7.5,7.75,7.42,10,10,10,7.42,82.42,0,0,0,green,0,1,1,1,2,green,82.42,Yellow Bourbon,Natural / Dry
+guatemala,250,2013,7.5,7.5,7.5,7.67,7.42,7.5,10,10,10,7.33,82.42,0.1,0,0,green,0,1400,1400,1400,1,green,82.42,Caturra,Washed / Wet
+mexico,10,2014,7.42,7.5,7.42,7.58,7.42,7.5,10,10,10,7.58,82.42,0.11,0,0,green,0,1296,1296,1296,1,green,82.42,Typica,Washed / Wet
+brazil,39,2012,7.58,7.67,7.33,7.5,7.5,7.42,10,10,10,7.42,82.42,0.12,0,0,bluish-green,1,1000,1000,1000,60,bluish-green,82.42,Catuai,Semi-washed / Semi-pulped
+peru,320,2013,7.58,7.58,7.58,7.75,7.5,7.58,9.33,10,10,7.5,82.42,0,0,0,green,3,others,others,others,5,green,82.42,,Washed / Wet
+brazil,220,2013,7.25,7.33,7.25,7.5,7.42,7.5,10,10,10,8.17,82.42,0,0,0,green,0,1260,1260,1260,60,green,82.42,Yellow Bourbon,Natural / Dry
+mexico,10,2013,7.5,7.58,7.5,7.92,7.42,7.67,9.33,10,10,7.5,82.42,0.12,0,0,green,0,1170,1170,1170,1,green,82.42,Bourbon,Washed / Wet
+honduras,1,2012,7.25,7.67,7.42,7.17,7.75,7.5,10,10,10,7.67,82.42,0.09,0,0,others,2,others,others,others,2,bluish-green,82.42,,Washed / Wet
+colombia,250,2013,7.67,7.42,7.33,7.5,7.58,7.5,10,10,10,7.42,82.42,0.11,0,0,green,9,1600,1950,1775,70,green,82.42,Caturra,Washed / Wet
+mexico,49,2013,7.5,7.42,7.42,7.67,7.42,7.58,10,10,10,7.42,82.42,0.12,0,0,green,5,1560,1560,1560,1,green,82.42,Typica,Washed / Wet
+mexico,20,2012,7.42,7.58,7.5,7.42,7.58,7.5,10,10,10,7.42,82.42,0.13,0,0,green,2,1400,1400,1400,1,green,82.42,Typica,Semi-washed / Semi-pulped
+mexico,35,2012,7.42,7.58,7.33,7.58,7.5,7.5,10,10,10,7.5,82.42,0.14,0,0,green,9,1300,1300,1300,1,green,82.42,Typica,Washed / Wet
+mexico,10,2012,7.75,7.33,7.25,7.58,7.58,7.33,10,10,10,7.58,82.42,0.13,0,0,green,1,1170,1170,1170,1,green,82.42,Caturra,Washed / Wet
+mexico,74,2012,7.5,7.58,7.33,7.5,7.5,7.5,10,10,10,7.5,82.42,0.11,0,0,green,0,1300,1300,1300,1,green,82.42,Typica,Washed / Wet
+mexico,26,2012,7.58,7.58,7.17,7.5,7.5,7.5,10,10,10,7.58,82.42,0.14,0,0,green,6,1350,1350,1350,1,green,82.42,Pacamara,Washed / Wet
+mexico,10,2012,7.58,7.33,7.33,7.58,7.5,7.5,10,10,10,7.58,82.42,0.11,0,0,green,0,1150,1150,1150,1,green,82.42,Caturra,Washed / Wet
+mexico,1,2012,7.67,7.58,7.33,7.42,7.58,7.33,10,10,10,7.5,82.42,0.13,0,0,others,4,1250,1250,1250,1,bluish-green,82.42,Bourbon,Washed / Wet
+mexico,10,2012,7.83,7.5,7.42,7.67,7.17,7.33,10,10,10,7.5,82.42,0.12,0,0,bluish-green,0,1450,1450,1450,1,bluish-green,82.42,Typica,Washed / Wet
+colombia,250,2012,7.67,7.33,7.25,7.42,7.5,7.67,10,10,10,7.58,82.42,0,0,0,others,2,442,442,442,70,bluish-green,82.42,Caturra,Natural / Dry
+brazil,51,2012,7.75,7.5,7.42,7.42,7.5,7.42,10,10,10,7.42,82.42,0.11,0,0,bluish-green,2,others,others,others,60,bluish-green,82.42,Arusha,Natural / Dry
+colombia,250,2011,7.33,7.58,7.17,7.58,7.42,7.58,10,10,10,7.75,82.42,0,0,0,green,2,1750,1750,1750,70,green,82.42,Caturra,Washed / Wet
+colombia,0,2013,7.58,7.25,7.42,7.25,7.58,7.83,10,10,10,7.5,82.42,0.02,0,0,others,1,1750,1750,1750,70,bluish-green,82.42,,Other
+honduras,275,2017,7.5,7.58,7.33,7.5,7.42,7.42,10,10,10,7.58,82.33,0.1,0,1,green,8,1396,1396,1396,69,green,82.33,Caturra,Washed / Wet
+brazil,320,2016,7.33,7.5,7.5,7.33,7.5,7.5,10,10,10,7.67,82.33,0.11,0,3,green,11,982,982,982,2,green,82.33,Catuai,Natural / Dry
+brazil,305,2016,7.42,7.42,7.42,7.5,7.5,7.58,10,10,10,7.5,82.33,0.11,0,4,green,14,others,others,others,59,green,82.33,,Natural / Dry
+brazil,320,2016,7.5,7.5,7.42,7.5,7.42,7.5,10,10,10,7.5,82.33,0.11,0,2,bluish-green,3,934,934,934,60,bluish-green,82.33,Bourbon,Natural / Dry
+costa rica,100,2015,7.75,7.5,7.25,7.25,7.42,7.67,10,10,10,7.5,82.33,0.1,6,1,bluish-green,3,1850,1850,1850,69,bluish-green,82.33,Caturra,Washed / Wet
+costa rica,130,2015,7.75,7.33,7.5,7.5,7.33,7.58,10,10,10,7.33,82.33,0,0,2,green,0,1550,1550,1550,69,green,82.33,Catuai,Washed / Wet
+china,3,2015,7.5,7.58,7.42,7.5,7.42,7.42,10,10,10,7.5,82.33,0.12,0,6,green,2,1580,1580,1580,60,green,82.33,Catimor,Pulped natural / honey
+brazil,12,2015,8.25,7.83,7.25,8.33,8.17,8.08,10,6.67,10,7.75,82.33,0.07,0,0,green,0,1268,1268,1268,2,green,82.33,Bourbon,Natural / Dry
+brazil,300,2015,7.42,7.5,7.5,7.42,7.5,7.58,10,10,10,7.42,82.33,0.11,0,0,green,10,others,others,others,60,green,82.33,Mundo Novo,Natural / Dry
+guatemala,275,2015,7.5,7.42,7.17,7.83,7.5,7.5,10,10,10,7.42,82.33,0.1,0,0,green,6,1676.4,1676.4,1676.4,69,green,82.33,Bourbon,Washed / Wet
+malawi,10,2014,7.33,7.58,7.42,7.58,7.33,7.5,10,10,10,7.58,82.33,0.12,0,0,green,0,1450,1450,1450,60,green,82.33,Gesha,Washed / Wet
+brazil,10,2014,7.75,8.08,7.67,8.08,8.08,8,10,10,6.67,8,82.33,0.11,0,0,bluish-green,0,1100,1100,1100,2,bluish-green,82.33,Bourbon,Natural / Dry
+guatemala,250,2014,7.58,7.67,7.5,7.58,7.75,7.5,9.33,10,10,7.42,82.33,0.12,0,0,green,3,1524,1524,1524,69,green,82.33,Pacas,Washed / Wet
+mexico,320,2014,7.33,7.58,7.42,7.5,7.5,7.5,10,10,10,7.5,82.33,0.11,0,0,green,0,others,others,others,5,green,82.33,,Washed / Wet
+colombia,250,2013,7.42,7.33,7.5,7.17,7.08,8.33,10,10,10,7.5,82.33,0.1,0,0,green,2,1300,1300,1300,3,green,82.33,Caturra,Washed / Wet
+taiwan,10,2013,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,7.33,82.33,0.11,0,0,green,0,200,200,200,20,green,82.33,Typica,Semi-washed / Semi-pulped
+taiwan,10,2013,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,7.33,82.33,0.11,0,0,green,0,600,600,600,30,green,82.33,Typica,Washed / Wet
+guatemala,250,2013,7.5,7.42,7.58,7.5,7.5,7.58,10,10,10,7.25,82.33,0.12,2,0,green,1,1310.64,1310.64,1310.64,69,green,82.33,Bourbon,Washed / Wet
+colombia,250,2013,7.5,7.42,7.5,7.5,7.5,7.58,10,10,10,7.33,82.33,0,0,0,green,1,1750,1750,1750,70,green,82.33,Caturra,Washed / Wet
+mexico,250,2013,7.67,7.5,7.42,7.5,7.42,7.42,10,10,10,7.42,82.33,0.12,0,0,green,3,1300,1300,1300,1,green,82.33,Typica,Washed / Wet
+costa rica,275,2012,7.92,7.58,7.25,7.75,7.92,7.58,9.33,9.33,10,7.67,82.33,0,0,0,green,14,others,others,others,1,green,82.33,,Washed / Wet
+guatemala,275,2012,7.67,7.5,7.33,7.67,7.5,7.33,10,10,10,7.33,82.33,0.11,0,0,green,3,1676.4,1828.8,1752.6,69,green,82.33,Bourbon,Washed / Wet
+mexico,10,2012,7.58,7.67,7.58,7.33,7,7.58,10,10,10,7.58,82.33,0.15,1,0,others,8,441,441,441,1,bluish-green,82.33,Typica,Natural / Dry
+mexico,10,2012,7.67,7.58,7.5,7.58,7.5,7.5,10,10,10,7,82.33,0.13,0,0,green,9,1170,1170,1170,1,green,82.33,Bourbon,Washed / Wet
+guatemala,250,2012,7.5,7.67,7.33,7.5,7.33,7.5,10,10,10,7.5,82.33,0.1,2,0,green,5,1310.64,1310.64,1310.64,1,green,82.33,Bourbon,Washed / Wet
+brazil,16,2012,7.58,7.5,7.42,7.5,7.5,7.42,10,10,10,7.42,82.33,0.12,0,0,green,2,1100,1100,1100,60,green,82.33,Mundo Novo,Natural / Dry
+mexico,10,2012,8,7.75,7.33,7.33,7.08,7.67,9.33,10,10,7.83,82.33,0.11,0,0,green,0,1200,1400,1300,1,green,82.33,Typica,Washed / Wet
+brazil,44,2012,7.58,7.58,7.25,7.58,7.42,7.5,10,10,10,7.42,82.33,0.11,0,0,green,2,950,950,950,60,green,82.33,Mundo Novo,Washed / Wet
+colombia,250,2012,7.83,7.58,7.33,7.25,7.58,7.42,10,10,10,7.33,82.33,0,0,0,green,0,442,442,442,70,green,82.33,Caturra,Natural / Dry
+brazil,1062,others,7.58,7.5,7.25,7.42,7.67,7.33,10,10,10,7.5,82.25,0.09,2,6,green,10,1100,1100,1100,5,green,82.25,Catuai,Washed / Wet
+taiwan,1,2016,7,7.08,7,7.17,7,7,10,10,10,10,82.25,0.1,0,0,bluish-green,0,others,others,others,10,bluish-green,82.25,,Other
+guatemala,275,2016,7.67,7.5,7.25,7.67,7.42,7.42,10,10,10,7.33,82.25,0.11,0,2,green,2,1450,1450,1450,69,green,82.25,Pacas,Washed / Wet
+brazil,180,2015,7.42,7.67,7.5,7.08,7.5,7.42,10,10,10,7.67,82.25,0,0,0,green,9,1,1,1,2,green,82.25,Yellow Bourbon,Natural / Dry
+el salvador,275,2014,7.58,7.67,7.5,7.67,7.83,8.42,9.33,9.33,9.33,7.58,82.25,0.12,0,0,green,0,1500,1500,1500,1,green,82.25,Bourbon,Washed / Wet
+honduras,275,2015,7.58,7.5,7.42,7.58,7.42,7.42,10,10,10,7.33,82.25,0.11,0,0,green,2,1350,1350,1350,1,green,82.25,Catuai,Washed / Wet
+malawi,10,2014,7.58,7.42,7.33,7.42,7.58,7.5,10,10,10,7.42,82.25,0.13,0,0,bluish-green,0,1180,1180,1180,60,bluish-green,82.25,Gesha,Washed / Wet
+brazil,320,2014,7.75,7.58,7.42,7.42,7.33,7.33,10,10,10,7.42,82.25,0.11,0,0,green,0,1100,1100,1100,2,green,82.25,Bourbon,Natural / Dry
+taiwan,35,2013,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,7.25,82.25,0.11,0,0,green,0,650,650,650,60,green,82.25,Typica,Washed / Wet
+mexico,150,2013,7.58,7.58,7.42,7.42,7.42,7.42,10,10,10,7.42,82.25,0.12,0,0,bluish-green,4,1338,1338,1338,1,bluish-green,82.25,Mundo Novo,Washed / Wet
+united states (hawaii),6,2013,7.33,7.42,7.5,7.67,7.5,7.42,10,10,10,7.42,82.25,0,0,0,bluish-green,1,others,others,others,100,bluish-green,82.25,Hawaiian Kona,Natural / Dry
+mexico,10,2012,7.58,7.58,7.5,7.17,7.42,7.42,10,10,10,7.58,82.25,0.16,3,0,others,8,533,533,533,1,bluish-green,82.25,Bourbon,Washed / Wet
+guatemala,275,2012,7.5,7.5,7.33,7.58,7.67,7.33,10,10,10,7.33,82.25,0.11,0,0,green,2,1390.8024,1390.8024,1390.8024,69,green,82.25,Bourbon,Washed / Wet
+mexico,10,2012,7.5,7.58,7.42,7.67,7.33,7.42,10,10,10,7.33,82.25,0.13,0,0,green,3,1170,1170,1170,1,green,82.25,Bourbon,Washed / Wet
+mexico,40,2012,7.67,7.58,7.33,7.5,7.42,7.42,10,10,10,7.33,82.25,0.12,0,0,green,13,1250,1250,1250,1,green,82.25,Typica,Washed / Wet
+el salvador,288,2012,7.75,7.33,7.33,7.5,7.5,7.5,10,10,10,7.33,82.25,0,2,0,green,5,others,others,others,1,green,82.25,Other,Washed / Wet
+mexico,250,2012,7.33,7.58,7.42,7.67,7.33,7.5,10,10,10,7.42,82.25,0.11,0,0,green,0,1100,1100,1100,1,green,82.25,Typica,Washed / Wet
+mexico,250,2012,7.42,7.5,7.42,7.58,7.42,7.5,10,10,10,7.42,82.25,0.1,0,0,green,3,900,900,900,1,green,82.25,Typica,Washed / Wet
+colombia,250,2012,7.5,7.42,7.67,7.33,7.58,7.33,10,10,10,7.42,82.25,0.12,0,0,green,1,1750,1750,1750,70,green,82.25,Caturra,Washed / Wet
+colombia,100,2012,7.67,7.33,7.33,7.33,7.5,7.5,10,10,10,7.58,82.25,0.11,0,0,green,0,1600,1950,1775,70,green,82.25,Caturra,Washed / Wet
+brazil,84,2012,7.67,7.58,7.42,7,7.5,7.58,10,10,10,7.5,82.25,0.12,0,0,green,1,others,others,others,60,green,82.25,Arusha,Natural / Dry
+colombia,149,others,7.17,7.25,7.58,7.25,7.58,7.67,10,10,10,7.75,82.25,0.22,0,0,others,2,others,others,others,70,bluish-green,82.25,,Other
+brazil,320,2016,7.42,7.42,7.5,7.42,7.42,7.5,10,10,10,7.5,82.17,0.11,0,1,green,5,934,934,934,60,green,82.17,Bourbon,Natural / Dry
+honduras,200,2015,7.5,7.5,7.17,7.42,7.5,7.5,10,10,10,7.58,82.17,0.11,0,1,bluish-green,2,1500,1500,1500,69,bluish-green,82.17,Caturra,Washed / Wet
+nicaragua,275,others,7.5,7.5,7.33,7.42,7.5,7.42,10,10,10,7.5,82.17,0.1,0,0,green,1,1000,1000,1000,69,green,82.17,,Other
+"tanzania, united republic of",30,2015,7.58,7.42,7.42,7.33,7.5,7.42,10,10,10,7.5,82.17,0.13,1,0,green,6,1500,1800,1650,80,green,82.17,Bourbon,Washed / Wet
+"tanzania, united republic of",300,2015,7.42,7.42,7.42,7.5,7.5,7.33,10,10,10,7.58,82.17,0.12,0,0,green,1,1600,1600,1600,60,green,82.17,Other,Washed / Wet
+brazil,320,2015,6.92,7.58,7.42,7.33,7.83,7.5,10,10,10,7.58,82.17,0,0,0,green,1,1,1,1,2,green,82.17,Yellow Bourbon,Natural / Dry
+thailand,1,2014,7.42,7.42,7.17,7.75,7.25,7.67,10,10,10,7.5,82.17,0.12,0,0,bluish-green,0,800,800,800,1,bluish-green,82.17,,Washed / Wet
+honduras,275,2015,7.67,7.5,7.25,7.42,7.58,7.42,10,10,10,7.33,82.17,0.11,0,0,green,2,1350,1350,1350,1,green,82.17,Catuai,Washed / Wet
+guatemala,250,2014,7.42,7.42,7.5,7.5,7.42,7.5,10,10,10,7.42,82.17,0.09,0,0,bluish-green,4,1500,1500,1500,69,bluish-green,82.17,Bourbon,Washed / Wet
+brazil,300,2014,7.58,7.5,7.42,7.25,7.5,7.42,10,10,10,7.5,82.17,0.12,0,0,green,1,others,others,others,60,green,82.17,Mundo Novo,Natural / Dry
+"tanzania, united republic of",10,2014,7.75,7.42,7.42,7.58,7.33,7.42,10,10,10,7.25,82.17,0.12,0,0,green,1,1700,1700,1700,60,green,82.17,Other,Washed / Wet
+mexico,200,2013,7.42,7.33,7.17,7.42,7.33,8.17,10,10,10,7.33,82.17,0.12,0,0,green,0,1100,1100,1100,1,green,82.17,Other,Washed / Wet
+mexico,2,2013,7.5,7.5,7.33,7.42,7.5,7.42,10,10,10,7.5,82.17,0.1,1,0,others,1,1200,1600,1400,2,bluish-green,82.17,Other,Washed / Wet
+taiwan,60,2013,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,7.17,82.17,0.11,0,0,green,0,1200,1200,1200,60,green,82.17,Typica,Other
+taiwan,80,2012,7.67,7.5,7.5,7.17,7.17,7.58,10,10,10,7.58,82.17,0,0,0,green,0,800,800,800,10,green,82.17,Typica,Washed / Wet
+colombia,250,2013,7.33,7.25,7.25,7.58,7.75,7.5,10,10,10,7.5,82.17,0,0,0,bluish-green,1,1750,1750,1750,70,bluish-green,82.17,Caturra,Washed / Wet
+mexico,10,2012,7.5,7.67,7,7.5,7.33,7.5,10,10,10,7.67,82.17,0.15,1,0,others,9,1144,1144,1144,1,bluish-green,82.17,Typica,Washed / Wet
+guatemala,250,2012,7.25,7.75,7,7.75,8.17,7.75,10,10,9.33,7.17,82.17,0.12,0,0,others,2,1350,1350,1350,1,bluish-green,82.17,Caturra,Washed / Wet
+mexico,200,2012,7.5,7.58,7.25,7.5,7.5,7.33,10,10,10,7.5,82.17,0.12,0,0,green,4,1000,1000,1000,1,green,82.17,Typica,Washed / Wet
+mexico,60,2012,7,7.67,7.5,7.5,7.42,7.5,10,10,10,7.58,82.17,0.1,0,0,green,1,1200,1200,1200,1,green,82.17,Typica,Washed / Wet
+colombia,250,2018,7.58,7.67,7.42,7.17,7.17,7.75,10,10,10,7.42,82.17,0.08,0,0,others,0,1800,1800,1800,70,bluish-green,82.17,,Other
+indonesia,2,2017,7.5,7.5,7.42,7.42,7.5,7.42,10,10,10,7.33,82.08,0.15,0,0,others,3,1300,1300,1300,1,bluish-green,82.08,Bourbon,Washed / Wet
+colombia,275,2016,7.75,7.58,7.42,7.67,7.83,7.58,9.33,9.33,10,7.58,82.08,0,0,7,green,6,others,others,others,70,green,82.08,Caturra,Washed / Wet
+brazil,320,2016,7.42,7.58,7.42,7.5,7.42,7.25,10,10,10,7.5,82.08,0.11,0,1,green,3,894,894,894,60,green,82.08,Bourbon,Natural / Dry
+brazil,320,2015,7.25,7.25,7.58,7.58,7.25,7.92,10,10,10,7.25,82.08,0,0,0,green,1,1,1,1,2,green,82.08,Yellow Bourbon,Natural / Dry
+costa rica,275,2015,7.75,7.42,7.42,7.25,7.17,7.42,10,10,10,7.67,82.08,0,0,0,bluish-green,0,1200,1400,1300,350,bluish-green,82.08,Caturra,Washed / Wet
+"tanzania, united republic of",300,2014,7.42,7.33,7.42,7.42,7.5,7.58,10,10,10,7.42,82.08,0.12,0,0,green,5,1500,1500,1500,2,green,82.08,Bourbon,Washed / Wet
+"tanzania, united republic of",1,2014,7.42,7.5,7.5,7.33,7.33,7.5,10,10,10,7.5,82.08,0.12,0,0,green,3,1500,1700,1600,60,green,82.08,Other,Washed / Wet
+colombia,1,2013,7.5,7.42,7.42,7.42,7.67,7.42,10,10,10,7.25,82.08,0.11,1,0,green,0,others,others,others,5,green,82.08,,Washed / Wet
+costa rica,150,2013,7.58,7.33,7.33,7.33,7.5,7.67,10,10,10,7.33,82.08,0.11,0,0,green,2,13,13,13,69,green,82.08,Caturra,Washed / Wet
+united states (hawaii),4,2012,7.25,7.58,7.58,7.25,7.5,7.42,10,10,10,7.5,82.08,0.11,0,0,bluish-green,0,others,others,others,100,bluish-green,82.08,Hawaiian Kona,Natural / Dry
+mexico,35,2012,7.42,7.58,7.5,7.33,7.42,7.42,10,10,10,7.42,82.08,0.13,0,0,green,7,1300,1300,1300,1,green,82.08,Typica,Washed / Wet
+mexico,250,2012,7.5,7.42,7.42,7.5,7.25,7.5,10,10,10,7.5,82.08,0.13,3,0,green,13,1800,1800,1800,1,green,82.08,Typica,Washed / Wet
+mexico,15,2012,7.67,7.5,7.25,7.58,7.42,7.33,10,10,10,7.33,82.08,0.11,0,0,green,11,1250,1250,1250,1,green,82.08,Typica,Washed / Wet
+vietnam,1,2012,7.67,8,7.17,7.08,7.67,7.08,10,10,10,7.42,82.08,0.12,0,0,green,2,1040,1040,1040,2,green,82.08,Other,Natural / Dry
+mexico,250,2012,7.58,7.42,7.25,7.75,7.33,7.42,10,10,10,7.33,82.08,0.11,0,0,green,1,1250,1250,1250,1,green,82.08,Typica,Washed / Wet
+united states (hawaii),10,2012,7.33,7.5,7.33,7.58,7.08,7.83,10,10,10,7.42,82.08,0.1,0,0,green,2,others,others,others,100,green,82.08,Hawaiian Kona,Washed / Wet
+colombia,275,Jan-11,7.67,7.42,7.67,7.33,7.25,7.58,10,10,10,7.17,82.08,0.08,1,0,others,5,1600,1600,1600,70,bluish-green,82.08,,Other
+honduras,275,2017,7.5,7.5,7.17,7.5,7.5,7.42,10,10,10,7.42,82,0.12,0,0,green,1,1600,1600,1600,69,green,82,Caturra,Washed / Wet
+honduras,275,2016,7.5,7.5,7.25,7.33,7.42,7.5,10,10,10,7.5,82,0.1,0,1,green,7,1600,1600,1600,69,green,82,Caturra,Natural / Dry
+brazil,230,2016,7.5,7.33,7.42,7.5,7.33,7.42,10,10,10,7.5,82,0.11,0,2,green,3,944,944,944,60,green,82,Bourbon,Natural / Dry
+"tanzania, united republic of",2,2015,7.67,7.33,7.33,7.42,7.42,7.42,10,10,10,7.42,82,0.13,0,0,green,20,1500,1800,1650,80,green,82,Other,Washed / Wet
+laos,1,2015,7.42,7.5,7.25,7.33,7.5,7.5,10,10,10,7.5,82,0.12,0,0,bluish-green,0,1250,1250,1250,2,bluish-green,82,Other,Washed / Wet
+"tanzania, united republic of",1,2014,7.42,7.42,7.33,7.58,7.33,7.42,10,10,10,7.5,82,0.12,0,0,green,3,1300,1400,1350,60,green,82,Other,Washed / Wet
+malawi,16,2014,7.5,7.42,7.33,7.58,7.33,7.5,10,10,10,7.33,82,0.13,0,0,bluish-green,1,2500,2500,2500,60,bluish-green,82,Gesha,Washed / Wet
+taiwan,50,2013,7.33,7.5,7.17,7.42,7.5,7.33,10,10,10,7.75,82,0.09,0,0,green,0,600,600,600,20,green,82,Typica,Washed / Wet
+thailand,1,2013,7.58,7.5,7.42,7.42,7.33,7.42,10,10,10,7.33,82,0.11,0,0,green,0,800,800,800,1,green,82,,Washed / Wet
+costa rica,250,2013,7.5,7.25,7.33,7.33,7.75,7.5,10,10,10,7.33,82,0.1,0,0,green,4,1200,1400,1300,1,green,82,Catuai,Washed / Wet
+honduras,275,2014,7.33,7.33,7.33,7.5,7.5,7.83,10,10,10,7.17,82,0.11,0,0,green,5,1400,1400,1400,69,green,82,Caturra,Washed / Wet
+colombia,250,2013,7.33,7.33,7.58,7.5,7.5,7.58,10,10,10,7.17,82,0.11,0,0,green,1,1800,2000,1900,70,green,82,Caturra,Washed / Wet
+taiwan,30,2012,7.42,7.58,7.33,7.42,8,7.5,9.33,10,10,7.42,82,0.12,0,0,bluish-green,0,600,700,650,10,bluish-green,82,Typica,Washed / Wet
+brazil,1,2012,7.33,7.67,7.42,7.17,7.33,7.42,10,10,10,7.67,82,0.11,0,0,bluish-green,0,894,1183,1038.5,2,bluish-green,82,Mundo Novo,Natural / Dry
+mexico,15,2012,7.67,7.33,7.25,7.5,7.42,7.42,10,10,10,7.42,82,0.12,0,0,green,1,940,940,940,1,green,82,Typica,Washed / Wet
+brazil,50,2012,7.42,7.5,7.33,7.5,7.33,7.5,10,10,10,7.42,82,0.12,0,0,green,1,1000,1000,1000,60,green,82,Mundo Novo,Natural / Dry
+brazil,75,2012,7.42,7.5,7.25,7.5,7.5,7.42,10,10,10,7.42,82,0.11,0,0,bluish-green,1,1050,1050,1050,60,bluish-green,82,Catuai,Semi-washed / Semi-pulped
+guatemala,250,2012,7.33,7.33,7.33,7.5,7.67,7.67,10,10,10,7.17,82,0.11,0,0,green,3,others,others,others,1,green,82,Bourbon,Natural / Dry
+brazil,53,2012,7.58,7.5,7.17,7.5,7.5,7.42,10,10,10,7.33,82,0.12,0,0,green,2,950,950,950,60,green,82,Mundo Novo,Semi-washed / Semi-pulped
+guatemala,250,2012,7.75,7.33,7.33,7.42,7.75,7.67,10,10,9.33,7.42,82,0,0,0,green,10,1402.08,1402.08,1402.08,2,green,82,Bourbon,Washed / Wet
+colombia,150,others,7.33,7,7.08,7.42,7.5,7.67,10,10,10,8,82,0.07,0,0,others,2,1600,1950,1775,70,bluish-green,82,Caturra,Other
+guatemala,25,2017,7.58,7.5,7.25,7.58,7.58,7.5,9.33,10,10,7.58,81.92,0.1,0,0,green,1,1901,1901,1901,69,green,81.92,Bourbon,Washed / Wet
+guatemala,50,2017,7.5,7.5,7.25,7.42,7.42,7.42,10,10,10,7.42,81.92,0.11,0,2,green,0,1219.2,1219.2,1219.2,69,green,81.92,Bourbon,Washed / Wet
+honduras,274,2017,7.58,7.5,7.25,7.33,7.42,7.5,10,10,10,7.33,81.92,0.12,0,0,green,1,1400,1400,1400,67,green,81.92,Caturra,Washed / Wet
+brazil,305,2016,7.42,7.33,7.33,7.5,7.5,7.33,10,10,10,7.5,81.92,0.11,0,0,green,4,1020,1020,1020,59,green,81.92,Catuai,Natural / Dry
+el salvador,275,2014,7.67,7.58,7.33,7.5,7.5,7.67,10,10,9.33,7.33,81.92,0.11,0,0,green,2,1250,1250,1250,69,green,81.92,Bourbon,Washed / Wet
+guatemala,275,2015,7.58,7.58,7.17,7.83,7.17,7.33,10,10,10,7.25,81.92,0.11,0,0,green,7,1300,1800,1550,69,green,81.92,Catuai,Washed / Wet
+"tanzania, united republic of",114,2014,7.33,7.33,7.33,7.42,7.5,7.58,10,10,10,7.42,81.92,0.12,0,0,green,4,1877,1877,1877,60,green,81.92,Other,Washed / Wet
+nicaragua,275,2013,7.58,7.42,7.25,7.17,7.5,7.67,10,10,10,7.33,81.92,0.12,3,0,green,4,others,others,others,5,green,81.92,,Washed / Wet
+zambia,13,2014,7.67,7.08,7.42,7.33,7.75,7.42,10,10,10,7.25,81.92,0,1,0,others,3,1000,1500,1250,2,bluish-green,81.92,SL28,Washed / Wet
+honduras,1,2012,7.42,7.33,7.33,7.58,7.33,7.5,10,10,10,7.42,81.92,0.11,0,0,green,0,others,others,others,2,green,81.92,,Washed / Wet
+taiwan,35,2012,7.5,7.5,7.42,7.25,7.5,7.5,10,10,10,7.25,81.92,0.11,0,0,green,0,1000,1000,1000,30,green,81.92,Typica,Other
+mexico,450,2013,7.58,7.5,7.25,7.58,7.5,7.25,10,10,10,7.25,81.92,0.12,0,0,green,6,1300,1300,1300,1,green,81.92,Bourbon,Washed / Wet
+mexico,10,2012,7.5,7.5,7.25,7.25,7.5,7.5,10,10,10,7.42,81.92,0.13,2,0,others,7,981,981,981,1,bluish-green,81.92,Typica,Semi-washed / Semi-pulped
+mexico,10,2012,7.5,7.42,7.25,7.5,7.33,7.33,10,10,10,7.58,81.92,0.14,2,0,others,8,690,690,690,1,bluish-green,81.92,Mundo Novo,Washed / Wet
+mexico,30,2012,7.33,7.58,7.17,7.58,7.42,7.33,10,10,10,7.5,81.92,0.12,0,0,green,4,1650,1650,1650,1,green,81.92,Other,Washed / Wet
+mexico,62,2012,7.67,7.42,7.33,7.83,7.5,7.5,9.33,10,10,7.33,81.92,0.12,0,0,green,0,1000,1000,1000,1,green,81.92,Bourbon,Washed / Wet
+brazil,8,2012,7.42,7.58,7.25,7.5,7.33,7.5,10,10,10,7.33,81.92,0.12,0,0,green,3,1100,1100,1100,60,green,81.92,Mundo Novo,Natural / Dry
+colombia,250,2018,7.67,7.33,7.33,7.58,7.33,7.33,10,10,10,7.33,81.92,0.09,0,0,others,1,1600,1600,1600,70,bluish-green,81.92,,Other
+guatemala,25,2017,7.42,7.5,7.25,7.5,7.33,7.42,10,10,10,7.42,81.83,0.1,1,0,green,1,157.8864,157.8864,157.8864,69,green,81.83,Bourbon,Washed / Wet
+costa rica,15,2016,7.25,7.33,7.5,7.33,7.67,7.42,10,10,10,7.33,81.83,0,1,0,green,4,1900,1900,1900,46,green,81.83,Catuai,Pulped natural / honey
+brazil,200,2016,7.42,7.5,7.42,7.5,7.42,7.25,10,10,10,7.33,81.83,0.11,0,1,green,3,973,973,973,59,green,81.83,Mundo Novo,Natural / Dry
+indonesia,166,2015,7.75,7.83,7.58,7.75,7.92,7.83,10,10,10,5.17,81.83,0.11,0,1,green,0,1250,1250,1250,30,green,81.83,Other,Other
+guatemala,130,2015,7.58,7.5,7.33,7.42,7.58,7.25,10,10,10,7.17,81.83,0.1,2,0,green,6,3280,3280,3280,69,green,81.83,Bourbon,Washed / Wet
+brazil,320,2015,7.17,7.58,6.83,7.5,7.75,7.25,10,10,10,7.75,81.83,0,0,0,green,1,1,1,1,2,green,81.83,Yellow Bourbon,Natural / Dry
+brazil,300,2015,7.58,7,6.92,6.92,7.67,7.5,10,10,10,8.25,81.83,0,0,0,green,0,1,1,1,2,green,81.83,Yellow Bourbon,Natural / Dry
+myanmar,1,2015,7.33,7.58,7.5,7.42,7.33,7.33,10,10,10,7.33,81.83,0,0,0,green,2,4001,4001,4001,2,green,81.83,Catuai,Washed / Wet
+mexico,250,2015,7.58,7.5,7.33,7.5,7.17,7.33,10,10,10,7.42,81.83,0.11,0,0,green,7,1350,1500,1425,2,green,81.83,Catuai,Washed / Wet
+honduras,275,2015,7.5,7.5,7.33,7.5,7.42,7.25,10,10,10,7.33,81.83,0.12,0,0,green,1,1400,1400,1400,1,green,81.83,Catuai,Washed / Wet
+costa rica,275,2015,7.67,7.5,7.5,7.25,7.08,7.42,10,10,10,7.42,81.83,0.09,0,0,green,0,1200,1400,1300,18975,green,81.83,Caturra,Washed / Wet
+taiwan,8,2014,7.67,7.33,7.17,7.25,7.75,7.33,10,10,10,7.33,81.83,0,0,0,green,0,700,700,700,5,green,81.83,Typica,Washed / Wet
+indonesia,300,2014,7.42,7.42,7.42,7.33,7.42,7.42,10,10,10,7.42,81.83,0.11,2,0,others,6,1300,1300,1300,10,bluish-green,81.83,Typica,Other
+malawi,24,2014,7.58,7.42,7.33,7.33,7.33,7.42,10,10,10,7.42,81.83,0.13,0,0,green,0,1556,1556,1556,60,green,81.83,Gesha,Washed / Wet
+brazil,320,2014,7.33,7.58,7.25,7.17,7.83,7.33,10,10,10,7.33,81.83,0.11,0,0,green,0,1100,1100,1100,2,green,81.83,Bourbon,Natural / Dry
+honduras,275,2014,7.5,7.5,7.33,7.33,7.33,7.33,10,10,10,7.5,81.83,0.1,0,0,green,4,1350,1350,1350,1,green,81.83,Caturra,Natural / Dry
+mexico,280,2014,7.42,7.42,7.25,7.5,7.33,7.42,10,10,10,7.5,81.83,0.11,0,0,green,0,1550,1550,1550,2,green,81.83,Typica,Washed / Wet
+colombia,50,2013,7.5,7.5,7,7.42,7.5,7.58,10,10,10,7.33,81.83,0,2,0,bluish-green,0,1600,1950,1775,70,bluish-green,81.83,Caturra,Washed / Wet
+united states (hawaii),19,2012,7.83,7.83,7.83,8,7.83,7.83,10,6.67,10,8,81.83,0,1,0,bluish-green,1,others,others,others,100,bluish-green,81.83,Hawaiian Kona,Natural / Dry
+brazil,300,2012,7.75,7.75,7.5,7.42,7.83,7.75,9.33,9.33,9.33,7.83,81.83,0.12,0,0,bluish-green,0,1250,1250,1250,60,bluish-green,81.83,Bourbon,Semi-washed / Semi-pulped
+guatemala,250,2013,7.83,7.67,7.33,7.33,7.67,7.83,9.33,10,9.33,7.5,81.83,0.11,0,0,green,1,1310.64,1310.64,1310.64,69,green,81.83,Bourbon,Washed / Wet
+mexico,302,2012,7.83,7.33,7.25,7.58,7.25,7.33,10,10,10,7.25,81.83,0.12,0,0,green,2,1500,1500,1500,1,green,81.83,Bourbon,Washed / Wet
+mexico,15,2012,7.33,7.33,7.25,7.5,7.5,7.5,10,10,10,7.42,81.83,0.12,0,0,green,10,1250,1250,1250,1,green,81.83,Typica,Semi-washed / Semi-pulped
+brazil,58,2011,7.33,7.67,7.25,7.5,7.5,7.25,10,10,10,7.33,81.83,0.02,0,0,others,2,900,950,925,60,bluish-green,81.83,Mundo Novo,Other
+colombia,250,2011,7.58,7.5,7.17,7.58,7.33,7.33,10,10,10,7.33,81.83,0.05,0,0,others,0,1600,1800,1700,70,bluish-green,81.83,,Other
+united states (hawaii),30,others,7.25,7.58,7.83,7.67,7.75,7.75,9.33,9.33,10,7.33,81.83,0.02,3,0,others,12,others,others,others,0,bluish-green,81.83,,Other
+guatemala,50,2017,7.5,7.5,7.25,7.42,7.42,7.33,10,10,10,7.33,81.75,0.11,0,1,green,1,1700,1700,1700,69,green,81.75,Bourbon,Washed / Wet
+vietnam,1,2014,7,7.08,7.33,7.5,7.5,7.33,10,10,10,8,81.75,0.12,0,0,bluish-green,0,1040,1040,1040,2,bluish-green,81.75,Caturra,Washed / Wet
+"tanzania, united republic of",1,2014,7.42,7.42,7.42,7.42,7.33,7.33,10,10,10,7.42,81.75,0.12,0,0,bluish-green,4,1500,1700,1600,60,bluish-green,81.75,Other,Washed / Wet
+brazil,1,2013,7.17,7.25,7.17,7.25,7.42,8.25,10,10,10,7.25,81.75,0.1,0,0,bluish-green,1,others,others,others,5,bluish-green,81.75,,Natural / Dry
+mexico,10,2012,7.5,7.5,7.33,7.42,7.25,7.25,10,10,10,7.5,81.75,0.13,2,0,others,9,774,774,774,1,bluish-green,81.75,Bourbon,Washed / Wet
+mexico,100,2012,7.42,7.5,7.17,7.67,7.33,7.42,10,10,10,7.25,81.75,0.13,0,0,green,23,1250,1250,1250,1,green,81.75,Mundo Novo,Washed / Wet
+mexico,42,2012,7.42,7.5,7.33,7.58,7.33,7.33,10,10,10,7.25,81.75,0.11,0,0,green,1,1100,1100,1100,1,green,81.75,Typica,Washed / Wet
+mexico,250,2012,7.33,7.42,7.33,7.67,7.42,7.25,10,10,10,7.33,81.75,0.12,10,0,green,14,1550,1550,1550,1,green,81.75,Caturra,Washed / Wet
+mexico,28,2012,7.5,7.42,7.25,7.33,7.67,7.25,10,10,10,7.33,81.75,0.12,0,0,others,1,1650,1650,1650,1,bluish-green,81.75,Typica,Washed / Wet
+colombia,250,2011,7.33,7.42,7.33,7.33,7.5,7.67,10,10,10,7.17,81.75,0,0,0,green,1,1750,1750,1750,70,green,81.75,Caturra,Washed / Wet
+colombia,275,others,7.42,7.58,6.92,7.08,7.25,8,10,10,10,7.5,81.75,0.08,0,0,others,0,1600,1950,1775,70,bluish-green,81.75,,Other
+brazil,320,2017,7.42,7.5,7.25,7.5,7.5,7.25,10,10,10,7.25,81.67,0.11,0,0,green,5,890,890,890,60,green,81.67,Bourbon,Natural / Dry
+guatemala,50,2017,7.42,7.42,7.08,7.42,7.33,7.42,10,10,10,7.58,81.67,0.1,0,0,green,1,1700,1700,1700,69,green,81.67,Bourbon,Washed / Wet
+guatemala,80,2017,7.42,7.33,7.17,7.67,7.33,7.42,10,10,10,7.33,81.67,0.12,0,1,green,3,1219.2,1219.2,1219.2,69,green,81.67,Bourbon,Washed / Wet
+honduras,275,2016,7.58,7.5,7.33,7.33,7.42,7.25,10,10,10,7.25,81.67,0.11,0,0,bluish-green,2,1450,1450,1450,69,bluish-green,81.67,Catuai,Washed / Wet
+"tanzania, united republic of",320,2016,7.17,7.33,7.33,7.42,7.5,7.33,10,10,10,7.58,81.67,0,0,0,green,1,1800,1800,1800,60,green,81.67,,Other
+nicaragua,275,others,7.58,7.5,7.25,7.25,7.5,7.25,10,10,10,7.33,81.67,0.1,0,0,green,1,others,others,others,69,green,81.67,,Other
+colombia,165,2016,7.75,7.75,7.75,7.67,5.25,7.83,10,10,10,7.67,81.67,0,0,1,others,1,others,others,others,70,bluish-green,81.67,,Other
+brazil,320,2015,7.25,7.75,6.92,7.42,7.5,7.58,10,10,10,7.25,81.67,0,0,0,green,0,1,1,1,2,green,81.67,Yellow Bourbon,Natural / Dry
+"tanzania, united republic of",20,2014,7.42,7.33,7.25,7.42,7.5,7.42,10,10,10,7.33,81.67,0.12,0,0,green,0,1200,1800,1500,60,green,81.67,Other,Washed / Wet
+"tanzania, united republic of",10,2013,7.33,7.33,7.5,7.25,7.42,7.33,10,10,10,7.5,81.67,0.12,0,0,green,7,1700,1700,1700,60,green,81.67,Other,Washed / Wet
+brazil,300,2014,7.25,7.42,7.25,7.5,7.5,7.42,10,10,10,7.33,81.67,0.1,0,0,green,2,1260,1260,1260,2,green,81.67,Bourbon,Washed / Wet
+indonesia,320,2013,7.17,7.42,7.33,7.42,7.33,7.42,10,10,10,7.58,81.67,0.11,0,0,bluish-green,0,others,others,others,4,bluish-green,81.67,Sumatra,Semi-washed / Semi-pulped
+honduras,275,2014,7.5,7.33,7.5,7.5,7.17,7.17,10,10,10,7.5,81.67,0.1,0,0,green,5,1400,1400,1400,1,green,81.67,Caturra,Natural / Dry
+costa rica,275,2013,7.5,7.17,7.17,7.17,7.5,7.08,10,10,10,8.08,81.67,0.11,0,0,green,3,1850,1850,1850,69,green,81.67,Caturra,Washed / Wet
+mexico,320,2014,7.42,7.42,7.67,8,7.58,7.5,9.33,9.33,10,7.42,81.67,0,0,0,green,4,others,others,others,5,green,81.67,,Washed / Wet
+taiwan,10,2013,7.5,7.5,7.5,7.25,7.42,7.25,10,10,10,7.25,81.67,0.11,0,0,green,0,150,150,150,30,green,81.67,Typica,Semi-washed / Semi-pulped
+taiwan,10,2013,7.58,7.42,7.33,7.42,7.33,7.33,10,10,10,7.25,81.67,0.11,0,0,green,0,750,750,750,30,green,81.67,Typica,Washed / Wet
+mexico,310,2013,7.5,7.42,7.08,7.58,7.33,7.33,10,10,10,7.42,81.67,0.12,0,0,green,6,1400,1400,1400,1,green,81.67,Typica,Washed / Wet
+guatemala,275,2012,7.5,7.67,7.33,7.33,7.33,7.33,10,10,10,7.17,81.67,0.11,0,0,green,4,1676.4,1828.8,1752.6,69,green,81.67,Bourbon,Washed / Wet
+mexico,100,2012,7.25,7.67,7.58,7.67,7.67,7.58,8.67,10,10,7.58,81.67,0.13,1,0,green,13,1650,1650,1650,1,green,81.67,Typica,Washed / Wet
+mexico,15,2012,7.67,7.25,7.17,7.75,7.5,7.25,10,10,10,7.08,81.67,0.11,0,0,green,4,1400,1400,1400,1,green,81.67,Bourbon,Washed / Wet
+mexico,275,2012,7.5,7.42,7.33,7.42,7.42,7.42,10,10,10,7.17,81.67,0.11,0,0,green,2,1200,1200,1200,1,green,81.67,Bourbon,Washed / Wet
+mexico,250,2012,7.58,7.42,7.25,7.58,7.25,7.17,10,10,10,7.42,81.67,0.11,0,0,green,2,1400,1400,1400,1,green,81.67,Bourbon,Washed / Wet
+mexico,12,2012,7.75,7.58,7.25,7.17,7.58,7.33,9.33,10,10,7.67,81.67,0.11,0,0,green,4,940,940,940,1,green,81.67,Caturra,Semi-washed / Semi-pulped
+united states (hawaii),13,2012,7.42,7.33,7.33,7.33,7.17,7.83,10,10,10,7.25,81.67,0.1,1,0,green,1,others,others,others,100,green,81.67,Hawaiian Kona,Washed / Wet
+honduras,275,2018,7.5,7.42,7.08,7.42,7.5,7.33,10,10,10,7.33,81.58,0.11,0,1,bluish-green,3,1200,1200,1200,69,bluish-green,81.58,Catimor,Washed / Wet
+guatemala,25,2017,7.42,7.42,7.08,7.5,7.42,7.33,10,10,10,7.42,81.58,0.12,0,0,green,0,190164,190164,190164,69,green,81.58,Bourbon,Washed / Wet
+taiwan,20,2016,7.42,7.42,7.25,7.67,7.33,7.25,10,10,10,7.25,81.58,0.1,0,0,bluish-green,0,800,800,800,50,bluish-green,81.58,Typica,Washed / Wet
+costa rica,250,2015,7.58,7.42,7.5,7.17,7.08,7.58,10,10,10,7.25,81.58,0.12,0,0,green,1,13,13,13,69,green,81.58,Caturra,Washed / Wet
+"tanzania, united republic of",100,2014,7.42,7.42,7.33,7.42,7.42,7.33,10,10,10,7.25,81.58,0.12,0,0,green,5,1800,1800,1800,60,green,81.58,Other,Washed / Wet
+malawi,10,2014,7.42,7.42,7.17,7.58,7.33,7.33,10,10,10,7.33,81.58,0.13,0,0,green,0,1100,1100,1100,60,green,81.58,Gesha,Washed / Wet
+taiwan,50,2014,7.33,7.17,7.08,7.08,8.33,8.25,10,10,9.33,7,81.58,0,0,0,others,0,850,850,850,20,bluish-green,81.58,Typica,Semi-washed / Semi-pulped
+brazil,300,2013,7.42,7.42,7.33,7.33,7.5,7.25,10,10,10,7.33,81.58,0.12,0,0,bluish-green,3,1260,1260,1260,60,bluish-green,81.58,Yellow Bourbon,Washed / Wet
+guatemala,250,2013,7.42,7.33,7.17,7.58,7.42,7.5,10,10,10,7.17,81.58,0.12,0,0,green,1,1310.64,1310.64,1310.64,69,green,81.58,Bourbon,Washed / Wet
+mexico,310,2013,7.67,7.5,7.42,7.5,6.75,7.42,10,10,10,7.33,81.58,0.12,0,0,green,9,1400,1400,1400,1,green,81.58,Typica,Washed / Wet
+mexico,28,2012,7.33,7.5,7.25,7.5,7.5,7.17,10,10,10,7.33,81.58,0.11,0,0,others,0,1600,1600,1600,1,bluish-green,81.58,Marigojipe,Natural / Dry
+mexico,28,2012,7.67,7.58,7.42,7.58,7.58,7.42,10,10,8.67,7.67,81.58,0.11,0,0,others,2,1650,1650,1650,1,bluish-green,81.58,Typica,Natural / Dry
+thailand,12,2011,7.08,7.33,7.58,7.58,7.17,7.5,10,10,10,7.33,81.58,0.01,0,0,others,0,1499.9208,1499.9208,1499.9208,50,bluish-green,81.58,,Other
+thailand,1,2011,7.33,7.33,7.17,7.5,7.58,7.33,10,10,10,7.33,81.58,0.2,0,0,others,0,others,others,others,60,bluish-green,81.58,,Other
+costa rica,1,others,7.25,7.17,7.33,7.33,7.5,7.75,10,10,10,7.25,81.58,0,0,0,others,1,1371.6,1828.8,1600.2,60,bluish-green,81.58,,Other
+guatemala,50,2017,7.67,7.58,7.17,7.42,7.33,7.42,9.33,10,10,7.58,81.5,0.1,0,0,green,0,1219.2,1219.2,1219.2,69,green,81.5,Bourbon,Washed / Wet
+nicaragua,550,2017,7.5,7.42,7.33,7.33,7.25,7.33,10,10,10,7.33,81.5,0.11,0,0,green,3,1100,1100,1100,69,green,81.5,Caturra,Other
+honduras,275,2017,7.5,7.5,7.33,7.42,7.17,7.25,10,10,10,7.33,81.5,0.1,0,0,green,5,1400,1400,1400,69,green,81.5,Caturra,Washed / Wet
+guatemala,50,2017,7.5,7.42,7.25,7.25,7.5,7.25,10,10,10,7.33,81.5,0.12,0,0,green,0,others,others,others,69,green,81.5,Bourbon,Other
+taiwan,123,2015,7.5,7.42,7.33,7.08,7.58,7.25,10,10,10,7.33,81.5,0.12,0,0,green,2,160,200,180,2,green,81.5,Typica,Natural / Dry
+myanmar,1,2015,7.25,7.42,7.25,7.5,7.33,7.33,10,10,10,7.42,81.5,0,0,0,green,4,1219.2,1219.2,1219.2,1,green,81.5,Catuai,Washed / Wet
+costa rica,250,2014,7.83,7.33,7.08,7.08,7.33,7.5,10,10,10,7.33,81.5,0.12,1,0,green,2,1200,1200,1200,1,green,81.5,Caturra,Washed / Wet
+malawi,15,2014,7.67,7.42,6.92,7.5,7.5,7.17,10,10,10,7.33,81.5,0.12,0,0,green,0,1599,1599,1599,60,green,81.5,Gesha,Washed / Wet
+guatemala,250,2014,7.5,7.42,7.17,7.58,7.25,7.42,10,10,10,7.17,81.5,0.12,0,0,green,0,1219.2,1219.2,1219.2,69,green,81.5,Other,Washed / Wet
+taiwan,50,2014,7.42,7.33,7.67,7.33,7.42,7.5,10,10,9.33,7.5,81.5,0.11,0,0,bluish-green,0,900,900,900,20,bluish-green,81.5,Typica,Washed / Wet
+brazil,300,2014,7.58,7.5,7.5,7.67,7.67,7.83,9.33,9.33,9.33,7.75,81.5,0,1,0,green,1,1200,1200,1200,60,green,81.5,Yellow Bourbon,Semi-washed / Semi-pulped
+haiti,300,2013,7.42,7.33,7.25,7.42,7.42,7.33,10,10,10,7.33,81.5,0.11,0,0,bluish-green,0,400,1250,825,4,bluish-green,81.5,Blue Mountain,Washed / Wet
+taiwan,5,2013,7.5,7.42,7.25,7.25,7.33,7.33,10,10,10,7.42,81.5,0.11,0,0,green,0,600,600,600,30,green,81.5,Typica,Other
+mexico,250,2013,7.33,7.33,7.17,7.42,7.5,7.5,10,10,10,7.25,81.5,0.13,0,0,green,2,1150,1150,1150,1,green,81.5,Typica,Washed / Wet
+mexico,250,2012,7.58,7.42,7.25,7.42,7.33,7.33,10,10,10,7.17,81.5,0.12,0,0,green,5,1600,1600,1600,1,green,81.5,Typica,Washed / Wet
+mexico,30,2012,7.42,7.25,7.17,7.42,7.17,8,10,10,10,7.08,81.5,0.12,0,0,green,10,1100,1100,1100,1,green,81.5,Catuai,Washed / Wet
+mexico,20,2012,7.33,7.5,7.33,7.33,7.33,7.42,10,10,10,7.25,81.5,0.11,0,0,green,6,1000,1000,1000,1,green,81.5,Typica,Semi-washed / Semi-pulped
+mexico,50,2012,7.42,7.42,7.33,7.17,7.25,7.42,10,10,10,7.5,81.5,0.13,0,0,green,5,1250,1250,1250,80,green,81.5,Bourbon,Washed / Wet
+mexico,15,2012,7.5,7.5,7.25,7.5,7.42,7.58,9.33,10,10,7.42,81.5,0.11,0,0,green,3,1100,1100,1100,1,green,81.5,Typica,Natural / Dry
+indonesia,10,2012,7.75,7.17,7.17,7.33,7.58,7.33,10,10,10,7.17,81.5,0.12,0,0,green,0,1200,1600,1400,60,green,81.5,Other,Washed / Wet
+brazil,300,2012,7.5,7.42,7.17,7.42,7.5,7.33,10,10,10,7.17,81.5,0.12,0,0,bluish-green,2,125,125,125,1,bluish-green,81.5,Bourbon,Semi-washed / Semi-pulped
+guatemala,250,2012,7.33,7.5,7.33,7.42,7.17,7.33,10,10,10,7.42,81.5,0.11,0,0,green,1,others,others,others,1,green,81.5,Bourbon,Washed / Wet
+colombia,250,others,7.42,7.42,7.17,7.42,7.42,7.33,10,10,10,7.33,81.5,0.06,1,0,others,0,1050,1850,1450,70,bluish-green,81.5,,Other
+united states (hawaii),16,others,7.33,7.33,7.33,7.5,7.5,7.83,9.33,10,10,7.33,81.5,0,0,0,others,17,others,others,others,1,bluish-green,81.5,,Other
+mexico,200,2017,7.58,7.33,7.08,7.33,7.5,7.33,10,10,10,7.25,81.42,0.12,1,5,green,17,1100,1100,1100,69,green,81.42,Mundo Novo,Washed / Wet
+guatemala,450,2016,7.42,7.33,7.08,7.58,7.33,7.25,10,10,10,7.42,81.42,0.1,0,0,green,0,1371.6,1371.6,1371.6,69,green,81.42,Catuai,Washed / Wet
+brazil,300,2015,7.33,7.5,7.5,7.33,6.83,7.42,10,10,10,7.5,81.42,0.11,0,0,green,2,1100,1100,1100,60,green,81.42,Catuai,Natural / Dry
+honduras,275,2015,7.5,7.33,7.17,7.25,7.5,7.42,10,10,10,7.25,81.42,0.12,0,0,green,1,1400,1400,1400,1,green,81.42,Catuai,Washed / Wet
+taiwan,10,2014,7.83,7.75,7.42,7.17,7.08,7.08,10,10,10,7.08,81.42,0.12,0,0,green,0,110,110,110,60,green,81.42,Typica,Washed / Wet
+malawi,12,2014,7.58,7.17,7.33,7.42,7.08,7.42,10,10,10,7.42,81.42,0.12,0,0,bluish-green,0,1422,1422,1422,60,bluish-green,81.42,Gesha,Washed / Wet
+brazil,320,2014,7.25,7.5,7.42,7.17,7.33,7.33,10,10,10,7.42,81.42,0,0,0,green,0,1100,1100,1100,2,green,81.42,Bourbon,Natural / Dry
+guatemala,250,2014,7.42,7.5,7.17,7.42,7.42,7.42,10,10,10,7.08,81.42,0.1,0,0,green,6,1550,1550,1550,69,green,81.42,Bourbon,Washed / Wet
+mexico,280,2014,7.67,7.33,7.25,7.17,7.25,7.42,10,10,10,7.33,81.42,0,1,0,green,1,1550,1550,1550,2,green,81.42,Typica,Washed / Wet
+peru,280,2013,7.42,7.42,7.17,7.33,7.42,7.42,10,10,10,7.25,81.42,0.1,1,0,bluish-green,5,others,others,others,5,bluish-green,81.42,,Washed / Wet
+guatemala,250,2013,7.42,7.33,7.25,7.42,7.42,7.5,10,10,10,7.08,81.42,0.12,0,0,green,4,1310.64,1310.64,1310.64,69,green,81.42,Bourbon,Washed / Wet
+mexico,10,2012,7.42,7.33,7.25,7.17,7.25,7.42,10,10,10,7.58,81.42,0.13,1,0,others,8,763,763,763,1,bluish-green,81.42,Caturra,Washed / Wet
+mexico,20,2012,7.42,7.42,7.25,7.25,7.5,7.33,10,10,10,7.25,81.42,0.13,0,0,others,1,1100,1100,1100,1,bluish-green,81.42,Typica,Washed / Wet
+colombia,250,2011,7.5,7.42,7.25,7.17,7.17,7.75,10,10,10,7.17,81.42,0.11,0,0,green,0,1750,1750,1750,70,green,81.42,Caturra,Natural / Dry
+colombia,250,201872010,7.75,7.33,7.42,7,7.33,7.25,10,10,10,7.33,81.42,0.16,0,0,others,2,1880,1880,1880,70,bluish-green,81.42,,Other
+united states (hawaii),27,others,7.83,7,7,7.58,7.58,7.5,10,10,10,6.92,81.42,0.01,0,0,others,10,others,others,others,0,bluish-green,81.42,Peaberry,Other
+colombia,230,2016,7.5,7.33,7.33,7.17,7.33,7.42,10,10,10,7.25,81.33,0,0,0,others,0,others,others,others,70,bluish-green,81.33,Caturra,Washed / Wet
+honduras,275,2016,7.5,7.5,7,7.17,7.5,7.33,10,10,10,7.33,81.33,0.11,0,2,bluish-green,3,1500,1500,1500,69,bluish-green,81.33,Caturra,Washed / Wet
+mexico,220,2016,7.67,7.42,7,7.42,7.58,7.08,10,10,10,7.17,81.33,0.12,0,2,green,0,1130,1130,1130,69,green,81.33,,Other
+brazil,300,2015,7.25,7.33,7.33,7.33,7.33,7.42,10,10,10,7.33,81.33,0.11,0,0,green,14,1100,1100,1100,60,green,81.33,Catuai,Natural / Dry
+honduras,275,2015,7.58,7.42,7.17,7.42,7.17,7.17,10,10,10,7.42,81.33,0.09,0,0,green,4,1350,1350,1350,1,green,81.33,Catuai,Washed / Wet
+brazil,300,2014,7.17,7.33,7.42,7.25,7.42,7.33,10,10,10,7.42,81.33,0.12,0,0,green,6,1200,1200,1200,60,green,81.33,Yellow Bourbon,Other
+philippines,2,2014,7.08,7.33,7.42,7.33,7.33,7.5,10,10,10,7.33,81.33,0.14,0,0,green,3,1400,1400,1400,2,green,81.33,Other,Washed / Wet
+malawi,31,2014,7.75,7.33,7.08,7.33,7.33,7.25,10,10,10,7.25,81.33,0.13,0,0,green,1,1200,1200,1200,60,green,81.33,Gesha,Washed / Wet
+honduras,275,2014,7.33,7.33,7.17,7.33,7.5,7.33,10,10,10,7.33,81.33,0.12,0,0,green,3,1450,1450,1450,1,green,81.33,Catuai,Washed / Wet
+mexico,250,2012,7.58,7.42,7.25,7.33,7.25,7.25,10,10,10,7.25,81.33,0.13,4,0,green,13,1800,1800,1800,1,green,81.33,Typica,Washed / Wet
+mexico,70,2012,7.33,7.25,7.17,7.42,7.58,7.33,10,10,10,7.25,81.33,0.12,0,0,others,4,1000,1000,1000,1,bluish-green,81.33,Typica,Washed / Wet
+brazil,42,others,7.5,7.58,7.5,7.5,7.75,7.83,9.33,9.33,9.33,7.58,81.33,0.11,0,0,green,0,1100,1100,1100,5,green,81.33,Catuai,Natural / Dry
+taiwan,20,2015,7.83,7.75,7.67,7.83,7.83,7.75,9.33,10,10,5.25,81.25,0.12,0,0,green,0,680,680,680,50,green,81.25,Typica,Natural / Dry
+brazil,320,2015,7.17,7.42,7.17,7.08,6.92,8.17,10,10,10,7.33,81.25,0,0,0,green,1,1,1,1,2,green,81.25,Yellow Bourbon,Natural / Dry
+nicaragua,275,2015,7.08,7.5,7.33,7.17,7.42,7.25,10,10,10,7.5,81.25,0.1,0,0,green,4,1100,1100,1100,69,green,81.25,Catuai,Washed / Wet
+honduras,275,2015,7.42,7.17,7.17,7.5,7.33,7.25,10,10,10,7.42,81.25,0.12,0,0,green,1,1400,1400,1400,1,green,81.25,Catuai,Washed / Wet
+guatemala,36,2014,7.33,7.42,7.17,7.25,7.42,7.33,10,10,10,7.33,81.25,0.09,0,0,bluish-green,2,1700,1700,1700,55,bluish-green,81.25,Pacamara,Washed / Wet
+"tanzania, united republic of",100,2014,7.33,7.17,7.17,7.5,7.25,7.42,10,10,10,7.42,81.25,0.13,0,0,green,5,1700,1700,1700,60,green,81.25,Other,Washed / Wet
+taiwan,10,2013,7.5,7.5,7.25,7.25,7.25,7.25,10,10,10,7.25,81.25,0.11,0,0,green,0,650,650,650,30,green,81.25,Typica,Semi-washed / Semi-pulped
+guatemala,250,2013,7.5,7.33,7.5,7.58,7,7.25,10,10,10,7.08,81.25,0.11,0,0,green,4,1524,1524,1524,69,green,81.25,Caturra,Washed / Wet
+mexico,250,2012,7.42,7.42,7.33,7.33,7.5,7.42,9.33,10,10,7.5,81.25,0.12,0,0,green,1,1500,1500,1500,1,green,81.25,Typica,Washed / Wet
+nicaragua,275,2016,7.33,7.5,7.17,7.17,7.58,7.17,10,10,10,7.25,81.17,0.09,0,0,green,7,1200,1200,1200,69,green,81.17,,Washed / Wet
+"tanzania, united republic of",100,2015,7.67,7.17,7.17,7.33,7.5,7.17,10,10,10,7.17,81.17,0.12,0,0,green,2,100,2000,1050,60,green,81.17,Bourbon,Washed / Wet
+mexico,275,2015,7.75,7.58,7.08,7.25,7.08,7.25,10,10,10,7.17,81.17,0.12,0,0,green,10,1200,1200,1200,1,green,81.17,Caturra,Washed / Wet
+costa rica,275,2015,7.5,7.5,7.33,7.17,7.08,7.17,10,10,10,7.42,81.17,0.11,0,0,bluish-green,0,1200,1400,1300,18975,bluish-green,81.17,Caturra,Washed / Wet
+honduras,275,2015,7.42,7.33,7,7.42,7.33,7.33,10,10,10,7.33,81.17,0.13,0,0,green,1,1450,1450,1450,1,green,81.17,Catuai,Natural / Dry
+thailand,20,2014,6.83,7.42,7.42,7.17,7.5,7.42,10,10,10,7.42,81.17,0.12,0,0,bluish-green,0,1400,1500,1450,20,bluish-green,81.17,Caturra,Washed / Wet
+philippines,2,2014,7.25,7.25,7.25,7.08,7.58,7.5,10,10,10,7.25,81.17,0,0,0,others,4,1200,1200,1200,2,bluish-green,81.17,Typica,Natural / Dry
+"tanzania, united republic of",320,2014,7.58,7.17,7.17,7.33,7.33,7.25,10,10,10,7.33,81.17,0.12,0,0,bluish-green,2,1550,1550,1550,60,bluish-green,81.17,Bourbon,Washed / Wet
+malawi,300,2014,7.58,7.25,7.33,7.08,7.33,7.33,10,10,10,7.25,81.17,0.12,0,0,green,12,990,1000,995,60,green,81.17,Caturra,Washed / Wet
+costa rica,250,2014,7.33,7.08,7.33,7.25,7.33,7.58,10,10,10,7.25,81.17,0.11,0,0,green,3,1200,1400,1300,1,green,81.17,Catuai,Washed / Wet
+brazil,300,2013,7.42,7.42,7.17,7.42,7.33,7.25,10,10,10,7.17,81.17,0.11,0,0,green,3,others,others,others,1,green,81.17,Catuai,Natural / Dry
+mexico,250,2012,7.42,7.25,7.08,7.75,7.42,7.17,10,10,10,7.08,81.17,0.13,3,0,green,7,1800,1800,1800,1,green,81.17,Typica,Natural / Dry
+guatemala,250,2012,7.42,7.25,7.33,7.25,7.25,7.42,10,10,10,7.25,81.17,0.12,0,0,green,4,1450,1450,1450,1,green,81.17,Caturra,Washed / Wet
+brazil,17,2012,7.42,7.33,7.25,7.42,7.5,7.17,10,10,10,7.08,81.17,0.12,0,0,green,1,1000,1000,1000,60,green,81.17,Mundo Novo,Natural / Dry
+united states (hawaii),4,others,7.25,7.75,7.67,7.67,7.42,7.67,8.67,9.33,10,7.75,81.17,0.04,3,0,others,0,others,others,others,100,bluish-green,81.17,,Other
+ethiopia,300,2016,7.42,7.33,7.17,7.33,7.42,7.17,10,10,10,7.25,81.08,0.11,0,0,others,1,others,others,others,60,bluish-green,81.08,,Natural / Dry
+brazil,500,2016,7.58,7.42,7.5,7.25,7.75,7.58,9.33,10,9.33,7.33,81.08,0.11,5,0,green,8,695,695,695,60,green,81.08,Mundo Novo,Natural / Dry
+nicaragua,275,2015,7.33,7.33,7.33,7.42,7.33,7.33,10,10,10,7,81.08,0.11,0,0,others,1,1100,1100,1100,69,bluish-green,81.08,Other,Washed / Wet
+united states,1,2014,7.42,7.17,7.33,7.42,7.25,7.33,10,10,10,7.17,81.08,0,0,0,others,0,1706.88,1706.88,1706.88,5,bluish-green,81.08,Pache Comun,Natural / Dry
+"tanzania, united republic of",54,2014,7.42,7.33,7.33,7.25,7.25,7.33,10,10,10,7.17,81.08,0.13,0,0,green,2,1456,1456,1456,60,green,81.08,Other,Washed / Wet
+costa rica,250,2014,7.42,7.25,7.17,7.25,7.25,7.58,10,10,10,7.17,81.08,0.13,0,0,green,0,1500,1500,1500,1,green,81.08,Caturra,Washed / Wet
+united states (puerto rico),18,2013,7.67,7.75,7.67,7.58,7.58,7.67,6.67,10,10,8.5,81.08,0,0,0,green,0,853.44,853.44,853.44,5,green,81.08,Other,Washed / Wet
+mexico,100,2012,7.25,7.42,7.33,7.33,7.17,7.33,10,10,10,7.25,81.08,0.13,5,0,others,16,1650,1650,1650,1,bluish-green,81.08,Typica,Washed / Wet
+mexico,30,2012,7.33,7.25,7.33,7.42,7.25,7.42,10,10,10,7.08,81.08,0.12,0,0,green,2,1300,1300,1300,1,green,81.08,Typica,Washed / Wet
+mexico,40,2012,7.33,7.33,7.25,7.42,7.25,7.25,10,10,10,7.25,81.08,0.11,0,0,green,5,1642,1642,1642,1,green,81.08,Typica,Washed / Wet
+mexico,15,2012,7.42,7.33,7.25,7.42,7.17,7.25,10,10,10,7.25,81.08,0.1,0,0,green,1,1200,1200,1200,1,green,81.08,Typica,Washed / Wet
+united states (hawaii),2,2012,7.42,7.42,7.25,7.58,6.92,7.17,10,10,10,7.33,81.08,0.06,0,0,bluish-green,0,others,others,others,100,bluish-green,81.08,Hawaiian Kona,Washed / Wet
+brazil,300,others,7.25,7.25,7.17,7.5,7.33,7.17,10,10,10,7.33,81,0.11,0,6,green,9,others,others,others,59,green,81,Bourbon,Pulped natural / honey
+el salvador,100,2017,7.42,7.08,7.08,7.33,7.25,7.58,10,10,10,7.25,81,0,0,2,green,6,1450,1450,1450,69,green,81,Bourbon,Washed / Wet
+brazil,300,2016,7.33,7.17,7.17,7.67,7.33,7.17,10,10,10,7.17,81,0.11,0,2,bluish-green,3,others,others,others,59,bluish-green,81,Yellow Bourbon,Pulped natural / honey
+guatemala,120,2016,7.42,7.25,7.17,7.5,7.25,7.17,10,10,10,7.25,81,0.09,0,0,green,8,3280,3280,3280,69,green,81,Bourbon,Washed / Wet
+colombia,43,2016,7.67,7.5,7.42,5.25,7.67,7.75,10,10,10,7.75,81,0,0,4,green,4,1600,1600,1600,70,green,81,Caturra,Washed / Wet
+guatemala,250,2015,7.5,7.25,7,7.25,7.5,7.25,10,10,10,7.25,81,0.11,0,0,green,1,1219.2,1219.2,1219.2,69,green,81,Bourbon,Washed / Wet
+taiwan,10,2015,7.25,7.17,7.17,7.25,7.5,7.33,10,10,10,7.33,81,0.12,0,0,bluish-green,0,758,758,758,5,bluish-green,81,Typica,Washed / Wet
+honduras,275,2014,7.42,7.25,7.25,7.33,7.25,7.17,10,10,10,7.33,81,0.12,0,0,green,1,1350,1350,1350,18975,green,81,Caturra,Natural / Dry
+brazil,300,2014,7.67,7.75,7.83,7.75,7.83,7.75,10,6.67,10,7.75,81,0.12,0,0,green,0,others,others,others,60,green,81,Mundo Novo,Natural / Dry
+"tanzania, united republic of",1,2014,7.33,7.33,7.08,7.42,7.17,7.33,10,10,10,7.33,81,0.12,0,0,green,5,1525,1525,1525,60,green,81,Other,Washed / Wet
+uganda,320,2013,7.33,6.92,7.17,7.33,7.42,7.42,10,10,10,7.42,81,0.12,0,0,green,3,1700,1700,1700,60,green,81,SL14,Natural / Dry
+taiwan,10,2013,7.5,6.92,7.33,7.33,7.33,7.33,10,10,10,7.25,81,0.11,0,0,green,0,1100,1100,1100,30,green,81,Typica,Semi-washed / Semi-pulped
+thailand,2,2012,7.33,7.42,7.25,7.42,7.25,7.17,10,10,10,7.17,81,0,0,0,green,3,800,800,800,1,green,81,,Washed / Wet
+mexico,10,2012,7.08,7.33,7.33,7.33,7.42,7.25,10,10,10,7.25,81,0.12,0,0,green,12,950,950,950,1,green,81,Other,Washed / Wet
+mexico,200,2012,7.58,7.67,7.5,7.67,7.58,7.5,8,10,10,7.5,81,0,0,0,green,8,1100,1100,1100,1,green,81,Typica,Washed / Wet
+taiwan,150,2017,7.33,7.17,7.25,7.33,7.33,7.25,10,10,10,7.25,80.92,0,0,0,bluish-green,0,200,200,200,1,bluish-green,80.92,Other,Washed / Wet
+guatemala,25,2017,7.67,7.67,7.33,7.58,7.67,7.5,9.33,9.33,9.33,7.5,80.92,0.1,0,0,green,2,1901,1901,1901,69,green,80.92,Bourbon,Washed / Wet
+kenya,150,2017,7.17,7.58,7.5,7.5,8,7.75,10,10,10,5.42,80.92,0.11,0,0,green,3,1600,1600,1600,60,green,80.92,SL28,Washed / Wet
+mexico,240,2017,7.5,7.33,7.17,7.42,7.5,7.33,9.33,10,10,7.33,80.92,0.11,0,0,green,11,1100,1100,1100,69,green,80.92,Bourbon,Washed / Wet
+myanmar,2,2015,7.17,7.42,7,7.58,7.33,7,10,10,10,7.42,80.92,0,0,0,others,5,1066.8,1066.8,1066.8,2,bluish-green,80.92,Other,Other
+united states (hawaii),7,2014,7.42,7.08,7.17,7.17,7.58,7.25,10,10,10,7.25,80.92,0.1,2,0,bluish-green,5,others,others,others,100,bluish-green,80.92,Hawaiian Kona,Natural / Dry
+"tanzania, united republic of",250,2014,7.33,7.17,7.17,7.25,7.42,7.33,10,10,10,7.25,80.92,0.12,0,0,green,0,1700,1700,1700,60,green,80.92,Other,Washed / Wet
+brazil,300,2014,7.25,7.33,7.25,7.25,7.25,7.33,10,10,10,7.25,80.92,0.12,0,0,green,8,1200,1200,1200,60,green,80.92,Yellow Bourbon,Natural / Dry
+taiwan,10,2014,7.92,7.67,7.33,7.08,7.08,7.08,10,10,10,6.75,80.92,0.09,0,0,green,0,550,550,550,60,green,80.92,Typica,Washed / Wet
+brazil,320,2014,7.17,7.42,7.17,7.25,7.25,7.33,10,10,10,7.33,80.92,0.1,0,0,others,0,1100,1100,1100,2,bluish-green,80.92,Bourbon,Natural / Dry
+nicaragua,275,2013,7.33,7.08,7.25,7,7.5,7.42,10,10,10,7.33,80.92,0.1,1,0,green,3,700,1400,1050,1,green,80.92,Caturra,Washed / Wet
+guatemala,250,2014,7.58,7.42,6.92,7.5,7.25,7.17,10,10,10,7.08,80.92,0.12,2,0,green,5,1524,1524,1524,69,green,80.92,Pacas,Washed / Wet
+taiwan,35,2013,7.42,7.25,7.25,7.25,7.25,7.25,10,10,10,7.25,80.92,0.11,0,0,others,0,900,900,900,30,bluish-green,80.92,Typica,Washed / Wet
+taiwan,5,2013,7.25,7.17,7.08,7.08,7.08,8.08,10,10,10,7.17,80.92,0.11,0,0,green,0,688,688,688,30,green,80.92,Typica,Other
+taiwan,10,2013,7.42,7.25,7.25,7.25,7.25,7.25,10,10,10,7.25,80.92,0.11,0,0,green,0,300,300,300,20,green,80.92,Typica,Washed / Wet
+mexico,60,2012,7.58,7.33,7.08,7.5,7.17,7.25,10,10,10,7,80.92,0.13,0,0,green,12,1186,1186,1186,1,green,80.92,Typica,Washed / Wet
+thailand,3,others,7.67,7.58,7.33,7.33,7.17,7,10,10,10,6.83,80.92,0,0,0,others,0,others,others,others,1,bluish-green,80.92,Peaberry,Other
+laos,20,2016,7.42,7.33,7.17,7.17,7.17,7.25,10,10,10,7.33,80.83,0,0,0,green,0,1300,1300,1300,50,green,80.83,Catimor,Washed / Wet
+guatemala,250,2013,7.67,7.25,7.08,7.33,7.17,7.25,10,10,10,7.08,80.83,0.11,0,0,green,1,1200,1200,1200,1,green,80.83,Caturra,Washed / Wet
+mexico,15,2012,7.17,7.08,7.25,7.42,7.25,7.33,10,10,10,7.33,80.83,0.13,0,0,green,7,1210,1210,1210,1,green,80.83,Catuai,Semi-washed / Semi-pulped
+mexico,30,2012,7.33,7.25,7.33,7.33,7.25,7.17,10,10,10,7.17,80.83,0.11,0,0,green,3,1100,1100,1100,1,green,80.83,Typica,Washed / Wet
+mexico,100,2012,7.5,7.17,7.33,7.25,7.17,7.17,10,10,10,7.25,80.83,0.13,0,0,green,1,100,100,100,1,green,80.83,Bourbon,Washed / Wet
+united states (hawaii),7,2012,7.42,7.33,7,7.25,7.33,7.5,10,10,10,7,80.83,0.1,2,0,bluish-green,0,others,others,others,100,bluish-green,80.83,Hawaiian Kona,Washed / Wet
+colombia,250,2018,7.33,7.33,7,6.83,7.33,7.67,10,10,10,7.33,80.83,0.01,0,0,others,1,1800,1800,1800,70,bluish-green,80.83,,Other
+brazil,320,2015,7.17,7.25,7.08,7.17,7.25,7.58,10,10,10,7.25,80.75,0,0,0,green,1,others,others,others,60,green,80.75,,Natural / Dry
+myanmar,1,2015,6.92,7.5,7,7.58,7.5,7.08,10,10,10,7.17,80.75,0,0,0,green,2,3825,3825,3825,2,green,80.75,Catuai,Washed / Wet
+guatemala,275,2015,7.5,7.33,7,7.42,7.17,7.17,10,10,10,7.17,80.75,0.12,0,0,green,1,1658.112,1755.648,1706.88,69,green,80.75,Caturra,Washed / Wet
+nicaragua,275,2015,7.25,7.25,7.17,7.25,7.33,7.25,10,10,10,7.25,80.75,0.12,0,0,green,5,110000,110000,110000,69,green,80.75,Other,Washed / Wet
+honduras,275,2015,7.5,7.33,7,7.42,7.25,7.17,10,10,10,7.08,80.75,0.11,0,0,green,2,1450,1450,1450,1,green,80.75,Caturra,Natural / Dry
+panama,100,2014,7.25,7.33,7.17,7.33,7.33,7.17,10,10,10,7.17,80.75,0.11,1,0,green,4,1680,1680,1680,60,green,80.75,Caturra,Other
+honduras,275,2015,7.42,7.17,7.08,7.42,7.25,7.25,10,10,10,7.17,80.75,0.09,0,0,green,2,1350,1350,1350,1,green,80.75,Catuai,Washed / Wet
+honduras,275,2015,7.25,7.33,7.08,7.5,7.25,7.33,10,10,10,7,80.75,0.13,0,0,green,1,1450,1450,1450,1,green,80.75,Catuai,Natural / Dry
+costa rica,250,2014,7.33,7.33,7.25,7.25,7.17,7.17,10,10,10,7.25,80.75,0.11,0,0,green,0,1300,1300,1300,3,green,80.75,Caturra,Washed / Wet
+mexico,30,2012,7.58,7.33,7.42,7.25,7.5,7.5,9.33,9.33,10,7.5,80.75,0.11,0,0,green,2,1200,1200,1200,1,green,80.75,Typica,Washed / Wet
+haiti,1,2012,7.42,7,7.42,7.25,7.08,7.33,10,10,10,7.25,80.75,0.12,0,0,green,0,1000,1000,1000,2,green,80.75,Typica,Washed / Wet
+united states (hawaii),3,2011,7.08,7.33,7.17,7.25,7.33,7.67,10,10,10,6.92,80.75,0.13,0,0,bluish-green,6,others,others,others,2,bluish-green,80.75,Arusha,Natural / Dry
+taiwan,160,2016,7.33,7.08,7.08,7.08,7.42,7.33,10,10,10,7.33,80.67,0,0,0,green,1,others,others,others,1,green,80.67,Typica,Other
+indonesia,200,2015,7.58,7.42,7,7.67,7.5,7.5,9.33,9.33,10,7.33,80.67,0.13,0,0,bluish-green,1,1200,1500,1350,30,bluish-green,80.67,Mandheling,Semi-washed / Semi-pulped
+guatemala,150,2015,7.67,7.42,6.83,7.17,7.42,7.17,10,10,10,7,80.67,0.11,0,0,green,0,1500,1500,1500,60,green,80.67,Bourbon,Washed / Wet
+costa rica,240,2015,7.83,7.5,7.67,7.67,7.83,7.5,6.67,10,10,8,80.67,0.11,0,0,bluish-green,4,185,185,185,1,bluish-green,80.67,Caturra,Washed / Wet
+malawi,100,2014,7.5,7.25,7.17,7.17,7.25,7.17,10,10,10,7.17,80.67,0.12,0,0,bluish-green,1,990,1000,995,60,bluish-green,80.67,Caturra,Washed / Wet
+mexico,20,2014,7.25,7.17,7.17,7.25,7.17,7.42,10,10,10,7.25,80.67,0.12,0,0,green,4,1200,1200,1200,1,green,80.67,Typica,Washed / Wet
+colombia,250,2014,7.67,7.5,7.42,7.67,7.5,7.75,10,10,6.67,8.5,80.67,0,0,0,others,1,1550,1550,1550,70,bluish-green,80.67,Caturra,Natural / Dry
+guatemala,250,2013,7.67,7.17,7,7.5,7,7,10,10,10,7.33,80.67,0.12,0,0,green,5,1550,1550,1550,69,green,80.67,Bourbon,Washed / Wet
+guatemala,250,2012,7,7.33,7.5,7.33,7,7.33,10,10,10,7.17,80.67,0.11,0,0,green,2,others,others,others,1,green,80.67,Bourbon,Washed / Wet
+guatemala,250,2012,7,7.5,7.33,7.17,7.17,7.17,10,10,10,7.33,80.67,0.11,0,0,green,3,others,others,others,1,green,80.67,Bourbon,Washed / Wet
+colombia,149,others,7.17,7.25,7.08,7.42,7.08,7.42,10,10,10,7.25,80.67,0.18,0,0,others,2,others,others,others,70,bluish-green,80.67,,Other
+brazil,94,2016,7.33,7.25,7.33,7.08,7.58,7.25,9.33,10,10,7.42,80.58,0.11,0,0,green,7,others,others,others,60,green,80.58,,Other
+nicaragua,275,2016,7.08,7.5,7,7.25,7.42,7,10,10,10,7.33,80.58,0.11,0,1,green,0,others,others,others,69,green,80.58,,Other
+"tanzania, united republic of",10,2014,7.25,7.08,7.08,7.33,7.33,7.25,10,10,10,7.25,80.58,0.12,0,0,bluish-green,1,1400,1400,1400,60,bluish-green,80.58,Other,Washed / Wet
+brazil,300,2014,7.42,7.25,7.33,7,7.08,7.25,10,10,10,7.25,80.58,0,0,0,green,3,1200,1200,1200,2,green,80.58,Bourbon,Semi-washed / Semi-pulped
+honduras,275,2014,7.5,7.17,7,7.42,7.33,7,10,10,10,7.17,80.58,0.11,0,0,green,5,1400,1400,1400,69,green,80.58,Caturra,Washed / Wet
+guatemala,275,2014,7.17,7.42,6.83,7.5,7.17,7.25,10,10,10,7.25,80.58,0.11,0,0,green,5,1383.792,1383.792,1383.792,69,green,80.58,Bourbon,Natural / Dry
+united states (hawaii),10,others,7.42,7.58,7.5,7.92,7.83,7.83,8.67,8.67,9.33,7.83,80.58,0,0,0,others,0,others,others,others,100,bluish-green,80.58,,Other
+colombia,149,others,7.08,7.25,7,7.5,7.08,7.33,10,10,10,7.33,80.58,0,0,0,others,2,others,others,others,70,bluish-green,80.58,,Other
+taiwan,20,2017,7.17,7.17,7.17,7.42,7.17,7.25,10,10,10,7.17,80.5,0,0,0,bluish-green,0,50,50,50,5,bluish-green,80.5,Other,Natural / Dry
+guatemala,275,2017,7.33,7.25,7.08,7.17,7.25,7.17,10,10,10,7.25,80.5,0.1,0,0,green,4,1500,1500,1500,69,green,80.5,Caturra,Washed / Wet
+honduras,15,2017,7.58,7.33,7,7.17,7.33,7.08,10,10,10,7,80.5,0.11,0,0,green,5,1650,1650,1650,69,green,80.5,Catuai,Washed / Wet
+mauritius,1,2016,7.25,7.25,7.17,7.17,7.25,7.17,10,10,10,7.25,80.5,0.12,0,0,green,0,280,280,280,2,green,80.5,,Other
+brazil,300,2015,7.25,7.33,7.17,7.5,7.33,7.25,9.33,10,10,7.33,80.5,0.11,0,0,green,3,1250,1250,1250,60,green,80.5,Yellow Bourbon,Semi-washed / Semi-pulped
+myanmar,1,2015,7.17,7.33,7.17,7.42,7.25,7.08,10,10,10,7.08,80.5,0,0,0,green,2,3800,3800,3800,2,green,80.5,Other,Washed / Wet
+guatemala,275,2014,7.5,7.17,6.83,7.5,7.17,7.17,10,10,10,7.17,80.5,0.11,0,0,green,3,1219.2,1219.2,1219.2,69,green,80.5,Other,Washed / Wet
+brazil,300,2013,7.42,7.42,7.08,7.33,7.67,7.5,9.33,9.33,10,7.42,80.5,0.1,0,0,others,10,1250,1250,1250,60,bluish-green,80.5,Yellow Bourbon,Semi-washed / Semi-pulped
+united states (hawaii),10,2013,7.42,7.33,7.33,7.58,7.58,7.42,8.67,10,10,7.17,80.5,0.11,1,0,green,0,others,others,others,100,green,80.5,Hawaiian Kona,Natural / Dry
+guatemala,250,2013,7.5,7.5,7,7.67,7.17,7,10,10,10,6.67,80.5,0.12,1,0,green,1,1859.28,1859.28,1859.28,1,green,80.5,Bourbon,Washed / Wet
+mexico,18,2012,7.25,7.25,7.08,7.33,7.25,7.17,10,10,10,7.17,80.5,0.15,0,0,others,1,1450,1450,1450,1,bluish-green,80.5,Typica,Washed / Wet
+honduras,275,2016,7.25,7.42,7,7.42,7.33,7,10,10,10,7,80.42,0.1,0,0,green,0,1450,1450,1450,69,green,80.42,,Other
+taiwan,10,2014,7.58,7.17,7.17,7.17,7.17,7.17,10,10,10,7,80.42,0.14,0,0,green,0,600,600,600,60,green,80.42,Typica,Washed / Wet
+el salvador,2,2013,7.33,7.17,7.08,7.08,7.33,7.17,10,10,10,7.25,80.42,0,0,0,green,1,1450,1450,1450,2,green,80.42,Bourbon,Washed / Wet
+china,1,2013,7.25,7.08,7.25,7.17,7.33,7.17,10,10,10,7.17,80.42,0.17,0,0,green,14,1700,1700,1700,2,green,80.42,Other,Washed / Wet
+taiwan,10,2013,7.25,7.25,7.17,7.25,7.25,7.25,10,10,10,7,80.42,0.11,0,0,green,0,600,600,600,30,green,80.42,Typica,Washed / Wet
+mexico,250,2012,6.92,7.17,7.08,7.5,7.33,7.17,10,10,10,7.25,80.42,0.1,2,0,green,4,1050,1050,1050,1,green,80.42,Typica,Washed / Wet
+mexico,250,2012,7.42,7.08,7.08,7.33,7.25,7.17,10,10,10,7.08,80.42,0.12,4,0,green,16,1550,1550,1550,1,green,80.42,Caturra,Washed / Wet
+burundi,300,2016,7.08,7.25,7.17,7.33,7.08,7.08,10,10,10,7.33,80.33,0.12,0,0,green,0,1700,1700,1700,60,green,80.33,,Other
+"tanzania, united republic of",10,2015,7.25,7.17,7,7.25,7.42,7.08,10,10,10,7.17,80.33,0.13,0,0,green,5,1700,1700,1700,60,green,80.33,Bourbon,Washed / Wet
+"tanzania, united republic of",1,2014,7.25,7.17,7.25,7.25,7.25,7.08,10,10,10,7.08,80.33,0.12,0,0,bluish-green,5,others,others,others,60,bluish-green,80.33,Other,Washed / Wet
+taiwan,10,2013,7.25,7.25,7.08,7.25,7.25,7.25,10,10,10,7,80.33,0.11,0,0,green,0,600,600,600,30,green,80.33,Yellow Bourbon,Other
+guatemala,250,2013,7.33,7.33,6.83,7.5,7,7.17,10,10,10,7.17,80.33,0.11,1,0,green,4,1310.64,1310.64,1310.64,69,green,80.33,Bourbon,Washed / Wet
+mexico,10,2012,7.25,7.08,7.08,7.33,7.33,7.17,10,10,10,7.08,80.33,0.11,0,0,green,21,940,940,940,1,green,80.33,Typica,Semi-washed / Semi-pulped
+united states (hawaii),10,2012,7.17,7.5,6.92,7.33,7.67,7.33,9.33,10,10,7.08,80.33,0.12,5,0,green,7,others,others,others,100,green,80.33,Hawaiian Kona,Washed / Wet
+ethiopia,360,2010,7.25,7.25,7.25,7.33,7.5,8,9.33,9.33,10,7.08,80.33,0.1,0,0,others,1,others,others,others,6,bluish-green,80.33,,Other
+brazil,440,2017,7.17,7.33,7.42,7.08,7,7,10,10,10,7.25,80.25,0.11,0,1,green,1,995,995,995,59,green,80.25,Catuai,Natural / Dry
+honduras,275,2016,7.25,7.25,7,7,7.42,7,10,10,10,7.33,80.25,0.1,0,0,green,4,1400,1400,1400,69,green,80.25,Caturra,Natural / Dry
+mexico,60,2016,7.25,7.17,7,7.33,7.33,7,10,10,10,7.17,80.25,0.1,0,0,green,2,1600,1600,1600,69,green,80.25,Caturra,Washed / Wet
+myanmar,2,2015,8,7.08,7,7.33,7.08,6.92,10,10,10,6.83,80.25,0.11,1,0,green,26,914.4,914.4,914.4,2,green,80.25,Other,Natural / Dry
+myanmar,1,2014,7.42,7,7.08,7,7.17,7.33,10,10,10,7.25,80.25,0,0,0,green,1,4287,4287,4287,2,green,80.25,Catuai,Natural / Dry
+nicaragua,275,2015,7.08,6.92,7,7.25,7.5,7.25,10,10,10,7.25,80.25,0.11,0,0,green,2,900,900,900,69,green,80.25,Caturra,Washed / Wet
+united states (hawaii),2,2014,7.5,7.08,7.67,7.67,7.42,7.58,9.33,9.33,9.33,7.33,80.25,0.12,4,0,green,13,others,others,others,100,green,80.25,Hawaiian Kona,Natural / Dry
+colombia,1,2012,7.42,8,7.83,7.75,8.08,7.58,8.67,8.67,8.67,7.58,80.25,0.1,0,0,green,0,others,others,others,2,green,80.25,Typica,Washed / Wet
+taiwan,5,2013,7.25,7.08,7.25,7.25,7.17,7.25,10,10,10,7,80.25,0.11,0,0,green,0,700,700,700,30,green,80.25,Typica,Semi-washed / Semi-pulped
+guatemala,250,2012,7,7.17,7.33,7.33,7,7.17,10,10,10,7.25,80.25,0.11,1,0,green,12,1400,1400,1400,1,green,80.25,Caturra,Washed / Wet
+mexico,10,2012,7.58,7.33,7.17,7.25,6.75,7,10,10,10,7.17,80.25,0.11,2,0,others,8,808,808,808,1,bluish-green,80.25,Caturra,Washed / Wet
+vietnam,1,2017,7.42,7.25,7.25,7.58,7.42,7.33,8.67,10,10,7.25,80.17,0,0,0,others,2,1550,1550,1550,2,bluish-green,80.17,Catimor,Other
+nicaragua,275,2015,7.17,7.08,7.08,7.33,7.25,7.08,10,10,10,7.17,80.17,0.11,0,0,others,2,1100,1275,1187.5,2,bluish-green,80.17,Caturra,Washed / Wet
+honduras,275,2015,7.25,7.25,7,7.17,7.08,7.08,10,10,10,7.33,80.17,0.11,0,0,green,0,1400,1400,1400,1,green,80.17,Catuai,Washed / Wet
+guatemala,250,2013,7.33,7.33,7,7.17,7.17,7.17,10,10,10,7,80.17,0.11,0,0,green,2,1310.64,1310.64,1310.64,69,green,80.17,Bourbon,Washed / Wet
+mexico,20,2012,7.33,7.08,6.92,7.42,7.25,7.08,10,10,10,7.08,80.17,0.11,0,0,green,2,1250,1250,1250,1,green,80.17,Typica,Washed / Wet
+mexico,15,2012,7.58,7.42,7.33,7.5,7.08,7.17,8.67,10,10,7.42,80.17,0.14,1,0,green,2,1550,1550,1550,1,green,80.17,Typica,Washed / Wet
+mexico,15,2012,7.33,7.33,7.17,7.08,7.25,7,10,10,10,7,80.17,0.12,0,0,green,12,1000,1000,1000,1,green,80.17,Bourbon,Washed / Wet
+guatemala,250,2012,7.33,7.33,7,7.33,7,7,10,10,10,7.17,80.17,0.11,0,0,green,5,1310.64,1310.64,1310.64,1,green,80.17,Bourbon,Washed / Wet
+united states (hawaii),22,others,7.58,7.5,7.33,7.33,7.67,7.33,9.33,9.33,9.33,7.42,80.17,0.05,12,0,others,1,others,others,others,100,bluish-green,80.17,,Other
+brazil,440,2017,7.17,7.17,7,7.17,7.25,7.25,10,10,10,7.08,80.08,0.11,0,0,green,5,1100,1100,1100,60,green,80.08,Bourbon,Pulped natural / honey
+taiwan,10,2014,7.42,7.25,7.25,7.17,7,7,10,10,10,7,80.08,0.07,0,0,green,0,850,850,850,60,green,80.08,Typica,Washed / Wet
+nicaragua,1,2013,7.25,7.17,6.92,7.25,7.17,7.25,10,10,10,7.08,80.08,0.1,0,0,green,4,others,others,others,5,green,80.08,,Natural / Dry
+taiwan,10,2013,7.25,7.25,7.25,7.25,7.08,7,10,10,10,7,80.08,0.11,0,0,green,0,200,200,200,30,green,80.08,Typica,Other
+taiwan,10,2013,7.25,7.25,7.25,7,7.25,7.08,10,10,10,7,80.08,0.11,0,0,green,0,150,150,150,30,green,80.08,Typica,Washed / Wet
+taiwan,10,2013,7.25,7.25,7.25,7.08,7.17,7.08,10,10,10,7,80.08,0.11,0,0,green,0,250,250,250,30,green,80.08,Typica,Semi-washed / Semi-pulped
+mexico,13,2012,7.33,7.17,7.25,7.08,7.08,7.08,10,10,10,7.08,80.08,0.15,0,0,others,0,1300,1300,1300,1,bluish-green,80.08,Typica,Washed / Wet
+mexico,10,2012,7.25,7.08,7,7.17,7.33,7.17,10,10,10,7.08,80.08,0.14,1,0,green,17,1300,1300,1300,1,green,80.08,Typica,Washed / Wet
+nicaragua,275,2017,7.33,7.08,6.92,7.08,7.42,7.17,10,10,10,7,80,0.1,0,0,green,5,1250,1250,1250,69,green,80,Caturra,Washed / Wet
+myanmar,1,2015,7.17,7.33,7,7.42,7.17,7,10,10,10,6.92,80,0,0,0,green,4,3845,3845,3845,2,green,80,Other,Washed / Wet
+mexico,280,2014,7.58,7.75,7.42,7.5,7.5,7.5,8.67,8.67,10,7.42,80,0,0,0,green,2,1300,1500,1400,2,green,80,Typica,Washed / Wet
+taiwan,10,2013,7.25,7.25,7.25,7,7.25,7,10,10,10,7,80,0.11,0,0,green,0,250,250,250,30,green,80,Typica,Washed / Wet
+thailand,2,2012,7.33,6.67,7.08,7.42,7.42,7.08,10,10,10,7,80,0,0,0,green,0,800,800,800,1,green,80,,Washed / Wet
+mexico,20,2012,7.25,7.25,7.08,7.17,7.33,7.33,9.33,10,10,7.25,80,0.12,0,0,green,9,1250,1250,1250,1,green,80,Typica,Washed / Wet
+mexico,256,2012,7.08,7.33,7,7.33,7.08,7,10,10,10,7.17,80,0.11,0,0,green,12,1100,1100,1100,1,green,80,Other,Washed / Wet
+ethiopia,300,2010,7.42,7.42,7.5,7.92,7.75,7.58,8.67,9.33,8.67,7.75,80,0.05,0,0,others,2,others,others,others,6,bluish-green,80,,Other
+colombia,275,2015,7.83,7.67,7.58,7.75,7.83,7.17,6.67,10,10,7.42,79.92,0,0,0,green,1,others,others,others,2,green,79.92,,Washed / Wet
+united states (hawaii),12,2014,7.5,7,7,6.92,7.33,7.17,10,10,10,7,79.92,0.11,1,0,green,3,others,others,others,100,green,79.92,Hawaiian Kona,Natural / Dry
+mexico,400,2013,7.33,7.08,7.08,7.33,7.42,7.17,9.33,10,10,7.17,79.92,0.12,0,0,green,4,1300,1300,1300,1,green,79.92,Bourbon,Washed / Wet
+mexico,10,2012,7.17,7.17,6.92,7.25,7.33,7.08,10,10,10,7,79.92,0.12,1,0,green,7,1100,1100,1100,1,green,79.92,Other,Washed / Wet
+mexico,82,2012,7.5,7.17,7,7.17,7.25,7.08,10,10,10,6.75,79.92,0,0,0,others,0,1100,1100,1100,1,bluish-green,79.92,Bourbon,Washed / Wet
+mexico,250,2012,7.17,7.08,7.08,7.08,7.5,7.33,9.33,10,10,7.33,79.92,0.11,0,0,green,3,1100,1100,1100,1,green,79.92,Catuai,Washed / Wet
+mexico,100,2012,7.33,7.25,7,7.42,7.17,7.17,9.33,10,10,7.25,79.92,0.12,0,0,green,6,1250,1250,1250,1,green,79.92,Typica,Natural / Dry
+mexico,209,2012,7.17,7.33,7.08,7.58,7.33,7.08,10,9.33,10,7,79.92,0.11,0,0,green,0,1250,1250,1250,1,green,79.92,Mundo Novo,Washed / Wet
+united states (hawaii),40,others,7.5,7.42,7.58,7.42,7.5,7.58,8.67,8.67,10,7.58,79.92,0.05,3,0,others,0,others,others,others,100,bluish-green,79.92,,Other
+kenya,200,2017,7,7.08,7,7.17,7.25,7.25,10,10,10,7.08,79.83,0.11,0,1,others,5,1500,1500,1500,12000,bluish-green,79.83,SL34,Washed / Wet
+guatemala,50,2017,7.33,7.25,6.92,7.33,7.25,7.33,9.33,10,10,7.08,79.83,0.1,0,0,green,2,1700,1700,1700,69,green,79.83,Bourbon,Washed / Wet
+nicaragua,75,2014,6.83,7.17,7.17,6.92,7.5,7.08,10,10,10,7.17,79.83,0.11,0,0,green,0,1250,1250,1250,2,green,79.83,Caturra,Washed / Wet
+mexico,250,2012,7.17,7.08,7,7.25,7.5,7,10,10,10,6.83,79.83,0.12,0,0,green,3,1300,1300,1300,1,green,79.83,Typica,Washed / Wet
+united states (hawaii),12,2012,7.58,7.08,6.83,7.17,7.5,7.17,9.33,10,10,7.17,79.83,0.12,7,0,bluish-green,10,others,others,others,100,bluish-green,79.83,Hawaiian Kona,Natural / Dry
+guatemala,25,2016,7.5,7.42,7.25,7.58,7.33,7.42,9.33,9.33,9.33,7.25,79.75,0.1,0,4,green,1,190164,190164,190164,69,green,79.75,Bourbon,Washed / Wet
+taiwan,28,2014,7.75,7.33,7.17,7.33,7.67,7.83,9.33,9.33,8.67,7.33,79.75,0,0,0,others,0,800,1200,1000,50,bluish-green,79.75,Typica,Natural / Dry
+taiwan,50,2013,7.08,7.08,7.25,7,7.17,7.17,10,10,10,7,79.75,0.1,0,0,bluish-green,0,500,700,600,20,bluish-green,79.75,Typica,Washed / Wet
+thailand,1,2013,7.25,7.08,6.92,7.5,7.08,6.92,10,10,10,7,79.75,0.12,0,0,green,0,800,800,800,1,green,79.75,,Washed / Wet
+peru,320,2013,7,7.08,7,7.25,7.5,7.42,9.33,10,10,7.17,79.75,0.12,1,0,green,2,others,others,others,5,green,79.75,,Washed / Wet
+costa rica,275,2013,7.58,7.5,7.67,7.75,7.67,7.58,8,8,10,8,79.75,0.1,0,0,bluish-green,4,1100,1100,1100,2,bluish-green,79.75,Catuai,Washed / Wet
+mexico,310,2013,7.58,7.08,7,7,7.5,6.92,10,10,10,6.67,79.75,0.12,0,0,green,4,1400,1400,1400,1,green,79.75,Typica,Washed / Wet
+mexico,275,2013,7.58,7.08,6.92,7.58,7.5,6.92,10,9.33,10,6.83,79.75,0.13,0,0,green,4,1022,1022,1022,1,green,79.75,Bourbon,Washed / Wet
+mexico,380,2013,7.25,7.08,7,7.17,7.17,7.08,10,10,10,7,79.75,0.12,0,0,green,5,1300,1300,1300,1,green,79.75,Bourbon,Washed / Wet
+mexico,12,2012,7.25,7.17,7.17,7.08,7.17,7,10,10,10,6.92,79.75,0.14,0,0,others,0,1450,1450,1450,1,bluish-green,79.75,Bourbon,Washed / Wet
+mexico,250,2012,7.33,7.25,7,7.08,7.08,7,10,10,10,7,79.75,0.1,1,0,green,22,1050,1050,1050,1,green,79.75,Typica,Washed / Wet
+guatemala,275,2012,7.58,7.33,7.5,7.33,7,7.33,9.33,9.33,9.33,7.67,79.75,0,0,0,green,4,others,others,others,69,green,79.75,Bourbon,Washed / Wet
+mexico,36,2012,7.25,6.83,6.92,7.08,7.25,7.08,10,10,10,7.33,79.75,0.12,0,0,others,7,1100,1100,1100,1,bluish-green,79.75,Typica,Washed / Wet
+guatemala,25,2016,7.42,7.42,7.25,7.58,7.42,7.33,9.33,9.33,9.33,7.25,79.67,0.1,0,2,green,1,1219.2,1219.2,1219.2,69,green,79.67,Bourbon,Washed / Wet
+el salvador,275,2016,7.25,7.08,7,6.83,7.33,7.17,10,10,10,7,79.67,0,0,0,bluish-green,12,1250,1250,1250,69,bluish-green,79.67,Bourbon,Washed / Wet
+thailand,1,2013,6.92,7.17,6.83,7.42,7.17,7.08,10,10,10,7.08,79.67,0.12,0,0,bluish-green,0,800,800,800,1,bluish-green,79.67,,Washed / Wet
+guatemala,250,2013,7.5,7,6.83,7.08,7.08,7.17,10,10,10,7,79.67,0.11,0,0,green,6,1310.64,1310.64,1310.64,69,green,79.67,Bourbon,Washed / Wet
+mexico,310,2013,7.42,7.25,6.83,7.58,7.17,6.58,10,10,10,6.83,79.67,0.12,0,0,green,6,1400,1400,1400,1,green,79.67,Typica,Washed / Wet
+mexico,10,2012,7.33,7.17,7,6.75,7.08,7,10,10,10,7.33,79.67,0.13,5,0,others,6,975,975,975,1,bluish-green,79.67,Caturra,Washed / Wet
+mexico,253,2012,6.92,7.17,7.17,7.17,7.08,7.08,10,10,10,7.08,79.67,0,0,0,others,9,1264,1264,1264,1,bluish-green,79.67,Mundo Novo,Washed / Wet
+thailand,5,others,7.17,7.17,7,7,7.25,6.92,10,10,10,7.17,79.67,0,1,0,others,0,others,others,others,1,bluish-green,79.67,Peaberry,Other
+mexico,50,2012,7.08,7,6.92,7.33,7.25,7.08,10,10,10,6.92,79.58,0.12,0,0,others,11,1250,1250,1250,1,bluish-green,79.58,Typica,Washed / Wet
+mexico,250,2012,7.25,6.92,6.92,7.33,7.25,7,10,10,10,6.92,79.58,0.13,0,0,green,5,1550,1550,1550,1,green,79.58,Caturra,Washed / Wet
+colombia,250,2018,7.25,7.17,7,6.75,7.17,7.33,10,10,10,6.92,79.58,0.1,0,0,others,4,1800,1800,1800,70,bluish-green,79.58,,Other
+guatemala,223,2009,7.08,7,6.83,7.33,7.25,7,10,10,10,7.08,79.58,0.17,1,0,others,19,1066.8,1584.96,1325.88,69,bluish-green,79.58,,Other
+nicaragua,275,2015,6.92,6.92,7,7.42,7.25,7,10,10,10,7,79.5,0.12,0,0,green,6,1050,1050,1050,69,green,79.5,Caturra,Natural / Dry
+taiwan,10,2014,6.92,7,7.17,7,7.42,7,10,10,10,7,79.5,0,0,0,others,1,700,700,700,2,bluish-green,79.5,Typica,Natural / Dry
+colombia,250,2013,7.83,7.5,7.42,7.42,7.67,7.5,10,6.67,10,7.5,79.5,0,0,0,green,2,1550,1550,1550,70,green,79.5,Caturra,Washed / Wet
+mexico,250,2012,7.25,7.08,6.92,7.25,7.58,7.08,9.33,10,10,7,79.5,0.12,1,0,green,20,1550,1550,1550,1,green,79.5,Caturra,Washed / Wet
+mexico,127,2012,7.25,7.33,7,7.25,7.17,7.17,9.33,10,10,7,79.5,0.12,0,0,bluish-green,5,1100,1100,1100,1,bluish-green,79.5,Typica,Washed / Wet
+guatemala,250,2013,7.08,7.33,7.25,7.58,7.33,7.42,9.33,9.33,9.33,7.42,79.42,0.1,0,0,green,2,1219.2,1219.2,1219.2,69,green,79.42,Bourbon,Washed / Wet
+guatemala,275,2014,7.25,7.33,6.83,7,7,7.17,10,10,10,6.83,79.42,0.1,1,0,green,4,1219.2,1219.2,1219.2,69,green,79.42,Other,Washed / Wet
+mexico,10,2012,7,6.83,6.83,7.42,7.33,7.17,10,10,10,6.83,79.42,0.13,0,0,green,30,800,800,800,1,green,79.42,Typica,Washed / Wet
+cote d?ivoire,2,2016,7.42,7.25,6.83,7,7.33,7.08,9.33,10,10,7.08,79.33,0.13,1,0,bluish-green,2,200,200,200,1,bluish-green,79.33,,Washed / Wet
+colombia,250,2013,7.42,7.25,6.75,7.25,7.42,7.25,9.33,9.33,10,7.33,79.33,0,0,0,green,3,1200,1200,1200,3,green,79.33,Caturra,Washed / Wet
+mexico,30,2012,7,7,6.83,7.33,7.42,6.92,10,10,10,6.83,79.33,0.14,0,0,others,23,950,950,950,1,bluish-green,79.33,Typica,Washed / Wet
+mexico,50,2012,7.42,7.17,7.08,7.17,7.08,7.08,9.33,10,10,7,79.33,0.14,0,0,green,19,750,750,750,1,green,79.33,Typica,Washed / Wet
+guatemala,250,2012,7.17,6.5,6.33,7.25,7.58,7.33,10,10,10,7.17,79.33,0.11,0,0,green,6,others,others,others,1,green,79.33,Bourbon,Washed / Wet
+taiwan,50,2014,7.08,6.83,6.83,7.25,7.42,7.08,10,10,10,6.75,79.25,0.11,0,0,bluish-green,0,850,850,850,20,bluish-green,79.25,Typica,Washed / Wet
+mexico,12,2012,7,7,6.92,7.17,7.17,7.08,10,10,10,6.92,79.25,0.13,0,0,green,10,1000,1000,1000,1,green,79.25,Bourbon,Washed / Wet
+guatemala,50,2017,7.33,7.42,7.33,7.42,7.5,7.42,8.67,9.33,9.33,7.42,79.17,0.1,0,0,green,0,1219.2,1219.2,1219.2,69,green,79.17,Bourbon,Washed / Wet
+honduras,15,2017,7.58,7,6.75,6.92,7,6.92,10,10,10,7,79.17,0.11,0,0,green,5,1650,1650,1650,69,green,79.17,Catuai,Washed / Wet
+guatemala,250,2016,7.08,7,6.92,7.42,7,6.92,10,10,10,6.83,79.17,0.11,0,8,green,6,1320,1320,1320,69,green,79.17,Bourbon,Washed / Wet
+guatemala,275,2015,7.25,7.17,6.75,7.25,7,6.92,10,10,10,6.83,79.17,0.11,0,0,green,6,1300,1800,1550,69,green,79.17,Catuai,Washed / Wet
+costa rica,1,2012,7.17,7.42,7.5,8,7.25,7.83,10,10,6.67,7.33,79.17,0.1,5,0,others,20,others,others,others,2,bluish-green,79.17,Catuai,Washed / Wet
+mexico,10,2012,7.25,7.08,6.92,7.08,7.17,7.17,9.33,10,10,7.17,79.17,0.14,0,0,others,8,1550,1550,1550,1,bluish-green,79.17,Typica,Washed / Wet
+mexico,53,2012,7.17,6.92,6.92,7.08,7.17,7,10,10,10,6.92,79.17,0.14,0,0,green,34,1450,1450,1450,1,green,79.17,Typica,Washed / Wet
+mexico,250,2018,6.75,6.75,6.83,7.25,7.58,7.08,10,10,10,6.92,79.17,0.01,0,0,others,8,1200,1200,1200,6,bluish-green,79.17,Typica,Other
+guatemala,50,2017,7.58,7.67,7.42,7.42,7.67,7.67,8.67,8.67,8.67,7.67,79.08,0.1,0,0,green,1,1700,1700,1700,69,green,79.08,Bourbon,Washed / Wet
+united states (puerto rico),18,2013,7.42,7.08,6.75,7.33,7.33,6.92,10,9.33,10,6.92,79.08,0.13,0,0,green,0,853.44,853.44,853.44,5,green,79.08,Other,Washed / Wet
+mexico,13,2012,7.33,7,6.92,7.25,7.33,7.08,9.33,10,10,6.83,79.08,0.16,0,0,others,2,1500,1500,1500,1,bluish-green,79.08,Typica,Washed / Wet
+mexico,10,2012,7.25,7.08,6.75,7.33,7.42,7,9.33,10,10,6.92,79.08,0.11,0,0,green,45,1100,1100,1100,1,green,79.08,Mundo Novo,Washed / Wet
+mexico,10,2012,7.17,7.25,7.25,7.17,7.25,7.08,9.33,9.33,10,7.25,79.08,0.1,0,0,bluish-green,0,1200,1200,1200,1,bluish-green,79.08,Typica,Washed / Wet
+others,149,others,6.75,6.75,6.42,6.83,7.58,7.5,10,10,10,7.25,79.08,0.1,0,0,others,3,others,others,others,70,bluish-green,79.08,,Other
+guatemala,250,2014,7.33,7.17,6.58,7.42,7.08,6.83,10,10,10,6.58,79,0.12,0,0,green,3,1219.2,1219.2,1219.2,69,green,79,Other,Washed / Wet
+honduras,275,2014,7,7,7,7,7,7,10,10,10,7,79,0.11,0,0,green,12,1350,1350,1350,2,green,79,Pacas,Washed / Wet
+peru,280,2012,7.67,7.17,7.08,7.25,8,7.5,8.67,9.33,9.33,7,79,0,0,0,others,4,1400,1400,1400,69,bluish-green,79,Typica,Washed / Wet
+mexico,14,2012,6.75,7.08,6.67,7.25,7.17,7.08,10,10,10,7,79,0.12,0,0,others,12,1300,1300,1300,1,bluish-green,79,Mundo Novo,Natural / Dry
+mexico,16,2012,7.5,7.17,6.92,7.5,7.25,7,8.67,10,10,7,79,0.14,3,0,green,17,1550,1550,1550,1,green,79,Typica,Semi-washed / Semi-pulped
+mexico,120,2012,7.17,6.83,6.83,7.25,7.17,6.92,10,10,10,6.83,79,0.14,7,0,green,38,12,12,12,1,green,79,Typica,Washed / Wet
+mexico,250,2013,7.33,7,6.75,7.08,7.17,7.25,9.33,10,10,7,78.92,0.12,0,0,green,8,1300,1300,1300,1,green,78.92,Typica,Washed / Wet
+mexico,14,2012,7.5,7,6.92,7.08,6.92,6.75,10,10,10,6.75,78.92,0.16,0,0,others,0,1400,1400,1400,1,bluish-green,78.92,Typica,Washed / Wet
+nicaragua,1,2016,7.17,7,6.92,7,7,7,10,10,10,6.75,78.83,0.1,0,2,green,4,1100,1100,1100,1,green,78.83,Caturra,Other
+united states (hawaii),11,2013,7.5,6.92,6.92,7.25,7.58,7.42,9.33,9.33,9.33,7.17,78.75,0.12,5,0,green,8,others,others,others,2,green,78.75,,Natural / Dry
+guatemala,250,2013,7.33,7.08,6.33,7.25,7,7,10,10,10,6.75,78.75,0.12,1,0,green,8,1310.64,1310.64,1310.64,69,green,78.75,Bourbon,Washed / Wet
+mexico,20,2012,7.25,6.83,6.83,7,7.17,7,10,10,10,6.67,78.75,0.14,0,0,green,0,1320,1320,1320,1,green,78.75,Typica,Washed / Wet
+mexico,35,2012,7.25,7.33,7.17,7.25,7.08,7,8.67,10,10,7,78.75,0.14,0,0,others,0,1250,1250,1250,1,bluish-green,78.75,Typica,Semi-washed / Semi-pulped
+mexico,10,2012,7.67,7.17,6.83,7.33,7.58,7.17,9.33,10,8.67,7,78.75,0.12,0,0,others,0,1350,1350,1350,1,bluish-green,78.75,Bourbon,Washed / Wet
+china,1,2013,7,6.92,6.83,7.17,7.17,7.17,10,10,9.33,7.08,78.67,0,0,0,green,5,1850,1850,1850,2,green,78.67,Typica,Washed / Wet
+mexico,20,2012,6.92,6.92,6.67,7.25,7.17,6.92,10,10,10,6.83,78.67,0.13,0,0,others,2,1150,1150,1150,1,bluish-green,78.67,Caturra,Washed / Wet
+nicaragua,275,2016,7.08,7,6.75,6.83,7.08,6.92,10,10,10,6.92,78.58,0.1,1,5,green,7,others,others,others,69,green,78.58,,Other
+nicaragua,275,2014,6.83,7.08,6.92,6.75,7.25,7.08,10,10,10,6.67,78.58,0.11,1,0,green,1,others,others,others,2,green,78.58,,Natural / Dry
+guatemala,250,2014,7.33,7.17,6.92,7.58,7.25,7.17,8.67,9.33,10,7.17,78.58,0.12,0,0,green,3,1219.2,1219.2,1219.2,69,green,78.58,Other,Washed / Wet
+taiwan,50,2013,6.83,6.75,7.17,7.25,7,6.92,10,10,10,6.67,78.58,0.1,0,0,green,0,800,800,800,20,green,78.58,Typica,Washed / Wet
+mexico,250,2012,7,7,6.75,7.33,6.92,6.92,10,10,10,6.67,78.58,0.13,0,0,green,1,1400,1400,1400,1,green,78.58,Typica,Washed / Wet
+mexico,50,2012,7.92,7.58,7.58,7.92,7.92,7.5,8,6.67,10,7.5,78.58,0.1,0,0,others,1,1300,1300,1300,1,bluish-green,78.58,Typica,Washed / Wet
+united states (hawaii),8,others,7.92,6.83,7.08,7.42,6.75,7.33,8.67,9.33,10,7.25,78.58,0,0,0,others,0,others,others,others,100,bluish-green,78.58,,Other
+mexico,280,2014,7.25,6.75,6.92,6.92,7.25,7.58,9.33,9.33,10,7.17,78.5,0,0,0,green,0,1600,1600,1600,69,green,78.5,Bourbon,Washed / Wet
+mexico,10,2012,7.08,6.83,6.83,7,7,6.92,10,10,10,6.83,78.5,0.12,0,0,others,14,1400,1400,1400,1,bluish-green,78.5,Typica,Washed / Wet
+mexico,20,2012,7.25,7.17,7,6.83,7.58,7.08,8.67,10,10,6.92,78.5,0.13,1,0,green,3,1200,1200,1200,1,green,78.5,Caturra,Washed / Wet
+brazil,300,2014,6.83,7,6.92,7.08,6.92,6.83,10,10,10,6.83,78.42,0.12,3,0,green,4,others,others,others,60,green,78.42,Catuai,Natural / Dry
+mexico,10,2012,7.58,7.17,7,7.17,7.33,7,8,10,10,7.17,78.42,0.14,0,0,others,0,1500,1500,1500,1,bluish-green,78.42,Typica,Washed / Wet
+united states (hawaii),5,2014,7.5,7.75,7.58,7.83,7.92,7.92,7.33,8,8.67,7.83,78.33,0.1,0,0,bluish-green,0,others,others,others,100,bluish-green,78.33,Hawaiian Kona,Natural / Dry
+guatemala,275,2014,7.17,6.5,6.67,7,7.17,7.17,10,10,10,6.67,78.33,0.1,0,0,green,2,1219.2,1219.2,1219.2,69,green,78.33,Other,Washed / Wet
+guatemala,250,2012,7.17,7.17,6.5,7.17,7,6.83,10,10,10,6.5,78.33,0.11,1,0,green,4,1310.64,1310.64,1310.64,1,green,78.33,Bourbon,Washed / Wet
+mexico,100,2012,7.25,7.25,7,7.5,7.33,7.42,8,9.33,10,7.75,78.33,0.13,31,0,green,47,1300,1300,1300,1,green,78.33,Typica,Natural / Dry
+guatemala,250,2012,7.17,6.08,6.17,7.25,7.33,7.33,10,10,10,7,78.33,0.11,0,0,green,9,others,others,others,1,green,78.33,Bourbon,Washed / Wet
+united states (hawaii),18,2014,7.5,7.5,7.33,7.58,7.5,7.42,8.67,8.67,8.67,7.42,78.25,0.11,2,0,green,8,others,others,others,100,green,78.25,Hawaiian Kona,Natural / Dry
+united states (hawaii),5,2012,7.42,7.33,7.33,7.5,7.67,7.75,8,8.67,9.33,7.25,78.25,0.11,4,0,green,31,others,others,others,100,green,78.25,Hawaiian Kona,Natural / Dry
+indonesia,2,2016,6.92,6.83,6.92,6.92,6.92,6.83,10,10,10,6.83,78.17,0.13,0,0,others,1,1300,1300,1300,1,bluish-green,78.17,Java,Washed / Wet
+mexico,320,2012,7.08,6.83,6.67,7.25,7.25,6.92,10,9.33,10,6.75,78.08,0.11,0,0,green,3,1050,1050,1050,1,green,78.08,Typica,Washed / Wet
+taiwan,8,2016,7.5,7.08,7.33,7.17,7.5,7.5,6.67,10,10,7.25,78,0,3,0,green,4,650,650,650,10,green,78,Yellow Bourbon,Washed / Wet
+honduras,275,2014,6.83,7,6.67,7,7,6.83,10,10,10,6.67,78,0.11,2,0,green,6,1350,1350,1350,2,green,78,Pacas,Natural / Dry
+united states (hawaii),5,2014,7.58,7.33,7.5,7.42,7.5,7.33,8,8.67,9.33,7.33,78,0.12,2,0,green,3,others,others,others,100,green,78,Hawaiian Kona,Natural / Dry
+guatemala,275,2014,7.42,7.25,6.83,7.33,7,6.92,9.33,9.33,9.33,7.25,78,0.1,1,0,green,2,1219.2,1219.2,1219.2,69,green,78,Other,Washed / Wet
+china,16,2013,7.33,7.17,6.92,7.08,7.33,7,9.33,9.33,9.33,7.17,78,0.1,0,0,green,28,1200,1200,1200,2,green,78,Typica,Washed / Wet
+guatemala,250,2013,7,6.83,6.83,7.17,6.67,6.83,10,10,10,6.67,78,0.11,3,0,green,9,1310.64,1310.64,1310.64,69,green,78,Bourbon,Washed / Wet
+mexico,10,2012,7.25,7.33,7,7,7.25,7.08,10,10,8,7.08,78,0.12,2,0,green,7,850,850,850,1,green,78,Other,Washed / Wet
+colombia,202,others,7.42,7.17,7,7.17,7.67,7.17,8.67,9.33,9.33,7.08,78,0.1,1,0,green,3,others,others,others,70,green,78,,Other
+costa rica,250,2014,7.5,7.25,7.42,7,7.08,6.83,8.67,9.33,10,6.83,77.92,0.12,2,0,green,4,1200,1200,1200,1,green,77.92,Caturra,Washed / Wet
+mexico,50,2012,7.42,7.25,7,7,7.25,7.08,8,10,10,6.92,77.92,0.11,0,0,green,3,1248,1248,1248,1,green,77.92,Typica,Washed / Wet
+guatemala,250,2012,7.17,6.17,6.17,7.08,7.33,6.83,10,10,10,7.17,77.92,0.11,0,0,green,7,others,others,others,1,green,77.92,Bourbon,Washed / Wet
+nicaragua,275,2016,7.42,7,7,7.17,7.08,7,9.33,8.67,10,7.17,77.83,0.1,0,0,bluish-green,0,1000,1000,1000,69,bluish-green,77.83,,Other
+brazil,1,2014,7,6.75,6.67,6.83,7.08,6.83,10,10,10,6.67,77.83,0.11,0,0,others,2,others,others,others,5,bluish-green,77.83,,Washed / Wet
+guatemala,250,2013,7,6.83,6.67,7.17,6.83,6.83,10,10,10,6.5,77.83,0.11,0,0,green,2,1310.64,1310.64,1310.64,1,green,77.83,Bourbon,Washed / Wet
+taiwan,100,2012,7.17,6.75,6.58,7.33,7.33,7.17,9.33,9.33,10,6.67,77.67,0.11,0,0,bluish-green,0,750,800,775,10,bluish-green,77.67,Typica,Washed / Wet
+united states (hawaii),5,2013,7.58,7.67,7.58,7.67,7.42,7.42,9.33,9.33,6,7.58,77.58,0.12,1,0,green,5,others,others,others,100,green,77.58,,Natural / Dry
+mexico,23,2012,7.17,6.75,6.58,6.75,6.83,6.75,10,10,10,6.67,77.5,0.13,0,0,green,3,1300,1300,1300,1,green,77.5,Typica,Washed / Wet
+guatemala,250,2013,7.08,6.92,6.33,7,6.92,7,10,10,10,6.17,77.42,0.11,2,0,green,15,1310.64,1310.64,1310.64,1,green,77.42,Bourbon,Washed / Wet
+brazil,320,2017,7.5,7.33,7.42,7.58,7.58,6.92,8,8,10,7,77.33,0,0,0,green,3,890,890,890,60,green,77.33,Bourbon,Natural / Dry
+guatemala,275,2014,7.33,7,6.83,7.17,7.17,7.17,9.33,9.33,9.33,6.67,77.33,0.1,1,0,green,2,1219.2,1219.2,1219.2,69,green,77.33,Other,Washed / Wet
+mexico,10,2012,7.33,7,6.67,7,6.92,6.92,9.33,9.33,10,6.83,77.33,0.15,4,0,others,5,1500,1500,1500,1,bluish-green,77.33,Typica,Washed / Wet
+haiti,1,2013,6.83,6.83,6.83,6.75,6.92,6.92,9.33,10,10,6.83,77.25,0.1,0,0,others,1,400,1250,825,4,bluish-green,77.25,Typica,Washed / Wet
+united states (hawaii),9,2013,7.08,6.92,6.83,6.67,7.58,7.42,8.67,9.33,10,6.75,77.25,0.12,1,0,green,5,others,others,others,2,green,77.25,,Natural / Dry
+mexico,10,2012,7.08,7,7,7.25,7.33,7.25,8.67,8.67,10,6.92,77.17,0.12,1,0,green,11,1200,1200,1200,1,green,77.17,Other,Washed / Wet
+peru,275,2014,7.42,7.75,7.42,7.67,7.92,7.83,8.67,5.33,9.33,7.67,77,0,7,0,green,9,900,1500,1200,2,green,77,Caturra,Washed / Wet
+india,20,2016,7.67,7.33,7.17,6.67,7.17,7.42,9.33,10,6.67,7.42,76.83,0,0,7,green,0,others,others,others,50,green,76.83,,Natural / Dry
+mexico,250,2018,6.67,6.33,6.42,6.83,7,6.92,10,10,10,6.58,76.75,0,0,0,others,0,1200,1200,1200,6,bluish-green,76.75,Typica,Other
+guatemala,250,2012,6.42,6.5,6.5,7.33,6.33,6.92,10,10,10,6.5,76.5,0.12,0,0,others,4,others,others,others,2,bluish-green,76.5,Bourbon,Washed / Wet
+mexico,10,2012,7.17,6.58,6.58,7,7.25,6.58,9.33,9.33,10,6.58,76.42,0.13,0,0,green,14,1100,1100,1100,1,green,76.42,Typica,Washed / Wet
+guatemala,250,2012,7.5,7,6.83,7.5,7.17,7.33,8.67,8.67,8.67,7,76.33,0.11,0,0,green,8,1310.64,1310.64,1310.64,69,green,76.33,Bourbon,Washed / Wet
+guatemala,250,2011,6.17,6.5,6.5,7.17,7,6.83,10,10,10,6.17,76.33,0.11,0,0,others,5,others,others,others,2,bluish-green,76.33,Bourbon,Washed / Wet
+united states (hawaii),2,2014,7.25,7.08,6.83,7.17,7.33,6.83,8.67,8.67,9.33,7.08,76.25,0,0,0,green,0,others,others,others,100,green,76.25,Hawaiian Kona,Natural / Dry
+united states (hawaii),6,2013,7.5,7.33,7.33,7.58,7.67,7.25,8,8,8,7.5,76.17,0,0,0,bluish-green,3,others,others,others,100,bluish-green,76.17,,Natural / Dry
+mexico,11,2012,7.42,7,6.83,7.08,6.92,6.83,7.33,10,10,6.75,76.17,0.16,2,0,others,4,1400,1400,1400,1,bluish-green,76.17,Typica,Washed / Wet
+indonesia,15,2011,7.33,7,6.5,6.08,7.58,6.33,9.33,10,9.33,6.67,76.17,0.12,4,0,others,26,3500,3500,3500,2,bluish-green,76.17,Other,Natural / Dry
+mexico,20,2012,7.08,6.83,6.83,7.17,7.17,7.08,10,7.33,10,6.58,76.08,0.12,0,0,green,12,1250,1250,1250,1,green,76.08,Bourbon,Washed / Wet
+honduras,275,2014,6.83,6.83,6.67,6.83,7,6.83,9.33,8.67,10,7,76,0.11,0,0,green,7,1350,1350,1350,2,green,76,Pacas,Natural / Dry
+philippines,1,2012,6.83,6.5,6.5,6.92,6.75,7,9.33,10,9.33,6.67,75.83,0.12,0,0,green,2,1000,1000,1000,2,green,75.83,,Washed / Wet
+brazil,440,2017,7.17,7,6.83,7.5,7.17,7,8,8,10,7,75.67,0.11,0,1,green,6,others,others,others,59,green,75.67,,Natural / Dry
+guatemala,250,2012,7.92,7.58,7.17,7.58,7.33,7.17,8,8,8,6.83,75.58,0.11,0,0,green,15,1310.64,1310.64,1310.64,1,green,75.58,Bourbon,Washed / Wet
+guatemala,250,2012,6.67,6.5,6.33,7,7.17,6.75,8.67,10,10,6.5,75.58,0.12,0,0,others,10,others,others,others,1,bluish-green,75.58,Bourbon,Washed / Wet
+mexico,10,2012,7.5,7.25,6.92,7,7.17,6.83,8,8,10,6.83,75.5,0.11,4,0,green,20,1100,1100,1100,1,green,75.5,Pacamara,Washed / Wet
+mexico,100,2012,7.17,6.92,6.67,6.83,7.25,7.75,10,6,10,6.58,75.17,0.11,0,0,green,20,1200,1200,1200,1,green,75.17,Mundo Novo,Washed / Wet
+mexico,36,2012,7.25,6.83,6.67,7.08,7.17,6.83,10,6.67,10,6.67,75.17,0.12,0,0,others,8,1100,1100,1100,1,bluish-green,75.17,Other,Washed / Wet
+mexico,18,2012,7.17,7.17,6.83,7.17,7.42,6.67,8.67,7.33,10,6.75,75.17,0.13,23,0,bluish-green,29,1280,1280,1280,1,bluish-green,75.17,Typica,Washed / Wet
+mexico,43,2012,7,6.92,6.75,6.92,7.17,6.83,10,6.67,10,6.75,75,0.14,15,0,green,7,850,850,850,1,green,75,Typica,Washed / Wet
+mexico,14,2012,7.08,6.75,6.58,7,7,6.75,8.67,8.67,10,6.42,74.92,0.17,0,0,others,6,1500,1500,1500,1,bluish-green,74.92,Typica,Washed / Wet
+mexico,20,2012,7.33,6.75,6.67,7.25,7.5,7,10,5.33,10,7,74.83,0.12,0,0,green,30,1250,1250,1250,1,green,74.83,Typica,Washed / Wet
+guatemala,250,2012,6.75,6.5,6.17,7,7.25,6.75,8,10,10,6.33,74.75,0.11,0,0,others,8,others,others,others,1,bluish-green,74.75,Bourbon,Washed / Wet
+guatemala,250,2012,6.75,6.67,6.17,7.17,7,6.58,8,10,10,6.42,74.75,0.11,0,0,others,10,others,others,others,1,bluish-green,74.75,Bourbon,Washed / Wet
+mexico,275,2013,7.08,7,6.83,7.5,7.33,6.83,8,7.33,10,6.75,74.67,0.12,0,0,green,7,1700,1700,1700,1,green,74.67,Typica,Washed / Wet
+united states (hawaii),3,2014,7.5,7.25,7,7.25,7.42,7.33,8,8.67,6.67,7.33,74.42,0,1,0,bluish-green,2,others,others,others,100,bluish-green,74.42,Hawaiian Kona,Natural / Dry
+guatemala,250,2013,6.5,6.33,6.5,7.5,7.33,6.83,8.67,10,8.67,6,74.33,0.11,1,0,green,1,1310.64,1310.64,1310.64,69,green,74.33,Bourbon,Washed / Wet
+mexico,20,2012,7,6.58,6.67,6.83,7.08,6.83,10,6.67,10,6.67,74.33,0.14,3,0,green,11,1140,1140,1140,1,green,74.33,Typica,Washed / Wet
+mexico,100,2012,6.92,6.42,6.17,7.33,7.25,6.75,10,6.67,10,6.5,74,0.13,0,0,others,27,1200,1200,1200,1,bluish-green,74,Typica,Washed / Wet
+mexico,20,2012,7.67,7,7.17,7.58,7.33,7.33,10,2.67,10,7.08,73.83,0.12,0,0,green,19,1250,1250,1250,1,green,73.83,Typica,Washed / Wet
+united states (hawaii),22,2012,7.17,7.17,7.17,7.58,7.67,6.92,9.33,6.67,6.67,7.33,73.67,0,9,0,others,17,others,others,others,100,bluish-green,73.67,Hawaiian Kona,Natural / Dry
+brazil,300,2016,7.25,6.58,6.58,7,7,6.42,8,8,10,6.67,73.5,0.11,0,1,green,0,others,others,others,60,green,73.5,,Other
+honduras,275,2014,7,7.17,6.83,7.17,7,7.17,8,8,8,7.08,73.42,0.11,1,0,green,16,1350,1350,1350,2,green,73.42,Pacas,Washed / Wet
+mexico,280,2014,7.08,7.08,6.92,7.08,6.92,6.92,8,8,8,6.92,72.92,0,1,0,others,1,1200,1200,1200,69,bluish-green,72.92,Typica,Washed / Wet
+colombia,1,2013,8,7.33,7.75,7.33,7.42,7.67,6.67,6.67,6.67,7.33,72.83,0,0,0,bluish-green,15,others,others,others,5,bluish-green,72.83,,Natural / Dry
+united states (hawaii),11,2014,6.92,6.92,6.92,7.5,7.58,7.17,6.67,6.67,9.33,6.92,72.58,0.11,5,0,green,9,others,others,others,100,green,72.58,Hawaiian Kona,Natural / Dry
+haiti,85,2010,6.92,6.75,7.08,7.17,7.33,6.67,10,5.33,8.67,6.42,72.33,0.08,1,0,others,0,640,1400,1020,130,bluish-green,72.33,,Other
+costa rica,250,2014,6.33,6.5,6.33,6.83,6.33,6.5,10,6.67,10,6.25,71.75,0.11,0,0,green,7,1200,1200,1200,1,green,71.75,Caturra,Washed / Wet
+mexico,10,2012,6.92,6.92,6.92,6.92,7.17,7,10,2.67,10,6.58,71.08,0.12,4,0,green,24,800,800,800,1,green,71.08,Mundo Novo,Washed / Wet
+mexico,25,2012,6.5,6.67,6.42,7.17,7.33,6.5,8,6,10,6.42,71,0.11,0,0,green,0,1800,1800,1800,1,green,71,Bourbon,Washed / Wet
+mexico,280,2014,6.92,7,6.83,6.92,7.42,6.92,6,6,10,6.75,70.75,0.12,0,0,green,1,1000,1000,1000,2,green,70.75,Typica,Washed / Wet
+brazil,305,2017,7,7,6.83,7,7.33,6.83,6,6,10,6.67,70.67,0.11,0,1,green,55,others,others,others,59,green,70.67,,Natural / Dry
+honduras,275,2014,6.67,6.5,6.17,6.67,6.83,6.17,8,8,8,6.33,69.33,0.1,0,0,green,4,1450,1450,1450,1,green,69.33,Catuai,Washed / Wet
+honduras,275,2014,7,6.17,6.17,6.67,6.5,6.17,8,8,8,6.5,69.17,0.1,0,0,green,3,1450,1450,1450,1,green,69.17,Catuai,Washed / Wet
+honduras,275,2014,7,6.33,6.17,6.5,6.67,6.17,8,8,8,6.33,69.17,0.1,0,0,green,4,1450,1450,1450,1,green,69.17,Catuai,Washed / Wet
+mexico,12,2012,7.08,6.83,6.25,7.42,7.25,6.75,10,0,10,6.75,68.33,0.11,0,0,others,20,900,900,900,1,bluish-green,68.33,Bourbon,Washed / Wet
+haiti,1,2012,6.75,6.58,6.42,6.67,7.08,6.67,9.33,6,6,6.42,67.92,0.14,8,0,bluish-green,16,350,350,350,2,bluish-green,67.92,Typica,Natural / Dry
+nicaragua,550,2016,7.25,6.58,6.33,6.25,6.42,6.08,6,6,6,6.17,63.08,0.13,1,0,green,5,1100,1100,1100,69,green,63.08,Caturra,Other
+guatemala,275,2012,7.5,6.67,6.67,7.67,7.33,6.67,8,1.33,1.33,6.67,59.83,0.1,0,0,green,4,1417.32,1417.32,1417.32,1,green,59.83,Catuai,Washed / Wet
+honduras,275,2017,0,0,0,0,0,0,0,0,0,0,0,0.12,0,0,green,2,1400,1400,1400,69,green,43.13,,Other
